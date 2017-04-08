@@ -50,6 +50,23 @@ Use the following keys:
 
 Array of genres, e.g. `"genres": ["Experimental", "Noise", "Rock"]`  
 
+For electronic-subgenres the styles from Discogs are used – [Electronic Styles](https://reference.discogslabs.com/browse/style). 
+
+In addition to that the following styles were added:
+
+-  8-Bit
+- Lo-Bit
+- Live
+- Warm
+- Melodic
+- Juke
+
+Don’t enter `Multiple Genres` or something similar – list the genres or leave it empty – `"genres": []`.
+
+### Description
+
+You can add a `description`-field to the label, e.g. `"description": "Monthly upbeat compilations"`
+
 ## Contribution
 
 **Before adding a netlabel please perform a search first to make sure it’s not already there.**
@@ -84,4 +101,3 @@ The following are other netlabel-related websites which could be used to extend 
 ## License
 
 [CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), [original list](https://github.com/dpnem/NetlabelList) by [dpnem](https://github.com/dpnem)
-
