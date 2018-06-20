@@ -7,7 +7,7 @@ Based on the list of [Acts of Silence](http://www.actsofsilence.com/netlabels/).
 
 The *Acts of Silence*-list contains unstructured data, which makes it hard to explore all netlabels which e.g. release *Experimental* music, er which are based in *France* – filtering is not possible.
 
-For this reason I have converted the original *Acts of Silence*-list to JSON-format – which makes it easy to build upon it, filter the results or create data visualisations with the it.
+For this reason I have converted the original *Acts of Silence*-list to JSON-format – which makes it easy to build upon, filter the results or create data visualisations with.
 
 ## Example Netlabel
 
