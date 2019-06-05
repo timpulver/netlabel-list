@@ -1,13 +1,13 @@
 # Netlabel-List
 
 List of netlabels (active and inactive) and their URLs.
-Based on the list of [Acts of Silence](http://www.actsofsilence.com/netlabels/).
+Based on the list of [Acts of Silence](http://www.actsofsilence.com/netlabels/) (offline).
 
 ### Why another list?
 
-The *Acts of Silence*-list contains unstructured data, which makes it hard to explore all netlabels which e.g. release *Experimental* music, er which are based in *France* – filtering is not possible.
+The *Acts of Silence*-list contains unstructured data, which makes it hard to explore all netlabels that e.g. release *Experimental* music, or that are based in *France*. Filtering is not possible.
 
-For this reason I have converted the original *Acts of Silence*-list to JSON-format – which makes it easy to build upon, filter the results or create data visualisations with.
+For this reason I have converted the original *Acts of Silence*-list to JSON-format, which makes it easy to build upon, filter the results or create data visualisations with.
 
 ## Example Netlabel
 
@@ -54,14 +54,14 @@ For electronic-subgenres the styles from Discogs are used – [Electronic Styles
 
 In addition to that the following styles were added:
 
--  8-Bit
+- 8-Bit
 - Lo-Bit
 - Live
 - Warm
 - Melodic
 - Juke
 
-Don’t enter `Multiple Genres` or something similar – list the genres or leave it empty – `"genres": []`.
+Don’t enter `Multiple Genres` or something similar. List the genres or leave it empty (`"genres": []`).
 
 ### Description
 
@@ -69,11 +69,11 @@ You can add a `description`-field to the label, e.g. `"description": "Monthly up
 
 ## Contribution
 
-**Before adding a netlabel please perform a search first to make sure it’s not already there.**
+**Before adding a netlabel please perform a search first to make sure it is not already in the list.**
 
 - Go to ` netlabel-list.json` and click on the pen-icon (`Edit this file`)
 - Add / edit / delete stuff
-- To make sure there were no errors, paste the complete file-content into [JSONLint](http://jsonlint.com/) – it will check if the file-format is still intact, when everything is okay, it should report `Valid JSON`
+- To make sure there were no errors, paste the complete file-content into [JSONLint](http://jsonlint.com/), it will check if the file-format is still intact. When everything is okay it should report `Valid JSON`.
 - Send a pull request
 
 ## Other Sources for Netlabel Information
