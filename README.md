@@ -63,7 +63,7 @@ Example:
 ],
 ```
   
-In contrast to traditional labels, which are mostly based in a single country, many netlabels are based in multiple countries.
+In contrast to traditional labels, which are mostly based in a single country, many netlabels are based in multiple countries.  
 *Please note:* Even if a label is associated only with *one* country, it must be specified as an Array to be consistent.
  
 ### Description
