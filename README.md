@@ -1,9 +1,9 @@
 # Netlabel-List
 
 List of netlabels (active and inactive) and their URLs.
-Based on the list of [Acts of Silence](http://www.actsofsilence.com/netlabels/) (offline).
+Based on [NetlabelList](https://github.com/nsorog/NetlabelList) / [Acts of Silence](http://www.actsofsilence.com/netlabels/) (offline) by [David Nemeth (dpnem)](https://github.com/dpnem).
 
-### Why another list?
+### Why another netlabel-list?
 
 The *Acts of Silence*-list contains unstructured data, which makes it hard to explore all netlabels that e.g. release *Experimental* music, or that are based in *France*. Filtering is not possible.
 
@@ -13,79 +13,144 @@ For this reason I have converted the original *Acts of Silence*-list to JSON-for
 
 ```
 {
+  "label_name": "Yarn Audio",
   "activity_state": "active",
-  "genres": "Experimental, Noise, Rock",
-  "label_name": "Dontrusttheruin",
+  "countries": [
+    "Germany"
+  ],
+  "genres": [
+    "Bass Music",
+    "House",
+    "Techno",
+    "Experimental",
+    "Ambient",
+    "Dark Ambient",
+    "Juke"
+  ],
   "urls": {
-    "rss": "http://dontrusttheruin.blogspot.com/feeds/posts/default?alt=rss",
-    "bandcamp": "https://dontrustheruin.bandcamp.com/",
-    "homepage": "http://dontrusttheruin.blogspot.com/",
-    "free_music_archive": "http://freemusicarchive.org/label/dontrustheruin/"
-  },
-  "country": "United States"
+    "bandcamp": "https://yarnaudio.bandcamp.com/",
+    "twitter": "https://twitter.com/YarnAudio",
+    "rss": "http://yarnaudio.com/feed",
+    "internet_archive": "https://archive.org/details/yarnaudio",
+    "facebook": "https://www.facebook.com/YarnAudio",
+    "soundcloud": "https://soundcloud.com/yarn-audio",
+    "homepage": "http://yarnaudio.com"
+  }
 }
 ```
 
 ## Fields
 
-`"activity_state"`: `"active"` or `"inactive"`   
-`"label_name"`: `"Dontrusttheruin"`  
-`"country"`: `"United States" `  
+### Label name
+Key: `label_name`
+Type: *String*
+Example.: `"Yarn Audio"`
 
-### URLs
+### Activity state
+Key: `activity_state`
+Type: *String*
+Value: Either `"active"` or `"inactive"`
+Example: `"active"`
 
-Use the following keys:  
-
-- "homepage" – e.g. http://fancylabel.com
-- "rss" – The RSS-feed, which people can subscribe to e.g. via [Feedly](https://feedly.com)
-- "bandcamp" – [Bandcamp](http://bandcamp.com/) profile
-- "soundcloud" – [Soundcloud](http://soundcloud.com/) profile
-- "free_music_archive" – [Free Music Archive](http://freemusicarchive.org/) profile
-- "sonicsquirrel" – [Sonicsquirrel](http://sonicsquirrel.net/) profile
-- "facebook" – [Facebook](https://www.facebook.com/) profile
-- "twitter" – [Twitter](https://twitter.com/) profile
-- "internet_archive" – [archive.org](https://archive.org/) profile
-- "instagram" - [Instagram](https://instagram.com) profile
+### Countries
+Key: `countries`
+Type: *Array<String>*
+Example:
+  
+```
+"countries": [
+  "Germany"
+],
+```
+  
+In contrast to traditional labels, which are mostly based in a single country, many netlabels are based in multiple countries.
+*Please note:* Even if a label is associated only with *one* country, it must be specified as an Array to be consistent.
+ 
+### Description
+Key: `description`
+Type: *String*
+Example: `"Monthly upbeat compilations"`
 
 ### Genres
+Key: `genres`
+Type: *Array<String>*
+Example:
+  
+```
+"genres": [
+  "Ambient",
+  "Bass Music",
+  "Experimental"
+]
+```
 
-Array of genres, e.g. `"genres": ["Experimental", "Noise", "Rock"]`  
-
-For electronic-subgenres the styles from Discogs are used – [Electronic Styles](https://reference.discogslabs.com/browse/style). 
+For electronic-subgenres the styles from Discogs are being used – [Electronic Styles](https://reference.discogslabs.com/browse/style).
 
 In addition to that the following styles were added:
 
-- 8-Bit
-- Lo-Bit
-- Live
-- Warm
-- Melodic
-- Juke
+- `"8-Bit"`
+- `"Lo-Bit"`
+- `"Live"`
+- `"Warm"`
+- `"Melodic"`
+- `"Juke"`
 
-Don’t enter `Multiple Genres` or something similar. List the genres or leave it empty (`"genres": []`).
+Don’t enter `"Multiple Genres"` or something similar. List the individual genres or leave it empty (`"genres": []`).
 
-### Description
 
-You can add a `description`-field to the label, e.g. `"description": "Monthly upbeat compilations"`
+### URLs
+Key: `urls`
+Type: *Object<String: String>*
+Example:
 
-## Contribution
+```
+"urls": {
+  "bandcamp": "https://yarnaudio.bandcamp.com/",
+  "twitter": "https://twitter.com/YarnAudio",
+  "rss": "http://yarnaudio.com/feed",
+  "internet_archive": "https://archive.org/details/yarnaudio",
+  "facebook": "https://www.facebook.com/YarnAudio",
+  "soundcloud": "https://soundcloud.com/yarn-audio",
+  "homepage": "http://yarnaudio.com"
+}
+```
 
-**Before adding a netlabel please perform a search first to make sure it is not already in the list.**
+#### URL keys
 
-- Go to ` netlabel-list.json` and click on the pen-icon (`Edit this file`)
+- `homepage`: Main website of the netlabel, for example `http://yarnaudio.com`
+- `rss`: RSS-feed, which people can subscribe to, for example `"http://yarnaudio.com/feed"`
+- `bandcamp`: [Bandcamp](http://bandcamp.com/) profile, for example `"https://yarnaudio.bandcamp.com/"`
+- `soundcloud`: [Soundcloud](http://soundcloud.com/) profile, for example `"https://soundcloud.com/yarn-audio"`
+- `free_music_archive`: [Free Music Archive](http://freemusicarchive.org/) profile, for example `"https://soundcloud.com/yarn-audio"`
+- `sonicsquirrel`: [Sonicsquirrel](http://sonicsquirrel.net/) profile, for example `"http://sonicsquirrel.net/detail/label/Yarn_Audio/"`
+- `facebook`: [Facebook](https://www.facebook.com/) profile, for example `"https://www.facebook.com/YarnAudio"`
+- `twitter` – [Twitter](https://twitter.com/) profile, for example `"https://twitter.com/YarnAudio"`
+- `internet_archive` – [archive.org](https://archive.org/) profile, for example `https://archive.org/details/yarnaudio`
+- `instagram` - [Instagram](https://instagram.com) profile, for example `"https://instagram.com/blocsonic"`
+
+## Contributions
+
+Contributions are very welcome!
+
+**Before adding a new netlabel please perform a search first to make sure it is not already in the list.**
+
+### How to make a contribution?
+
+- Open the netlabel list: [netlabels.json](https://github.com/timpulver/netlabel-list/blob/master/netlabels.json)
+- Click on the pen icon in the top right ("Edit this file")
 - Add / edit / delete stuff
-- To make sure there were no errors, paste the complete file-content into [JSONLint](http://jsonlint.com/), it will check if the file-format is still intact. When everything is okay it should report `Valid JSON`.
-- Send a pull request
+- To make sure your edits did not introduce any JSON syntax errors, copy and paste the complete file-contents into [JSONLint](http://jsonlint.com/). It will check if the file-format is still intact. When everything is okay it should report `Valid JSON`.
+- Click the "Commit changes" button below and send a pull request
 
 ## Other Sources for Netlabel Information
 
-The following are other netlabel-related websites which could be used to extend the list.
+The following list contains other netlabel-related websites which could be used to extend the list.
 
 ### Archive.org
 
-- Get infos in JSON-format about a specific release via `http://archive.org/metadata/yarn014`
+- Get infos in JSON-format about a specific release, for example [archive.org/metadata/yarn014](http://archive.org/metadata/yarn014) returns the information for a release with the identifier `yarn014`
 - Netlabel-Overview: [archive.org/details/netlabels?and[]=mediatype%3A%22collection%22](https://archive.org/details/netlabels?and[]=mediatype%3A%22collection%22)
-- They also have something like an API, which can be accessed here: [archive.org/advancedsearch.php#raw](https://archive.org/advancedsearch.php#raw)
+- Archive.org also offers something like an API, which can be accessed here: [archive.org/advancedsearch.php#raw](https://archive.org/advancedsearch.php#raw)
 
 ### Sonicsquirrel
 
@@ -101,4 +166,4 @@ The following are other netlabel-related websites which could be used to extend 
 
 ## License
 
-[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), [original list](https://github.com/dpnem/NetlabelList) by [dpnem](https://github.com/dpnem)
+[CC-BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/), by [Tim Pulver](https://timpulver.de/), based on [NetlabelList](https://github.com/nsorog/NetlabelList) / [Acts of Silence](http://www.actsofsilence.com/netlabels/) (offline) by [David Nemeth (dpnem)](https://github.com/dpnem) 
