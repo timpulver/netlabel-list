@@ -42,20 +42,20 @@ For this reason I have converted the original *Acts of Silence*-list to JSON-for
 ## Fields
 
 ### Label name
-Key: `label_name`
-Type: *String*
-Example.: `"Yarn Audio"`
+Key: `label_name`  
+Type: *String*  
+Example.: `"Yarn Audio"`  
 
 ### Activity state
-Key: `activity_state`
-Type: *String*
-Value: Either `"active"` or `"inactive"`
-Example: `"active"`
+Key: `activity_state`  
+Type: *String*  
+Value: Either `"active"` or `"inactive"`  
+Example: `"active"`   
 
 ### Countries
-Key: `countries`
-Type: *Array<String>*
-Example:
+Key: `countries`  
+Type: *Array<String>*  
+Example:    
   
 ```
 "countries": [
@@ -67,14 +67,14 @@ In contrast to traditional labels, which are mostly based in a single country, m
 *Please note:* Even if a label is associated only with *one* country, it must be specified as an Array to be consistent.
  
 ### Description
-Key: `description`
-Type: *String*
-Example: `"Monthly upbeat compilations"`
+Key: `description`  
+Type: *String*  
+Example: `"Monthly upbeat compilations"`  
 
 ### Genres
-Key: `genres`
-Type: *Array<String>*
-Example:
+Key: `genres`  
+Type: *Array<String>*  
+Example:  
   
 ```
 "genres": [
@@ -99,9 +99,9 @@ Don’t enter `"Multiple Genres"` or something similar. List the individual genr
 
 
 ### URLs
-Key: `urls`
-Type: *Object<String: String>*
-Example:
+Key: `urls`  
+Type: *Object<String: String>*  
+Example:  
 
 ```
 "urls": {
@@ -130,7 +130,7 @@ Example:
 
 ## Contributions
 
-Contributions are very welcome!
+Contributions are very welcome!  
 
 **Before adding a new netlabel please perform a search first to make sure it is not already in the list.**
 
