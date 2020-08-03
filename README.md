@@ -45,6 +45,7 @@ Use the following keys:
 - "facebook" – [Facebook](https://www.facebook.com/) profile
 - "twitter" – [Twitter](https://twitter.com/) profile
 - "internet_archive" – [archive.org](https://archive.org/) profile
+- "instagram" - [Instagram](https://instagram.com) profile
 
 ### Genres
 
