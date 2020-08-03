@@ -54,7 +54,7 @@ Example: `"active"`
 
 ### Countries
 Key: `countries`  
-Type: *Array<String>*  
+Type: *Array*  
 Example:    
   
 ```
@@ -73,7 +73,7 @@ Example: `"Monthly upbeat compilations"`
 
 ### Genres
 Key: `genres`  
-Type: *Array<String>*  
+Type: *Array*  
 Example:  
   
 ```
@@ -100,7 +100,7 @@ Don’t enter `"Multiple Genres"` or something similar. List the individual genr
 
 ### URLs
 Key: `urls`  
-Type: *Object<String: String>*  
+Type: *Object*  
 Example:  
 
 ```
