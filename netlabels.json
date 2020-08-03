@@ -807,6 +807,7 @@
     },
     {
       "urls": {
+        "instagram": "https://instagram.com/blocsonic",
         "free_music_archive": "http://freemusicarchive.org/curator/blocSonic/",
         "twitter": "https://twitter.com/blocsonic",
         "rss": "http://blocsonic.com/releases.rss",
@@ -816,7 +817,13 @@
       },
       "genres": [
         "Hip-Hop",
-        "Rock"
+        "Rock",
+        "Pop",
+        "Downtempo",
+        "Electronic",
+        "Indie",
+        "Hardcore",
+        "Avantgarde"
       ],
       "countries": [
         "United States"
