@@ -4256,6 +4256,20 @@
     },
     {
       "urls": {
+        "homepage": "https://squarefootsounds.com",
+        "rss": "https://squarefootsounds.com/feed/"
+      },
+      "genres": [
+        "Electronic"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "label_name": "Square Foot Sounds",
+      "activity_state": "active"
+    },
+    {
+      "urls": {
         "twitter": "https://twitter.com/stasisfield",
         "facebook": "https://www.facebook.com/stasisfieldnetlabel",
         "soundcloud": "https://soundcloud.com/stasisfield",
