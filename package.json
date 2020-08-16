@@ -1,0 +1,19 @@
+{
+  "name": "netlabel-list",
+  "version": "2.0.3",
+  "description": "List of netlabels (active and inactive) and their URLs. Based on [NetlabelList](https://github.com/nsorog/NetlabelList) / [Acts of Silence](http://www.actsofsilence.com/netlabels/) (offline) by [David Nemeth (dpnem)](https://github.com/dpnem).",
+  "scripts": {
+    "genres": "node scripts/list-genres",
+    "countries": "node scripts/list-countries"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timpulver/netlabel-list.git"
+  },
+  "author": "Tim Pulver",
+  "license": "CC BY-NC-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/timpulver/netlabel-list/issues"
+  },
+  "homepage": "https://github.com/timpulver/netlabel-list#readme"
+}
