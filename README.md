@@ -44,7 +44,7 @@ For this reason I have converted the original *Acts of Silence*-list to JSON-for
 ### Label name
 Key: `label_name`  
 Type: *String*  
-Example.: `"Yarn Audio"`  
+Example: `"Yarn Audio"`  
 
 ### Activity state
 Key: `activity_state`  
