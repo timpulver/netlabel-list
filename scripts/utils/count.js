@@ -17,7 +17,9 @@ const hasItem = item => {
 const pushItem = item => {
     if (hasItem(item)) {
         items.map(i => {
-            i.count += 1;
+            if (i.name === item) {
+                i.count += 1;
+            }
         });
     } else {
         items.push({ name: item, count: 1 });
