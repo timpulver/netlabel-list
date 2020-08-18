@@ -108,6 +108,7 @@ Example:
   "bandcamp": "https://yarnaudio.bandcamp.com/",
   "twitter": "https://twitter.com/YarnAudio",
   "rss": "http://yarnaudio.com/feed",
+  "release_rss": "http://example.com/release/feed",
   "internet_archive": "https://archive.org/details/yarnaudio",
   "facebook": "https://www.facebook.com/YarnAudio",
   "soundcloud": "https://soundcloud.com/yarn-audio",
@@ -118,7 +119,8 @@ Example:
 #### URL keys
 
 - `homepage`: Main website of the netlabel, for example `http://yarnaudio.com`
-- `rss`: RSS-feed, which people can subscribe to, for example `"http://yarnaudio.com/feed"`
+- `rss`: RSS feed, which people can subscribe to, for example `"http://yarnaudio.com/feed"`
+- `release_rss`: An RSS feed that only lists netlabel releases `"http://example.com/release/feed"`
 - `bandcamp`: [Bandcamp](http://bandcamp.com/) profile, for example `"https://yarnaudio.bandcamp.com/"`
 - `soundcloud`: [Soundcloud](http://soundcloud.com/) profile, for example `"https://soundcloud.com/yarn-audio"`
 - `free_music_archive`: [Free Music Archive](http://freemusicarchive.org/) profile, for example `"https://soundcloud.com/yarn-audio"`

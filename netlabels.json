@@ -3,8 +3,8 @@
   "copyright": "CC-BY-NC-SA 4.0",
   "copyright_url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
   "list_name": "Netlabel List",
-  "version": "2.0.3",
-  "updated": "2015-07-31",
+  "version": "2.0.4",
+  "updated": "2020-08-18",
   "netlabels": [
     {
       "urls": {
@@ -810,7 +810,7 @@
         "instagram": "https://instagram.com/blocsonic",
         "free_music_archive": "http://freemusicarchive.org/curator/blocSonic/",
         "twitter": "https://twitter.com/blocsonic",
-        "rss": "http://blocsonic.com/releases.rss",
+        "rss": "http://blocsonic.com/blog.rss",
         "facebook": "https://www.facebook.com/blocsonic",
         "soundcloud": "https://soundcloud.com/blocsonic",
         "homepage": "http://blocsonic.com/"
@@ -1547,6 +1547,7 @@
       "urls": {
         "twitter": "https://twitter.com/dustedwax",
         "rss": "http://dustedwax.org/rss/dwkfeed.xml",
+        "release_rss": "http://dustedwax.org/rss/dwkfeed.xml",
         "internet_archive": "https://archive.org/details/dustedwaxkingdom",
         "facebook": "https://www.facebook.com/dustedwaxkingdom",
         "soundcloud": "https://soundcloud.com/dustedwax",

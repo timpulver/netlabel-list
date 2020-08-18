@@ -1,6 +1,6 @@
 {
   "name": "netlabel-list",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "List of netlabels (active and inactive) and their URLs. Based on [NetlabelList](https://github.com/nsorog/NetlabelList) / [Acts of Silence](http://www.actsofsilence.com/netlabels/) (offline) by [David Nemeth (dpnem)](https://github.com/dpnem).",
   "scripts": {
     "genres": "node scripts/list-genres",
