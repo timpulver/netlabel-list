@@ -46,6 +46,7 @@
       "urls": {
         "twitter": "https://twitter.com/20kbps",
         "rss": "http://20kbps.sofapause.ch/rss/20kbps.xml",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=20kbps",
         "internet_archive": "https://archive.org/details/20kbps",
         "homepage": "http://20kbps.sofapause.ch/"
       },
@@ -142,6 +143,7 @@
         "free_music_archive": "https://freemusicarchive.org/label/8bitpeoples/",
         "twitter": "https://twitter.com/8bitpeoples",
         "rss": "http://www.8bitpeoples.com/news.xml",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=8bitpeoples",
         "internet_archive": "https://archive.org/details/8bitpeoples",
         "facebook": "https://www.facebook.com/8bitpeoples",
         "soundcloud": "https://soundcloud.com/8bitpeoples",
@@ -177,6 +179,7 @@
     {
       "urls": {
         "twitter": "https://twitter.com/amp_recs",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=amp_records",
         "internet_archive": "https://archive.org/details/amp_records",
         "facebook": "https://www.facebook.com/pages/AMP-RECS/358643621653",
         "soundcloud": "https://soundcloud.com/a-m-p-recs",
@@ -212,6 +215,7 @@
     {
       "urls": {
         "rss": "http://abandonmentlabel.blogspot.com/feeds/posts/default?alt=rss",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=abandonment",
         "internet_archive": "https://archive.org/details/abandonment",
         "facebook": "https://www.facebook.com/Abandonment.label/",
         "soundcloud": "https://soundcloud.com/abandonment-label",
@@ -232,7 +236,8 @@
       "urls": {
         "bandcamp": "https://abstraktreflections.bandcamp.com/",
         "twitter": "https://twitter.com/abstraktreflect",
-        "rss": "\"http://www.abstraktreflections.net/feed/'",
+        "rss": "http://www.abstraktreflections.net/feed/",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=abstrakt-reflections",
         "internet_archive": "https://archive.org/details/abstrakt-reflections",
         "facebook": "https://www.facebook.com/abstraktreflections",
         "soundcloud": "https://soundcloud.com/abstraktreflections",
@@ -338,6 +343,7 @@
     {
       "urls": {
         "rss": "http://www.alg-a.org/spip.php?page=backend",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=alga",
         "internet_archive": "https://archive.org/details/alga",
         "facebook": "https://www.facebook.com/alga.lab.9",
         "homepage": "http://www.alg-a.org/"
@@ -349,12 +355,13 @@
         "Spain"
       ],
       "label_name": "Alg-a",
-      "activity_state": "active"
+      "activity_state": "inactive"
     },
     {
       "urls": {
         "twitter": "https://twitter.com/Alkalinear",
         "rss": "http://alkalinearrecordings.tumblr.com/rss",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=alkalinear-recordings",
         "internet_archive": "https://archive.org/details/alkalinear-recordings",
         "facebook": "https://www.facebook.com/alkalinear.recordings",
         "soundcloud": "https://soundcloud.com/alkalinear-recordings",
@@ -389,7 +396,7 @@
     },
     {
       "urls": {
-        "rss": "https://archive.org/services/collection-rss.php?collection=alter-sonic-records",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=alter-sonic-records",
         "internet_archive": "https://archive.org/details/alter-sonic-records",
         "homepage": "http://www.alter-sonic.com/"
       },
@@ -436,6 +443,7 @@
       "urls": {
         "twitter": "https://twitter.com/annoyingbeatz",
         "rss": "http://www.annoying.pl/?feed=rss2",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=annoying-beatz-crew",
         "internet_archive": "https://archive.org/details/annoying-beatz-crew",
         "soundcloud": "https://soundcloud.com/groups/annoying-beatz-crew",
         "homepage": "http://www.annoying.pl/"
@@ -457,6 +465,7 @@
     {
       "urls": {
         "rss": "http://antzhill.interface1.net/feed/",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=antzhill",
         "internet_archive": "https://archive.org/details/antzhill",
         "facebook": "https://www.facebook.com/AntzhillZ",
         "homepage": "http://antzhill.interface1.net/"
@@ -505,6 +514,7 @@
       "urls": {
         "twitter": "https://twitter.com/aReWrecordings",
         "rss": "http://arewrecordings.blogspot.com/feeds/posts/default?alt=rss",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=aReWrecordings",
         "internet_archive": "https://archive.org/details/aReWrecordings",
         "facebook": "https://www.facebook.com/aReWrecordings",
         "soundcloud": "https://soundcloud.com/arew-recordings",
@@ -523,6 +533,7 @@
     {
       "urls": {
         "rss": "http://archaichorizon.com/rss",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=archaichorizon",
         "internet_archive": "https://archive.org/details/archaichorizon",
         "facebook": "https://www.facebook.com/archaichorizon",
         "soundcloud": "https://soundcloud.com/archaichorizon",
@@ -536,7 +547,7 @@
         "United States"
       ],
       "label_name": "Archaic Horizon",
-      "activity_state": "active"
+      "activity_state": "inactive"
     },
     {
       "urls": {
@@ -611,7 +622,7 @@
       "urls": {
         "bandcamp": "http://shop.audiotalaia.net/",
         "twitter": "https://twitter.com/audiotalaia",
-        "rss": "http://archive.org/services/collection-rss.php?collection=audiotalaia",
+        "release_rss": "http://archive.org/services/collection-rss.php?collection=audiotalaia",
         "internet_archive": "https://archive.org/details/audiotalaia",
         "facebook": "https://www.facebook.com/Audiotalaia",
         "soundcloud": "https://soundcloud.com/audiotalaia",
@@ -630,7 +641,8 @@
       "urls": {
         "bandcamp": "https://auditionrecords.bandcamp.com/",
         "twitter": "https://twitter.com/auditionrecords",
-        "rss": "view-source:http://www.auditionrecords.com/rss.xml",
+        "rss": "http://www.auditionrecords.com/rss.xml",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=audition-records",
         "internet_archive": "https://archive.org/details/audition-records",
         "facebook": "https://www.facebook.com/AuditionRecs",
         "soundcloud": "https://soundcloud.com/audition-records",
@@ -668,6 +680,7 @@
       "urls": {
         "twitter": "https://twitter.com/basic_sounds",
         "rss": "http://basicsounds.ca/rss",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=basic_sounds",
         "internet_archive": "https://archive.org/details/basic_sounds",
         "facebook": "https://www.facebook.com/basicsounds",
         "soundcloud": "https://soundcloud.com/basic_sounds",
@@ -717,6 +730,7 @@
       "urls": {
         "twitter": "https://twitter.com/BestiarNetlabel",
         "rss": "http://www.bestiar.org/feed/",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=bestiar-netlabel",
         "internet_archive": "https://archive.org/details/bestiar-netlabel",
         "facebook": "https://www.facebook.com/BestiarNetlabel",
         "homepage": "http://www.bestiar.org/"
@@ -735,6 +749,7 @@
       "urls": {
         "bandcamp": "https://bfwrecordings.bandcamp.com/",
         "twitter": "https://twitter.com/BFWrecordings",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=bfw-recordings",
         "internet_archive": "https://archive.org/details/bfw-recordings",
         "facebook": "https://www.facebook.com/bfwrecordings/info",
         "homepage": "http://www.bfwrecordings.com/"
@@ -756,6 +771,7 @@
       "urls": {
         "bandcamp": "https://bigwaverecords.bandcamp.com/",
         "twitter": "https://twitter.com/Big_Wave_Recs",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=bigwaverecords",
         "internet_archive": "https://archive.org/details/bigwaverecords",
         "facebook": "https://www.facebook.com/BigWaveRecs",
         "soundcloud": "https://soundcloud.com/big-wave-records",
@@ -884,6 +900,7 @@
       "urls": {
         "twitter": "https://twitter.com/DarthBuddha",
         "rss": "http://feeds.feedburner.com/Buddhistonfire",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=buddhistonfire",
         "internet_archive": "https://archive.org/details/buddhistonfire",
         "facebook": "https://www.facebook.com/buddhistonfire",
         "homepage": "http://buddhistonfire.com/"
@@ -903,7 +920,7 @@
     {
       "urls": {
         "twitter": "https://twitter.com/bumpfoot",
-        "rss": "http://www.bumpfoot.net/rss.xml",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=bumpfoot",
         "internet_archive": "https://archive.org/details/bumpfoot",
         "soundcloud": "https://soundcloud.com/bumpfoot",
         "homepage": "http://www.bumpfoot.net/"
@@ -944,6 +961,7 @@
     {
       "urls": {
         "twitter": "https://twitter.com/BushmenRecords",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=bushmen-records",
         "internet_archive": "https://archive.org/details/bushmen-records",
         "facebook": "https://www.facebook.com/bushmenrecords"
       },
@@ -977,6 +995,7 @@
     },
     {
       "urls": {
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=cajanegranetlabel",
         "internet_archive": "https://archive.org/details/cajanegranetlabel",
         "homepage": "http://cajanegra.weebly.com/"
       },
@@ -1058,7 +1077,7 @@
     {
       "urls": {
         "twitter": "https://twitter.com/CicutaNetlabel",
-        "rss": "http://archive.org/services/collection-rss.php?collection=cicuta-netlabel",
+        "release_rss": "http://archive.org/services/collection-rss.php?collection=cicuta-netlabel",
         "internet_archive": "https://archive.org/details/cicuta-netlabel",
         "facebook": "https://www.facebook.com/pages/Cicuta-Netlabel/176000859122503",
         "soundcloud": "https://soundcloud.com/cicutanetlabel",
@@ -1078,7 +1097,7 @@
         "free_music_archive": "http://freemusicarchive.org/label/Classwar_Karaoke/",
         "bandcamp": "https://classwarkaraoke.bandcamp.com/",
         "twitter": "https://twitter.com/ClasswarKaraoke",
-        "rss": "http://www.classwarkaraoke.com/feed/",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=classwar-karaoke",
         "internet_archive": "https://archive.org/details/classwar-karaoke",
         "facebook": "https://www.facebook.com/TheClasswarKaraoke",
         "soundcloud": "https://soundcloud.com/classwarkaraoke",
@@ -1181,6 +1200,7 @@
       "urls": {
         "bandcamp": "https://crazylanguage.bandcamp.com/",
         "twitter": "https://twitter.com/CrazyLanguage",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=crazy-language",
         "internet_archive": "https://archive.org/details/crazy-language",
         "facebook": "https://www.facebook.com/groups/128347793071/",
         "soundcloud": "https://soundcloud.com/crazy-language",
@@ -1198,7 +1218,7 @@
     {
       "urls": {
         "bandcamp": "https://crnazemljanetlabel.bandcamp.com/",
-        "rss": "https://archive.org/services/collection-rss.php?collection=crnazemlja",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=crnazemlja",
         "internet_archive": "https://archive.org/details/crnazemlja",
         "homepage": "http://crna-zemlja.blogspot.com/"
       },
@@ -1248,6 +1268,7 @@
     },
     {
       "urls": {
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=cyclene",
         "internet_archive": "https://archive.org/details/cyclene",
         "homepage": "http://www.cyclene.com/main/"
       },
@@ -1298,6 +1319,7 @@
         "bandcamp": "https://deathrootssyndicate.bandcamp.com/",
         "twitter": "https://twitter.com/DeathRoots",
         "rss": "http://www.deathroots.com/feed/",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=deathrootssyndicate",
         "internet_archive": "https://archive.org/details/deathrootssyndicate",
         "facebook": "https://www.facebook.com/DeathRootsSyndicate",
         "soundcloud": "https://soundcloud.com/deathrootssyndicate",
@@ -1321,6 +1343,7 @@
       "urls": {
         "twitter": "https://twitter.com/deepx",
         "rss": "http://www.deepxrec.com/feed/",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=deepxrec",
         "internet_archive": "https://archive.org/details/deepxrec",
         "facebook": "https://www.facebook.com/deepxrec",
         "homepage": "http://www.deepxrec.com/"
@@ -1368,6 +1391,7 @@
     {
       "urls": {
         "twitter": "https://twitter.com/gruener_wuerfel",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=derkleinegruenewuerfel",
         "internet_archive": "https://archive.org/details/derkleinegruenewuerfel",
         "facebook": "https://www.facebook.com/gruenerwuerfel",
         "soundcloud": "https://soundcloud.com/gruenerwuerfel",
@@ -1419,20 +1443,6 @@
     },
     {
       "urls": {
-        "internet_archive": "https://archive.org/details/dipsomaniac-records-netlabel",
-        "homepage": "https://archive.org/details/dipsomaniac-records-netlabel"
-      },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "label_name": "Dipsomania Records",
-      "activity_state": "active"
-    },
-    {
-      "urls": {
         "bandcamp": "https://disfish.bandcamp.com/",
         "facebook": "https://www.facebook.com/DiSfishRecords/info",
         "homepage": "https://disfish.bandcamp.com/"
@@ -1453,6 +1463,7 @@
     {
       "urls": {
         "twitter": "https://twitter.com/DIYchurch",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=diy-church",
         "internet_archive": "https://archive.org/details/diy-church",
         "homepage": "http://www.diychurch.org/"
       },
@@ -1468,6 +1479,7 @@
     {
       "urls": {
         "rss": "http://dna-production.org/feed/",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=dna-production",
         "internet_archive": "https://archive.org/details/dna-production",
         "homepage": "http://dna-production.org/"
       },
@@ -1516,7 +1528,8 @@
       "urls": {
         "bandcamp": "https://dubophonic.bandcamp.com/",
         "twitter": "https://twitter.com/Dubophonic",
-        "rss": "http://feeds.feedburner.com/Dub-o-phonic",
+        "rss": "http://feeds.feedburner.com/Dubophonic",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=dubophonic",
         "internet_archive": "https://archive.org/details/dubophonic",
         "facebook": "https://www.facebook.com/dubophonic",
         "soundcloud": "https://soundcloud.com/dub-o-phonic",
@@ -1570,6 +1583,7 @@
       "urls": {
         "twitter": "https://twitter.com/EarAlertRecords",
         "rss": "http://earalertrecords.blogspot.com/feeds/posts/default?alt=rss",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=ear-alert-records",
         "internet_archive": "https://archive.org/details/ear-alert-records",
         "facebook": "https://www.facebook.com/pages/Ear-Alert-Records-Netlabel/655837601149616",
         "homepage": "http://earalertrecords.blogspot.com/"
@@ -1581,7 +1595,7 @@
         "Indonesia"
       ],
       "label_name": "Ear Alert Records",
-      "activity_state": "active"
+      "activity_state": "inactive"
     },
     {
       "urls": {
@@ -1640,6 +1654,7 @@
         "bandcamp": "https://eugenekha1.bandcamp.com/music",
         "twitter": "https://twitter.com/45RPMrecords",
         "rss": "http://whiteartstudio.blogspot.com/feeds/posts/default?alt=rss",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=echoes-sounds-collection",
         "internet_archive": "https://archive.org/details/echoes-sounds-collection",
         "facebook": "https://www.facebook.com/egenekha",
         "soundcloud": "https://soundcloud.com/echoes-sounds",
@@ -1659,6 +1674,7 @@
       "urls": {
         "twitter": "https://twitter.com/ocp_pt_vu",
         "rss": "http://editoradoporto.blogspot.com/feeds/posts/default?alt=rss",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=editoradoporto",
         "internet_archive": "https://archive.org/details/editoradoporto",
         "facebook": "https://www.facebook.com/pages/EdP-Editora-do-Porto/202742546411662",
         "homepage": "http://editoradoporto.blogspot.com/"
@@ -1794,6 +1810,7 @@
       "urls": {
         "bandcamp": "https://enoughrec.bandcamp.com/",
         "twitter": "https://twitter.com/enoughrec",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=enough_records",
         "internet_archive": "https://archive.org/details/enough_records",
         "facebook": "https://www.facebook.com/enoughrec",
         "soundcloud": "https://soundcloud.com/enoughrec",
@@ -1908,6 +1925,7 @@
       "urls": {
         "bandcamp": "https://freefloatingmusic.bandcamp.com/",
         "rss": "http://www.freefloatingmusic.com/feed/",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=free-floating",
         "internet_archive": "https://archive.org/details/free-floating",
         "facebook": "https://www.facebook.com/freefloatingmusic",
         "homepage": "http://www.freefloatingmusic.com/"
@@ -1925,6 +1943,7 @@
       "urls": {
         "rss": "https://fusionnetlabel.wordpress.com/feed/",
         "internet_archive": "https://archive.org/details/fusion-netlabel",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=fusion-netlabel&query=%28Fusion%20Netlabel%29%20AND%20-mediatype%3Acollection",
         "facebook": "https://www.facebook.com/pages/Fusion-Netlabel/109987379063613",
         "soundcloud": "https://soundcloud.com/fusionnetlabel",
         "homepage": "https://fusionnetlabel.wordpress.com/"
@@ -1944,7 +1963,7 @@
       "urls": {
         "bandcamp": "https://fwonk.bandcamp.com/",
         "twitter": "https://twitter.com/fwonk",
-        "rss": "http://fwonk.co.uk/feed/",
+        "release_rss": "http://fwonk.co.uk/feed/",
         "internet_archive": "https://archive.org/details/fwonk",
         "facebook": "https://www.facebook.com/fwonknetlabel",
         "soundcloud": "https://soundcloud.com/fwonkrecords",
@@ -1961,6 +1980,7 @@
     },
     {
       "urls": {
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=galactic-intolerance-records",
         "internet_archive": "https://archive.org/details/galactic-intolerance-records",
         "facebook": "https://www.facebook.com/pages/Galactic-Intolerance-Records/146601288724943",
         "homepage": "https://archive.org/details/galactic-intolerance-records"
@@ -1998,11 +2018,9 @@
     {
       "urls": {
         "twitter": "https://twitter.com/garganrecords",
-        "rss": "http://www.garganrecords.com/releases.xml",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=gargan-records",
         "internet_archive": "https://archive.org/details/gargan-records",
-        "facebook": "https://www.facebook.com/garganrecords",
-        "soundcloud": "https://soundcloud.com/garganrecords",
-        "homepage": "http://www.garganrecords.com/"
+        "facebook": "https://www.facebook.com/garganrecords"
       },
       "genres": [
         "Techno",
@@ -2012,10 +2030,11 @@
         "Germany"
       ],
       "label_name": "Gargan Records",
-      "activity_state": "active"
+      "activity_state": "inactive"
     },
     {
       "urls": {
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=genetic-trance",
         "internet_archive": "https://archive.org/details/genetic-trance",
         "facebook": "https://www.facebook.com/groups/genetictrance/",
         "homepage": "https://twitter.com/VzielProjet"
@@ -2035,6 +2054,7 @@
     {
       "urls": {
         "twitter": "https://twitter.com/GHG_RECORDS",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=ghgrnetlabel",
         "internet_archive": "https://archive.org/details/ghgrnetlabel",
         "facebook": "https://www.facebook.com/GodHatesGodRecords",
         "homepage": "http://ghgr26.wix.com/godhatesgodrecords/"
@@ -2063,7 +2083,7 @@
     },
     {
       "urls": {
-        "rss": "http://gfrnetlabel.tumblr.com/rss",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=green-field-recordings",
         "internet_archive": "https://archive.org/details/green-field-recordings",
         "homepage": "http://greenfieldrecordings.yolasite.com/"
       },
@@ -2079,10 +2099,9 @@
     {
       "urls": {
         "twitter": "https://twitter.com/grimmgt",
-        "rss": "http://grimm-goatrecords.rhcloud.com/?feed=rss2",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=grimmgoat",
         "internet_archive": "https://archive.org/details/grimmgoat",
-        "facebook": "https://www.facebook.com/grimmgoat",
-        "homepage": "http://grimm-goatrecords.rhcloud.com/"
+        "facebook": "https://www.facebook.com/grimmgoat"
       },
       "genres": [
         "Experimental"
@@ -2096,6 +2115,7 @@
     {
       "urls": {
         "twitter": "https://soundcloud.com/groovecaffe",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=groovecaffe",
         "internet_archive": "https://archive.org/details/groovecaffe",
         "facebook": "https://www.facebook.com/groovecaffe",
         "homepage": "http://www.groovecaffe.com/"
@@ -2111,6 +2131,7 @@
     },
     {
       "urls": {
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=guforecords",
         "internet_archive": "https://archive.org/details/guforecords",
         "facebook": "https://www.facebook.com/pages/Gufo-Records/115071998570893",
         "soundcloud": "https://soundcloud.com/guforecords",
@@ -2128,6 +2149,7 @@
     {
       "urls": {
         "bandcamp": "https://gv-sound.bandcamp.com/",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=gvSound",
         "internet_archive": "https://archive.org/details/gvSound",
         "facebook": "https://www.facebook.com/GVSound",
         "homepage": "https://gv-sound.bandcamp.com/"
@@ -2148,6 +2170,7 @@
       "urls": {
         "twitter": "https://twitter.com/HAKLOFIRECORD",
         "rss": "http://hakrecords.blogspot.com/feeds/posts/default?alt=rss",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=haklofirecord",
         "internet_archive": "https://archive.org/details/haklofirecord",
         "soundcloud": "https://soundcloud.com/haklofirecord",
         "homepage": "http://hakrecords.blogspot.com/"
@@ -2163,6 +2186,7 @@
     },
     {
       "urls": {
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=happypuppy",
         "free_music_archive": "http://freemusicarchive.org/label/Happy_Puppy_Records/",
         "twitter": "https://twitter.com/LeeRosevere",
         "internet_archive": "https://archive.org/details/happypuppy",
@@ -2182,6 +2206,7 @@
     },
     {
       "urls": {
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=hazard_records",
         "internet_archive": "https://archive.org/details/hazard_records",
         "facebook": "https://www.facebook.com/pages/Hazard-Records/141642039220035",
         "homepage": "http://hazardrecords.mydocumenta.com/"
@@ -2199,10 +2224,9 @@
       "urls": {
         "bandcamp": "https://hazenetlabel.bandcamp.com/",
         "twitter": "https://twitter.com/HAZEnetlabel",
-        "rss": "http://h-a-z-e.org/feed",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=h-a-z-e",
         "internet_archive": "https://archive.org/details/h-a-z-e",
-        "facebook": "https://www.facebook.com/hazenetlabel",
-        "homepage": "http://h-a-z-e.org/"
+        "facebook": "https://www.facebook.com/hazenetlabel"
       },
       "genres": [
         "Experimental"
@@ -2229,7 +2253,7 @@
     },
     {
       "urls": {
-        "rss": "https://archive.org/services/collection-rss.php?collection=hortusconclususrecords",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=hortusconclususrecords",
         "internet_archive": "https://archive.org/details/hortusconclususrecords",
         "facebook": "https://www.facebook.com/pages/Hortus-Conclusus-Records/409457409260647",
         "soundcloud": "https://soundcloud.com/hortusconclususrecords",
@@ -2249,6 +2273,7 @@
     {
       "urls": {
         "twitter": "https://twitter.com/hujanrekords",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=hujanrekords",
         "internet_archive": "https://archive.org/details/hujanrekords",
         "facebook": "https://www.facebook.com/hujanrekords",
         "soundcloud": "https://soundcloud.com/hujanrekords",
@@ -2368,6 +2393,7 @@
     {
       "urls": {
         "twitter": "https://twitter.com/inoQuo",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=inoquo",
         "internet_archive": "https://archive.org/details/inoquo",
         "facebook": "https://www.facebook.com/inoquo",
         "soundcloud": "https://soundcloud.com/inoquo",
@@ -2421,6 +2447,7 @@
     {
       "urls": {
         "twitter": "https://twitter.com/ionosonderecord",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=ionosonde-recordings",
         "rss": "http://ionosonderec.blogspot.com/feeds/posts/default?alt=rss",
         "internet_archive": "https://archive.org/details/ionosonde-recordings",
         "homepage": "http://ionosonderec.webs.com/"
@@ -2432,7 +2459,7 @@
         "United States"
       ],
       "label_name": "ionosonde recordings",
-      "activity_state": "active"
+      "activity_state": "inactive"
     },
     {
       "urls": {
@@ -2455,7 +2482,7 @@
       "urls": {
         "bandcamp": "https://kahvicollective.bandcamp.com/",
         "twitter": "https://twitter.com/Kahvi",
-        "rss": "http://www.kahvi.org/rss.php",
+        "release_rss": "http://www.kahvi.org/rss.php",
         "facebook": "https://www.facebook.com/Kahvi.Collective.electronic.vibes",
         "homepage": "http://www.kahvi.org/"
       },
@@ -2470,8 +2497,8 @@
     },
     {
       "urls": {
-        "internet_archive": "https://archive.org/details/kaleidoscopiclabel",
-        "homepage": "http://www.kaleidoscopiclabel.net/"
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=kaleidoscopiclabel",
+        "internet_archive": "https://archive.org/details/kaleidoscopiclabel"
       },
       "genres": [
         "Electronic",
@@ -2489,6 +2516,7 @@
       "urls": {
         "twitter": "https://twitter.com/K30_Netlabel",
         "rss": "http://netlabel.kanaltigapuluh.info/feed/",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=kanal30-netlabel",
         "internet_archive": "https://archive.org/details/kanal30-netlabel",
         "facebook": "https://www.facebook.com/kanal30dotnet",
         "homepage": "http://netlabel.kanaltigapuluh.info/"
@@ -2555,6 +2583,7 @@
     {
       "urls": {
         "rss": "http://kovaydin.net/v3/?feed=rss2&langswitch_lang=en",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=kovaydin",
         "internet_archive": "https://archive.org/details/kovaydin",
         "facebook": "https://www.facebook.com/kovaydin.net",
         "homepage": "http://kovaydin.net/v3/"
@@ -2572,7 +2601,7 @@
     {
       "urls": {
         "twitter": "https://twitter.com/kreislauf_hh",
-        "rss": "https://kreislauf.org/feed/",
+        "release_rss": "https://kreislauf.org/feed/",
         "internet_archive": "https://archive.org/details/kreislauf",
         "facebook": "https://www.facebook.com/kreislauf.organization",
         "soundcloud": "https://soundcloud.com/kreislauf",
@@ -2589,6 +2618,7 @@
     },
     {
       "urls": {
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=krukrecords",
         "internet_archive": "https://archive.org/details/krukrecords",
         "facebook": "https://www.facebook.com/pages/KRUK-Records/715598781882428",
         "soundcloud": "https://soundcloud.com/kruk-records",
@@ -2609,7 +2639,7 @@
       "urls": {
         "bandcamp": "https://labelnetlabel.bandcamp.com/",
         "twitter": "https://twitter.com/Labelnetlabel",
-        "rss": "http://www.labelnetlabel.com/feed",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=labelnetlabel",
         "internet_archive": "https://archive.org/details/labelnetlabel",
         "facebook": "https://www.facebook.com/pages/La-b%C3%A8l/108790682495445",
         "soundcloud": "https://soundcloud.com/labelnetlabel",
@@ -2626,7 +2656,7 @@
     },
     {
       "urls": {
-        "rss": "http://www.laverna.net/rss.php",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=laverna",
         "internet_archive": "https://archive.org/details/laverna",
         "facebook": "https://www.facebook.com/Laverna.net",
         "homepage": "http://www.laverna.net/home.php"
@@ -2688,6 +2718,7 @@
     {
       "urls": {
         "bandcamp": "https://linearobsessional.bandcamp.com/",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=linear-obsessional-recordings",
         "internet_archive": "https://archive.org/details/linear-obsessional-recordings",
         "facebook": "https://www.facebook.com/pages/Linear-Obsessional-Recordings/282285131831007",
         "soundcloud": "https://soundcloud.com/linear-obsessional",
@@ -2741,7 +2772,7 @@
     },
     {
       "urls": {
-        "rss": "https://archive.org/services/collection-rss.php?collection=lostfrog",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=lostfrog",
         "internet_archive": "https://archive.org/details/lostfrog",
         "facebook": "https://www.facebook.com/lostfrogproductions",
         "homepage": "http://www.lostfrog.net/index.html"
@@ -2810,7 +2841,7 @@
     {
       "urls": {
         "bandcamp": "https://mahorka.bandcamp.com/",
-        "rss": "http://mahorka.org/feed",
+        "release_rss": "http://mahorka.org/feed",
         "internet_archive": "http://archive.org/details/mahorka",
         "facebook": "https://www.facebook.com/mahorka.org",
         "homepage": "http://mahorka.org/"
@@ -2845,7 +2876,7 @@
     {
       "urls": {
         "twitter": "https://twitter.com/MansardaRecords",
-        "rss": "https://mansardarecords.wordpress.com/feed/",
+        "release_rss": "https://mansardarecords.wordpress.com/feed/",
         "internet_archive": "https://archive.org/details/mansarda-records",
         "facebook": "https://www.facebook.com/pages/Mansarda-Records/397775263626705",
         "homepage": "https://mansardarecords.wordpress.com/"
@@ -2878,6 +2909,7 @@
     },
     {
       "urls": {
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=mav-records",
         "internet_archive": "https://archive.org/details/mav-records",
         "facebook": "https://www.facebook.com/groups/355790854479564/",
         "soundcloud": "https://soundcloud.com/mav-records-0kbps",
@@ -2912,6 +2944,7 @@
       "urls": {
         "twitter": "https://twitter.com/M_e_l_o_d_i_c_a",
         "rss": "http://melodica-netlabel.com/v2/?feed=rss2",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=melodicanetlabel",
         "internet_archive": "https://archive.org/details/melodicanetlabel",
         "facebook": "https://www.facebook.com/melodica.netlabel",
         "soundcloud": "https://soundcloud.com/melodicanetlabel",
@@ -2943,6 +2976,7 @@
     {
       "urls": {
         "twitter": "https://twitter.com/Miga_netlabel",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=miga",
         "internet_archive": "https://archive.org/details/miga",
         "facebook": "https://www.facebook.com/groups/47874524884/",
         "soundcloud": "https://soundcloud.com/miga",
@@ -2976,6 +3010,7 @@
       "urls": {
         "twitter": "https://twitter.com/mindblastworks",
         "rss": "http://mindblasting.wordpress.com/feed/",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=mindblasting",
         "internet_archive": "https://archive.org/details/mindblasting",
         "soundcloud": "https://soundcloud.com/mindblasting",
         "homepage": "https://mindblasting.wordpress.com/"
@@ -3011,6 +3046,7 @@
     {
       "urls": {
         "twitter": "https://twitter.com/Mixgalaxy",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=mixgalaxy-records",
         "internet_archive": "https://archive.org/details/mixgalaxy-records",
         "facebook": "https://www.facebook.com/mixgalaxyrecords",
         "soundcloud": "https://soundcloud.com/mixgalaxyrecords",
@@ -3029,6 +3065,7 @@
       "urls": {
         "bandcamp": "https://mnmn-rec.bandcamp.com/",
         "twitter": "https://twitter.com/MNMN_RECORDS",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=mnmnrecords",
         "internet_archive": "https://archive.org/details/mnmnrecords",
         "facebook": "https://www.facebook.com/MNMNrecords",
         "soundcloud": "https://soundcloud.com/mnmn_rec",
@@ -3063,7 +3100,7 @@
       "description": "Latin American artists",
       "urls": {
         "twitter": "https://twitter.com/modismonetlabel",
-        "rss": "https://archive.org/services/collection-rss.php?collection=modismo",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=modismo",
         "internet_archive": "https://archive.org/details/modismo",
         "facebook": "https://www.facebook.com/modismonetlabel",
         "soundcloud": "https://soundcloud.com/modismo-1",
@@ -3081,7 +3118,7 @@
     {
       "urls": {
         "twitter": "https://twitter.com/modisti",
-        "rss": "http://modisti.com/netlabel/?feed=rss2",
+        "release_rss": "http://modisti.com/netlabel/?feed=rss2",
         "internet_archive": "https://archive.org/details/modisti-label",
         "facebook": "https://www.facebook.com/pages/modisti/134516226540",
         "homepage": "http://modisti.com/netlabel/"
@@ -3098,7 +3135,7 @@
     {
       "urls": {
         "twitter": "https://twitter.com/Monofonicos",
-        "rss": "http://monofonicos.net/lanzamientos/feed/",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=monofonicos-netlabel",
         "internet_archive": "https://archive.org/details/monofonicos-netlabel",
         "facebook": "https://www.facebook.com/monofonicos",
         "soundcloud": "https://soundcloud.com/monofonicosnetlabel",
@@ -3115,7 +3152,7 @@
     },
     {
       "urls": {
-        "rss": "http://www.monokrak.net/feed/",
+        "release_rss": "http://www.monokrak.net/feed/",
         "internet_archive": "https://archive.org/details/monokrak",
         "facebook": "https://www.facebook.com/monoKraKnetlabel",
         "soundcloud": "https://soundcloud.com/monokrak-netlabel",
@@ -3151,6 +3188,7 @@
     {
       "urls": {
         "bandcamp": "https://murmureintemporel.bandcamp.com/",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=sillage-intemporel",
         "internet_archive": "https://archive.org/details/sillage-intemporel",
         "facebook": "https://www.facebook.com/grondesillage",
         "homepage": "https://murmureintemporel.bandcamp.com/"
@@ -3182,7 +3220,7 @@
     {
       "urls": {
         "bandcamp": "https://nakrikal.bandcamp.com/music",
-        "rss": "https://archive.org/services/collection-rss.php?collection=nakrikal",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=nakrikal",
         "internet_archive": "https://archive.org/details/nakrikal",
         "sonicsquirrel": "http://sonicsquirrel.net/detail/label/nakrikalrecords/1658",
         "homepage": "https://nakrikal.bandcamp.com/music"
@@ -3219,6 +3257,7 @@
       "urls": {
         "bandcamp": "https://nksinternational.bandcamp.com/",
         "twitter": "https://twitter.com/godscalpNKS",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=nks-international",
         "internet_archive": "https://archive.org/details/nks-international",
         "facebook": "https://www.facebook.com/pages/NKS-International-Muzakillabel/144651728945805",
         "soundcloud": "https://soundcloud.com/godscalpnks-3",
@@ -3236,6 +3275,7 @@
     {
       "urls": {
         "rss": "http://www.notype.com/drones/feed.e/nouvelles.rdf",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=notype",
         "internet_archive": "https://archive.org/details/notype",
         "homepage": "http://www.notype.com/drones/catalogue.e/notype/"
       },
@@ -3320,21 +3360,8 @@
     },
     {
       "urls": {
-        "internet_archive": "https://archive.org/details/netlabels",
-        "homepage": "https://archive.org/details/netlabels"
-      },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "United States"
-      ],
-      "label_name": "Nude Afraid",
-      "activity_state": "active"
-    },
-    {
-      "urls": {
         "twitter": "https://twitter.com/NulogicNetlabel",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=nulogic-netlabel",
         "internet_archive": "https://archive.org/details/nulogic-netlabel",
         "facebook": "https://www.facebook.com/groups/43786483299/",
         "soundcloud": "https://soundcloud.com/nulogic-netlabel",
@@ -3353,6 +3380,7 @@
     },
     {
       "urls": {
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=num-num-nah-records",
         "homepage": "https://archive.org/details/num-num-nah-records"
       },
       "genres": [
@@ -3370,6 +3398,7 @@
     {
       "urls": {
         "twitter": "https://twitter.com/o2label",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=o2label&query=%28o2%20label%29%20AND%20-mediatype%3Acollection",
         "internet_archive": "https://archive.org/details/o2label",
         "facebook": "https://www.facebook.com/pages/O2-label/158898897602885",
         "homepage": "http://o2label.ru/"
@@ -3385,6 +3414,7 @@
     },
     {
       "urls": {
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=onetwoseven",
         "internet_archive": "https://archive.org/details/onetwoseven",
         "homepage": "http://www.josso.co.uk/ots/"
       },
@@ -3499,6 +3529,7 @@
     {
       "urls": {
         "bandcamp": "https://parenthetical.bandcamp.com/",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=parentheticalrecords",
         "internet_archive": "https://archive.org/details/parentheticalrecords",
         "facebook": "https://www.facebook.com/parentheticalrecs",
         "homepage": "https://parenthetical.bandcamp.com/"
@@ -3514,11 +3545,11 @@
     },
     {
       "urls": {
-        "rss": "http://petroglyphmusic.com/feed/",
+        "bandcamp": "https://petroglyphmusic.bandcamp.com",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=petroglyph-music&query=%28petroglyph-music%29%20AND%20-mediatype%3Acollection",
         "internet_archive": "https://archive.org/details/petroglyph-music",
         "facebook": "https://www.facebook.com/PetroglyphMusicNetlabel",
-        "soundcloud": "https://soundcloud.com/petroglyph-music",
-        "homepage": "http://petroglyphmusic.com/"
+        "soundcloud": "https://soundcloud.com/petroglyph-music"
       },
       "genres": [
         "Ambient",
@@ -3536,6 +3567,7 @@
         "bandcamp": "https://phonocake.bandcamp.com/",
         "twitter": "https://twitter.com/phonocake",
         "internet_archive": "https://archive.org/details/phonocake",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=phonocake",
         "facebook": "https://www.facebook.com/phonocake",
         "soundcloud": "https://soundcloud.com/phonocake",
         "homepage": "http://phonocake.org/"
@@ -3553,11 +3585,10 @@
       "urls": {
         "bandcamp": "https://picpack.bandcamp.com/",
         "twitter": "https://twitter.com/pic_pack",
-        "rss": "http://picpack.org.ua/rss.xml",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=picpack-netlabel",
         "internet_archive": "https://archive.org/details/picpack-netlabel",
         "facebook": "https://www.facebook.com/pages/Picpack-label/130756020336618",
-        "soundcloud": "https://soundcloud.com/picpack",
-        "homepage": "http://picpack.org.ua/"
+        "soundcloud": "https://soundcloud.com/picpack"
       },
       "genres": [
         "Experimental"
@@ -3621,6 +3652,7 @@
     {
       "urls": {
         "twitter": "https://twitter.com/PlanetX_Records",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=planet-x-records",
         "internet_archive": "https://archive.org/details/planet-x-records",
         "facebook": "https://www.facebook.com/planetxrecords",
         "homepage": "http://www.planet-x-records.bplaced.net/"
@@ -3642,6 +3674,7 @@
     {
       "urls": {
         "rss": "http://plataformarecords.blogspot.com/feeds/posts/default?alt=rss",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=plataforma-records",
         "internet_archive": "https://archive.org/details/plataforma-records",
         "homepage": "http://plataformarecords.blogspot.com.br/"
       },
@@ -3674,6 +3707,7 @@
     {
       "urls": {
         "twitter": "https://twitter.com/post_global",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=post-global",
         "internet_archive": "https://archive.org/details/post-global",
         "facebook": "https://www.facebook.com/postglobalrecordings",
         "homepage": "http://www.post-global.com/"
@@ -3725,6 +3759,7 @@
     {
       "urls": {
         "bandcamp": "https://psy-dance-globalrecords.bandcamp.com/",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=psydanceglobal",
         "internet_archive": "https://archive.org/details/psydanceglobal",
         "facebook": "https://www.facebook.com/PsyDanceGlobalRecords",
         "soundcloud": "https://soundcloud.com/psy-dance-global",
@@ -3907,6 +3942,7 @@
     {
       "urls": {
         "twitter": "https://twitter.com/sfrecs",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=second-family-records",
         "internet_archive": "https://archive.org/details/second-family-records",
         "facebook": "https://www.facebook.com/pages/Second-Family-Records/91608373375",
         "soundcloud": "https://soundcloud.com/second-family-records",
@@ -3981,6 +4017,7 @@
     {
       "urls": {
         "rss": "http://signalsfromarkaim.blogspot.com/feeds/posts/default?alt=rss",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=signals-from-arkaim",
         "internet_archive": "https://archive.org/details/signals-from-arkaim",
         "facebook": "https://www.facebook.com/netlabelsignalsfromarkaim",
         "homepage": "http://signalsfromarkaim.blogspot.com/"
@@ -4015,7 +4052,8 @@
     {
       "urls": {
         "twitter": "https://twitter.com/Sirona_Records",
-        "rss": "http://archive.org/services/collection-rss.php?collection=sirona-records",
+        "release_rss": "http://archive.org/services/collection-rss.php?collection=sirona-records",
+        "internet_archive": "https://archive.org/details/sirona-records",
         "facebook": "https://www.facebook.com/sironarecords",
         "soundcloud": "https://soundcloud.com/sironarecords",
         "homepage": "http://www.sirona-records.com/"
@@ -4050,6 +4088,7 @@
         "bandcamp": "https://sociopathrecordings.bandcamp.com/",
         "twitter": "https://twitter.com/sociopathrecs",
         "rss": "http://www.sociopath-recordings.com/feeds/posts/default?alt=rss",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=sociopath-recordings&query=%28Sociopath%20Recordings%29%20AND%20-mediatype%3Acollection",
         "internet_archive": "https://archive.org/details/sociopath-recordings",
         "facebook": "https://www.facebook.com/sociopathrecordings",
         "soundcloud": "https://soundcloud.com/sociopath-recordings",
@@ -4104,6 +4143,7 @@
       "urls": {
         "bandcamp": "https://soisloscerdos.bandcamp.com/",
         "rss": "http://soisloscerdos.com/feed/",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=soisloscerdos-netlabel&query=%28Soisloscerdos%29%20AND%20-mediatype%3Acollection",
         "internet_archive": "https://archive.org/details/soisloscerdos-netlabel",
         "facebook": "https://www.facebook.com/soisloscerdos",
         "soundcloud": "https://soundcloud.com/soisloscerdos",
@@ -4154,6 +4194,7 @@
     },
     {
       "urls": {
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=sonidosanonimos",
         "internet_archive": "https://archive.org/details/sonidosanonimos",
         "homepage": "http://sonidosanonimos.blogspot.com/"
       },
@@ -4169,6 +4210,7 @@
     {
       "urls": {
         "twitter": "https://twitter.com/SOSTANZErec",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=sostanze-records",
         "internet_archive": "https://archive.org/details/sostanze-records",
         "facebook": "https://www.facebook.com/www.sostanzerecords.it",
         "soundcloud": "https://soundcloud.com/sostanzerecords",
@@ -4190,7 +4232,7 @@
         "free_music_archive": "http://freemusicarchive.org/label/southerncitylab/",
         "bandcamp": "http://store.southerncitylab.net/music",
         "twitter": "https://twitter.com/southerncitylab",
-        "rss": "http://www.southerncitylab.net/feeds/posts/default?alt=rss",
+        "release_rss": "http://www.southerncitylab.net/feeds/posts/default?alt=rss",
         "internet_archive": "https://archive.org/details/southern-citys-lab",
         "facebook": "https://www.facebook.com/southerncitylab",
         "soundcloud": "https://soundcloud.com/noisemaxim",
@@ -4207,6 +4249,7 @@
     },
     {
       "urls": {
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=speculations",
         "internet_archive": "https://archive.org/details/speculations",
         "facebook": "https://www.facebook.com/speculationseditions",
         "homepage": "http://speculationseditions.com/"
@@ -4225,6 +4268,7 @@
     {
       "urls": {
         "rss": "http://spettrorec.tumblr.com/rss",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=spettrorec",
         "internet_archive": "https://archive.org/details/spettrorec",
         "facebook": "https://www.facebook.com/spettrorec/",
         "soundcloud": "https://soundcloud.com/spettro-rec",
@@ -4292,6 +4336,7 @@
       "urls": {
         "twitter": "https://twitter.com/statoelettrico",
         "rss": "http://statoelettrico.net/netlabel/index.php/feed/",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=statoelettrico",
         "internet_archive": "https://archive.org/details/statoelettrico",
         "facebook": "https://www.facebook.com/statoelettrico",
         "soundcloud": "https://soundcloud.com/statoelettrico/",
@@ -4331,6 +4376,7 @@
         "bandcamp": "https://stillborntwinsrecords.bandcamp.com/",
         "twitter": "https://twitter.com/StillbornTwins",
         "rss": "http://stillborntwinssbt.tumblr.com/rss",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=stillborntwinsrecords",
         "internet_archive": "https://archive.org/details/stillborntwinsrecords",
         "facebook": "https://www.facebook.com/pages/Stillborntwins-SBT-Records/501240623257229",
         "homepage": "http://stillborntwinssbt.tumblr.com/"
@@ -4348,6 +4394,7 @@
       "urls": {
         "twitter": "https://twitter.com/StoneAgeRcrds",
         "rss": "http://stoneagerecords.blogspot.com/feeds/posts/default?alt=rss",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=stoneage-records",
         "internet_archive": "https://archive.org/details/stoneage-records",
         "facebook": "https://www.facebook.com/stoneage.rcrds",
         "homepage": "http://www.stoneagerecords.blogspot.com/"
