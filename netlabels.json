@@ -5005,7 +5005,7 @@
     {
       "urls": {
         "release_rss": "https://archive.org/services/collection-rss.php?collection=unlistenablemusic",
-        "internet_archive": "https://archive.org/details/unlistenablemusic",
+        "internet_archive": "https://archive.org/details/unlistenablemusic"
       },
       "genres": [
         "Experimental"
@@ -5216,7 +5216,7 @@
     {
       "urls": {
         "release_rss": "https://archive.org/services/collection-rss.php?collection=yip-records",
-        "internet_archive": "https://archive.org/details/yip-records",
+        "internet_archive": "https://archive.org/details/yip-records"
       },
       "genres": [
         "Experimental"
@@ -5329,6 +5329,7 @@
       "urls": {
         "scene_org": "http://scene.org/dir.php?dir=%2Fmusic%2Fgroups%2Fbmp%2Frohformat%2F"
       },
+      "label_name": "rohformat",
       "activity_state": "inactive"
     },
     {
@@ -5372,9 +5373,6 @@
         "internet_archive": "https://archive.org/details/001records"
       },
       "label_name": "001 records",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -5522,9 +5520,6 @@
         "internet_archive": "https://archive.org/details/abdicate_cell"
       },
       "label_name": "Abdicate Cell",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -5703,9 +5698,6 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "internet_archive": "https://archive.org/details/algorhythms"
       },
@@ -5745,9 +5737,6 @@
         "internet_archive": "https://archive.org/details/alpinechic"
       },
       "label_name": "alpinechic",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -5871,12 +5860,6 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "homepage": "http://www.another-record.com/en/"
       },
@@ -5909,9 +5892,6 @@
         "homepage": "http://www.arsonore.net/"
       },
       "label_name": "Arsonore",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -6045,9 +6025,6 @@
         "free_music_archive": "https://freemusicarchive.org/label/Bakery_Allstars/"
       },
       "label_name": "Bakery Allstars",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -6383,9 +6360,6 @@
         "internet_archive": "http://www.archive.org/details/cdc-communications"
       },
       "label_name": "Cult of the Dead Cow",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -6842,9 +6816,6 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "internet_archive": "https://archive.org/details/fuselab"
       },
@@ -7031,9 +7002,6 @@
         "homepage": "http://hexawe.net/"
       },
       "label_name": "Hexawe",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -7303,6 +7271,7 @@
       "urls": {
         "internet_archive": "https://archive.org/details/konkord"
       },
+      "label_name": "konkord",
       "activity_state": "inactive"
     },
     {
