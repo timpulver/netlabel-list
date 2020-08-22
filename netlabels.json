@@ -3,8 +3,8 @@
   "copyright": "CC-BY-NC-SA 4.0",
   "copyright_url": "http://creativecommons.org/licenses/by-nc-sa/4.0/",
   "list_name": "Netlabel List",
-  "version": "2.0.6",
-  "updated": "2020-08-18",
+  "version": "2.0.7",
+  "updated": "2020-08-21",
   "netlabels": [
     {
       "urls": {
@@ -4410,6 +4410,7 @@
     },
     {
       "urls": {
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=strangeguyrecords",
         "internet_archive": "https://archive.org/details/strangeguyrecords",
         "homepage": "http://vk.com/strangeguyrecords"
       },
@@ -4426,7 +4427,7 @@
     {
       "urls": {
         "twitter": "https://twitter.com/STRATODISCHI",
-        "rss": "http://stratodischi.blogspot.com/feeds/posts/default?alt=rss",
+        "release_rss": "http://stratodischi.blogspot.com/feeds/posts/default?alt=rss",
         "internet_archive": "https://archive.org/details/strato-dischi",
         "facebook": "https://www.facebook.com/pages/Strato-Dischi-Notlabel/193130984106760",
         "homepage": "http://stratodischi.blogspot.com/"
@@ -4444,6 +4445,7 @@
     },
     {
       "urls": {
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=strayrecordings",
         "bandcamp": "https://strayrecordings.bandcamp.com/",
         "internet_archive": "https://archive.org/details/strayrecordings",
         "homepage": "http://vamp.lart.me/~ade/music/sr/index.html"
@@ -4502,11 +4504,10 @@
       "urls": {
         "bandcamp": "https://subwise.bandcamp.com/",
         "twitter": "https://twitter.com/subwise",
-        "rss": "https://archive.org/services/collection-rss.php?collection=subwise-label",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=subwise-label",
         "internet_archive": "https://archive.org/details/subwise-label",
         "facebook": "https://www.facebook.com/pages/Subwise/150721244987775",
-        "soundcloud": "https://soundcloud.com/subwise",
-        "homepage": "https://archive.org/details/subwise-label"
+        "soundcloud": "https://soundcloud.com/subwise"
       },
       "genres": [
         "Ambient",
@@ -4522,6 +4523,8 @@
       "urls": {
         "twitter": "https://twitter.com/SucuMusic",
         "rss": "http://sucumusic.weebly.com/1/feed",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=sucumusic",
+        "internet_archive": "https://archive.org/details/sucumusic",
         "soundcloud": "https://soundcloud.com/sucu-music",
         "homepage": "http://sucumusic.weebly.com/-home"
       },
@@ -4555,7 +4558,7 @@
       "urls": {
         "bandcamp": "http://shop.sunstation.ru/",
         "twitter": "https://twitter.com/sunstationrec",
-        "rss": "http://sunstation.ru/feed/",
+        "release_rss": "http://sunstation.ru/feed/",
         "facebook": "https://www.facebook.com/sunstationrecords",
         "soundcloud": "https://soundcloud.com/sunstation",
         "homepage": "http://sunstation.ru/"
@@ -4581,7 +4584,7 @@
         "Spain"
       ],
       "label_name": "Superssonica",
-      "activity_state": "active"
+      "activity_state": "inactive"
     },
     {
       "urls": {
@@ -4589,9 +4592,9 @@
         "bandcamp": "https://surrism-phonoethics.bandcamp.com/",
         "twitter": "https://twitter.com/Phonoethics",
         "rss": "http://surrism.phonoethics.com/feed/",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=surrism-phonoethics",
         "internet_archive": "https://archive.org/details/surrism-phonoethics",
-        "soundcloud": "https://soundcloud.com/surrism-phonoethics",
-        "homepage": "http://surrism.phonoethics.com/"
+        "soundcloud": "https://soundcloud.com/surrism-phonoethics"
       },
       "genres": [
         "Experimental"
@@ -4606,6 +4609,7 @@
       "urls": {
         "twitter": "https://twitter.com/susuultrarock",
         "rss": "http://susuultrarockrecords.com/feed/",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=susuultrarockrecords",
         "internet_archive": "https://archive.org/details/susuultrarockrecords",
         "homepage": "http://susuultrarockrecords.com/"
       },
@@ -4621,6 +4625,7 @@
     {
       "urls": {
         "rss": "https://netlabeltachyon.wordpress.com/feed/",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=tachyon-netlabel",
         "internet_archive": "https://archive.org/details/tachyon-netlabel",
         "soundcloud": "https://soundcloud.com/tachyonnetlabel",
         "homepage": "https://netlabeltachyon.wordpress.com/"
@@ -4636,6 +4641,7 @@
     },
     {
       "urls": {
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=talesaboutnothing",
         "internet_archive": "https://archive.org/details/talesaboutnothing",
         "homepage": "http://talesaboutnothing.jimdo.com/"
       },
@@ -4653,6 +4659,7 @@
         "bandcamp": "https://tapesafe.bandcamp.com/",
         "twitter": "https://twitter.com/tape_safe",
         "rss": "http://www.tape-safe.net/feeds/posts/default?alt=rss",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=tapesafe",
         "internet_archive": "https://archive.org/details/tapesafe",
         "facebook": "https://www.facebook.com/TapeSafe",
         "soundcloud": "https://soundcloud.com/tape-safe",
@@ -4671,6 +4678,7 @@
       "urls": {
         "twitter": "https://twitter.com/TECHKILLA_Recs",
         "rss": "http://techkilla.blogspot.com/feeds/posts/default?alt=rss",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=techkilla",
         "internet_archive": "https://archive.org/details/techkilla",
         "facebook": "https://www.facebook.com/techkilla.recs/",
         "soundcloud": "https://soundcloud.com/techkilla",
@@ -4707,6 +4715,7 @@
         "bandcamp": "https://temiongrecordings.bandcamp.com/",
         "twitter": "https://twitter.com/temiongrec",
         "rss": "http://temiongrecordings.tumblr.com/rss",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=temiong-recordings",
         "internet_archive": "https://archive.org/details/temiong-recordings",
         "facebook": "https://www.facebook.com/temiongrecordings",
         "soundcloud": "https://soundcloud.com/temiong-recordings",
@@ -4724,7 +4733,6 @@
     },
     {
       "urls": {
-        "rss": "http://www.teque-nique.net/feed/",
         "facebook": "https://www.facebook.com/tequenique.netlabel",
         "soundcloud": "https://soundcloud.com/teque-nique-netlabel",
         "homepage": "http://www.teque-nique.net/"
@@ -4740,7 +4748,7 @@
     },
     {
       "urls": {
-        "rss": "http://tharoop.blogspot.com/feeds/posts/default?alt=rss",
+        "release_rss": "http://tharoop.blogspot.com/feeds/posts/default?alt=rss",
         "homepage": "http://tharoop.blogspot.com/"
       },
       "genres": [
@@ -4762,7 +4770,7 @@
     {
       "urls": {
         "bandcamp": "https://this-side.bandcamp.com/",
-        "rss": "http://www.this-side.net/rss",
+        "release_rss": "http://www.this-side.net/rss",
         "internet_archive": "https://archive.org/details/thissidemusic",
         "facebook": "https://www.facebook.com/this.side.music",
         "soundcloud": "https://soundcloud.com/this-side",
@@ -4814,6 +4822,7 @@
         "bandcamp": "https://tornfleshrecords.bandcamp.com/",
         "twitter": "https://twitter.com/TornFleshRecs",
         "facebook": "https://www.facebook.com/tornfleshrecords",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=tornfleshrecords",
         "homepage": "https://archive.org/details/tornfleshrecords"
       },
       "genres": [
@@ -4864,6 +4873,7 @@
     {
       "urls": {
         "rss": "https://treetrunkrecords.wordpress.com/feed/",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=treetrunk",
         "internet_archive": "https://archive.org/details/treetrunk",
         "homepage": "https://treetrunkrecords.wordpress.com/"
       },
@@ -4881,6 +4891,7 @@
     {
       "description": "Csound",
       "urls": {
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=triceratupuz",
         "internet_archive": "https://archive.org/details/triceratupuz",
         "homepage": "http://triceratupuz.altervista.org/index_en.html"
       },
@@ -4896,7 +4907,7 @@
     },
     {
       "urls": {
-        "rss": "http://trucorecords.blogspot.com/feeds/posts/default?alt=rss",
+        "release_rss": "http://trucorecords.blogspot.com/feeds/posts/default?alt=rss",
         "facebook": "https://www.facebook.com/trucorecords",
         "soundcloud": "https://soundcloud.com/trucorecords",
         "homepage": "http://www.trucorecords.blogspot.com/"
@@ -4965,7 +4976,7 @@
     },
     {
       "urls": {
-        "rss": "http://archive.org/services/collection-rss.php?collection=unfoundsound",
+        "release_rss": "http://archive.org/services/collection-rss.php?collection=unfoundsound",
         "internet_archive": "https://archive.org/details/unfoundsound",
         "homepage": "http://unfoundsoundrecords.com/"
       },
@@ -4993,8 +5004,8 @@
     },
     {
       "urls": {
-        "internet_archive": "https://archive.org/details/unlistenablemusic",
-        "homepage": "https://archive.org/details/unlistenablemusic"
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=unlistenablemusic",
+        "internet_archive": "https://archive.org/details/unlistenablemusic"
       },
       "genres": [
         "Experimental"
@@ -5010,6 +5021,7 @@
         "bandcamp": "http://bc.unitedstudios.ru/",
         "twitter": "https://twitter.com/usc_em",
         "rss": "http://uscu.unitedstudios.ru/feeds/posts/default?alt=rss",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=usc-label",
         "internet_archive": "https://archive.org/details/usc-label",
         "facebook": "https://www.facebook.com/usc.music",
         "homepage": "http://unitedstudios.ru/"
@@ -5055,6 +5067,7 @@
         "bandcamp": "https://c-reider.bandcamp.com/",
         "twitter": "https://twitter.com/vuzhmusic",
         "rss": "http://www.vuzhmusic.com/blog/category/vuzh-music-news/feed/",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=vuzhmusic",
         "internet_archive": "https://archive.org/details/vuzhmusic",
         "soundcloud": "https://soundcloud.com/vuzhmusic",
         "homepage": "http://www.vuzhmusic.com/"
@@ -5070,6 +5083,7 @@
     },
     {
       "urls": {
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=wavelike",
         "internet_archive": "https://archive.org/details/wavelike",
         "homepage": "http://www.wavelike.net/"
       },
@@ -5087,6 +5101,7 @@
         "bandcamp": "https://weareallghosts.bandcamp.com/",
         "twitter": "https://twitter.com/weareall_ghosts",
         "rss": "http://www.weareallghosts.co.uk/feeds/posts/default?alt=rss",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=we-are-all-ghosts",
         "internet_archive": "https://archive.org/details/we-are-all-ghosts",
         "facebook": "https://www.facebook.com/WeAreAllGhostsNetlabel",
         "homepage": "http://www.weareallghosts.co.uk/"
@@ -5156,6 +5171,7 @@
         "bandcamp": "https://yarnaudio.bandcamp.com/",
         "twitter": "https://twitter.com/YarnAudio",
         "rss": "http://yarnaudio.com/feed",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=yarnaudio",
         "internet_archive": "https://archive.org/details/yarnaudio",
         "facebook": "https://www.facebook.com/YarnAudio",
         "soundcloud": "https://soundcloud.com/yarn-audio",
@@ -5182,6 +5198,7 @@
         "free_music_archive": "http://freemusicarchive.org/label/Yes_No_Wave/",
         "twitter": "https://twitter.com/yesnowave",
         "rss": "http://yesnowave.com/feed/",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=yesnowave",
         "internet_archive": "https://archive.org/details/yesnowave",
         "facebook": "https://www.facebook.com/yesnowave",
         "soundcloud": "https://soundcloud.com/yesnowave",
@@ -5198,8 +5215,8 @@
     },
     {
       "urls": {
-        "internet_archive": "https://archive.org/details/yip-records",
-        "homepage": "https://archive.org/details/yip-records"
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=yip-records",
+        "internet_archive": "https://archive.org/details/yip-records"
       },
       "genres": [
         "Experimental"
@@ -5261,6 +5278,7 @@
     {
       "urls": {
         "bandcamp": "https://zigurartists.bandcamp.com/",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=zigurartists",
         "internet_archive": "https://archive.org/details/zigurartists",
         "soundcloud": "https://soundcloud.com/zigurartists",
         "homepage": "http://www.zigurartists.com/"
@@ -5311,6 +5329,7 @@
       "urls": {
         "scene_org": "http://scene.org/dir.php?dir=%2Fmusic%2Fgroups%2Fbmp%2Frohformat%2F"
       },
+      "label_name": "rohformat",
       "activity_state": "inactive"
     },
     {
@@ -5354,9 +5373,6 @@
         "internet_archive": "https://archive.org/details/001records"
       },
       "label_name": "001 records",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -5504,9 +5520,6 @@
         "internet_archive": "https://archive.org/details/abdicate_cell"
       },
       "label_name": "Abdicate Cell",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -5685,9 +5698,6 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "internet_archive": "https://archive.org/details/algorhythms"
       },
@@ -5727,9 +5737,6 @@
         "internet_archive": "https://archive.org/details/alpinechic"
       },
       "label_name": "alpinechic",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -5853,12 +5860,6 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "homepage": "http://www.another-record.com/en/"
       },
@@ -5880,12 +5881,6 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "internet_archive": "https://archive.org/details/arhiva7"
       },
@@ -5900,9 +5895,6 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "sonicsquirrel": "http://sonicsquirrel.net/detail/label/arteqcue/480"
       },
@@ -5914,12 +5906,6 @@
         "internet_archive": "https://archive.org/details/astorbell"
       },
       "label_name": "Astor Bell",
-      "activity_state": "inactive"
-    },
-    {
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -5969,9 +5955,6 @@
         "homepage": "http://autark-net.org/"
       },
       "label_name": "Autark",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -6045,9 +6028,6 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "internet_archive": "http://www.archive.org/details/barbie-noja"
       },
@@ -6073,9 +6053,6 @@
         "internet_archive": "https://archive.org/details/@adrian_bago"
       },
       "label_name": "beatmind",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -6129,9 +6106,6 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "internet_archive": "https://freemusicarchive.org/label/Black_Lantern_Music/"
       },
@@ -6178,9 +6152,6 @@
         "internet_archive": "http://www.archive.org/details/bricolodge"
       },
       "label_name": "BricoLodge",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -6269,12 +6240,6 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "homepage": "http://www.chillproductions.com/"
       },
@@ -6303,15 +6268,6 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
-      "activity_state": "inactive"
-    },
-    {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "internet_archive": "https://archive.org/details/clinicalarchives"
       },
@@ -6326,19 +6282,10 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "homepage": "http://colinjohncorecords.free.fr/"
       },
       "label_name": "Colin Johnco Records",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -6363,22 +6310,10 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "internet_archive": "https://archive.org/details/cod"
       },
       "label_name": "complementary distribution",
-      "activity_state": "inactive"
-    },
-    {
-      "activity_state": "inactive"
-    },
-    {
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -6396,28 +6331,10 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "internet_archive": "https://archive.org/details/cornslaw-industries"
       },
       "label_name": "Cornslaw Industries",
-      "activity_state": "inactive"
-    },
-    {
-      "activity_state": "inactive"
-    },
-    {
-      "activity_state": "inactive"
-    },
-    {
-      "activity_state": "inactive"
-    },
-    {
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -6439,16 +6356,10 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "internet_archive": "http://www.archive.org/details/cdc-communications"
       },
       "label_name": "Cult of the Dead Cow",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -6459,19 +6370,10 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "internet_archive": "https://archive.org/details/dead-channel"
       },
       "label_name": "Dead Channel",
-      "activity_state": "inactive"
-    },
-    {
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -6489,12 +6391,6 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
-      "activity_state": "inactive"
-    },
-    {
       "label_name": "Derivative Netlabel",
       "activity_state": "inactive"
     },
@@ -6503,9 +6399,6 @@
         "internet_archive": "https://archive.org/details/deskjob-recordings"
       },
       "label_name": "Deskjob Recordings",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -6593,16 +6486,10 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "sonicsquirrel": "http://sonicsquirrel.net/detail/label/dobox/94"
       },
       "label_name": "Dobox Recordings",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -6645,12 +6532,6 @@
         "homepage": "http://dubkey.com/"
       },
       "label_name": "Dubkey",
-      "activity_state": "inactive"
-    },
-    {
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -6700,9 +6581,6 @@
         "internet_archive": "https://archive.org/details/inpuj"
       },
       "label_name": "Eerik Inpuj Sound",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -6770,16 +6648,10 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "internet_archive": "https://archive.org/details/epasonidos"
       },
       "label_name": "EPA Sonidos",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -6804,9 +6676,6 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "internet_archive": "https://archive.org/details/ethereal-live"
       },
@@ -6828,16 +6697,10 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "internet_archive": "https://archive.org/details/extreme-netlabel"
       },
       "label_name": "Extreme",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -6897,9 +6760,6 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "free_music_archive": "http://freemusicarchive.org/label/Field_Muzick/"
       },
@@ -6928,9 +6788,6 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "homepage": "http://www.floppyswop.co.uk/"
       },
@@ -6945,12 +6802,6 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "homepage": "http://foramel.de/"
       },
@@ -6962,9 +6813,6 @@
         "homepage": "http://fourdirectionaldoubt.free.fr/"
       },
       "label_name": "Four Directional Doubt",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -7031,19 +6879,10 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "internet_archive": "https://archive.org/details/fuselab"
       },
       "label_name": "Fuselab",
-      "activity_state": "inactive"
-    },
-    {
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -7096,9 +6935,6 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "internet_archive": "https://archive.org/details/GRHK_Records"
       },
@@ -7117,9 +6953,6 @@
         "homepage": "http://www.groundfloorrecords.com/"
       },
       "label_name": "Ground Floor",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -7169,9 +7002,6 @@
         "homepage": "http://hexawe.net/"
       },
       "label_name": "Hexawe",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -7249,9 +7079,6 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "bandcamp": "https://idmfnetlabel.bandcamp.com/"
       },
@@ -7280,9 +7107,6 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "scene_org": "https://files.scene.org/browse/music/groups/imnotok/"
       },
@@ -7297,16 +7121,10 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "sonicsquirrel": "http://sonicsquirrel.net/detail/label/indielabel/1415"
       },
       "label_name": "IndieLabel",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -7345,9 +7163,6 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "homepage": "http://insub.org/"
       },
@@ -7383,16 +7198,10 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "internet_archive": "https://archive.org/details/itsu-jitsu-netlabel"
       },
       "label_name": "Itsu Jitsu",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -7424,9 +7233,6 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "internet_archive": "https://archive.org/details/kazoomzoom"
       },
@@ -7448,9 +7254,6 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "homepage": "http://www.kittenrock.co.uk/"
       },
@@ -7468,6 +7271,7 @@
       "urls": {
         "internet_archive": "https://archive.org/details/konkord"
       },
+      "label_name": "konkord",
       "activity_state": "inactive"
     },
     {
@@ -7499,9 +7303,6 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "internet_archive": "http://www.archive.org/details/kurzwellen"
       },
@@ -7527,9 +7328,6 @@
         "sonicsquirrel": "http://sonicsquirrel.net/detail/label/la_pikki_pikki_records"
       },
       "label_name": "la-pikki-pikki records",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -7621,12 +7419,6 @@
         "homepage": "http://limitless-audio.com/blog/"
       },
       "label_name": "Limitless Audio",
-      "activity_state": "inactive"
-    },
-    {
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -7728,12 +7520,6 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "internet_archive": "https://archive.org/details/maetrixsolution"
       },
@@ -7783,19 +7569,10 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "homepage": "http://merzbau-label.org/"
       },
       "label_name": "Merzbau",
-      "activity_state": "inactive"
-    },
-    {
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -7813,16 +7590,10 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "internet_archive": "https://archive.org/details/miniaturarecords"
       },
       "label_name": "Miniatura Records",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -7852,12 +7623,6 @@
         "sonicsquirrel": "http://sonicsquirrel.net/detail/label/mirakelmusik/599"
       },
       "label_name": "Mirakelmusik",
-      "activity_state": "inactive"
-    },
-    {
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -7987,9 +7752,6 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "internet_archive": "http://www.archive.org/details/planear"
       },
@@ -8067,9 +7829,6 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "internet_archive": "https://archive.org/details/restingbell"
       },
@@ -8105,12 +7864,6 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "homepage": "http://seedsound.com/netlabel/"
       },
@@ -8125,16 +7878,10 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "internet_archive": "https://archive.org/details/silber"
       },
       "label_name": "Silber Records",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -8159,9 +7906,6 @@
       "activity_state": "inactive"
     },
     {
-      "activity_state": "inactive"
-    },
-    {
       "urls": {
         "homepage": "http://soulseekrecords.org/sual/"
       },
@@ -8173,9 +7917,6 @@
         "homepage": "http://www.stadtgruenlabel.net/"
       },
       "label_name": "Stadtgruen",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
@@ -8211,9 +7952,6 @@
         "internet_archive": "https://archive.org/details/timetheory"
       },
       "label_name": "Time Theory",
-      "activity_state": "inactive"
-    },
-    {
       "activity_state": "inactive"
     },
     {
