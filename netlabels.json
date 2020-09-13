@@ -96,7 +96,7 @@
         "Electronica",
         "Abstract",
         "Hip-Hop",
-        "Trip Hop",
+        "Trip-Hop",
         "Dubstep",
         "Drum n Bass",
         "Breakcore"
@@ -968,7 +968,7 @@
       "genres": [
         "Electronic",
         "Downbeat",
-        "Trip Hop"
+        "Trip-Hop"
       ],
       "countries": [
         "South Africa"
@@ -2202,7 +2202,7 @@
         "Canada"
       ],
       "label_name": "Happy Puppy Records",
-      "activity_state": "active"
+      "activity_state": "inactive"
     },
     {
       "urls": {
@@ -2420,7 +2420,7 @@
       },
       "genres": [
         "Drum n Bass",
-        "Trip Hop"
+        "Trip-Hop"
       ],
       "countries": [
         
@@ -2503,7 +2503,7 @@
       "genres": [
         "Electronic",
         "Hip-Hop",
-        "Trip Hop",
+        "Trip-Hop",
         "Dubstep"
       ],
       "countries": [
@@ -2682,7 +2682,7 @@
       "genres": [
         "Dub",
         "Electronica",
-        "Trip Hop",
+        "Trip-Hop",
         "Folk"
       ],
       "countries": [
@@ -2971,6 +2971,19 @@
         "Russia"
       ],
       "label_name": "Memoryformat",
+      "activity_state": "active"
+    },
+    {
+      "urls": {
+        "homepage": "https://micromusic.net"
+      },
+      "genres": [
+        "8-Bit"
+      ],
+      "countries": [
+        "Switzerland"
+      ],
+      "label_name": "Micromusic",
       "activity_state": "active"
     },
     {
@@ -4002,6 +4015,27 @@
     },
     {
       "urls": {
+        "bandcamp": "https://secuenciastemporales.bandcamp.com",
+        "homepage": "https://secuenciastemporales.bandcamp.com",
+        "facebook": "https://www.facebook.com/secuenciastemporales",
+        "soundcloud": "https://soundcloud.com/secuencias_temporales"
+      },
+      "genres": [
+        "Ambient",
+        "Techno",
+        "Experimental",
+        "Electronic",
+        "Downtempo",
+        "IDM"
+      ],
+      "countries": [
+        "Mexico"
+      ],
+      "label_name": "Secuencias Temporales",
+      "activity_state": "active"
+    },
+    {
+      "urls": {
         "twitter": "https://twitter.com/seriesmedia",
         "homepage": "http://www.seriesmedia.org/5/"
       },
@@ -4229,6 +4263,27 @@
     },
     {
       "urls": {
+        "homepage": "https://soundsphere.ro",
+        "bandcamp": "https://soundsphere.bandcamp.com",
+        "facebook": "https://www.facebook.com/Soundsphere.ro",
+        "youtube": "https://www.youtube.com/c/SoundsphereRo"
+      },
+      "genres": [
+        "Electronic",
+        "Experimental",
+        "Trip-Hop",
+        "Ambient",
+        "Techno",
+        "Lo-Fi"
+      ],
+      "countries": [
+        "Romania"
+      ],
+      "label_name": "Soundsphere",
+      "activity_state": "active"
+    },
+    {
+      "urls": {
         "free_music_archive": "http://freemusicarchive.org/label/southerncitylab/",
         "bandcamp": "http://store.southerncitylab.net/music",
         "twitter": "https://twitter.com/southerncitylab",
@@ -4392,6 +4447,29 @@
     },
     {
       "urls": {
+        "homepage": "https://stillheatrecordings.bandcamp.com",
+        "bandcamp": "https://stillheatrecordings.bandcamp.com",
+        "facebook": "https://www.facebook.com/stillheat",
+        "twitter": "http://www.twitter.com/stillheat",
+        "soundcloud": "http://www.soundcloud.com/still-heat"
+      },
+      "genres": [
+        "Electronic",
+        "Ambient",
+        "Experimental",
+        "Industrial",
+        "Drone",
+        "Noise"
+      ],
+      "countries": [
+        "United Kingdom",
+        "England"
+      ],
+      "label_name": "Still Heat Recordings",
+      "activity_state": "active"
+    },
+    {
+      "urls": {
         "twitter": "https://twitter.com/StoneAgeRcrds",
         "rss": "http://stoneagerecords.blogspot.com/feeds/posts/default?alt=rss",
         "release_rss": "https://archive.org/services/collection-rss.php?collection=stoneage-records",
@@ -4498,7 +4576,7 @@
         "United States"
       ],
       "label_name": "Subterranean Tide",
-      "activity_state": "active"
+      "activity_state": "inactive"
     },
     {
       "urls": {
@@ -8026,9 +8104,9 @@
     },
     {
       "urls": {
-        "homepage": "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+        "homepage": "http://kellerloch.org"
       },
-      "label_name": "",
+      "label_name": "Kellerloch",
       "activity_state": "inactive"
     }
   ]
