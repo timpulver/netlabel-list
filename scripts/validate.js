@@ -39,6 +39,7 @@ const netlabelListSchema = {
                             "free_music_archive": { "type": "string" },
                             "rss": { "type": "string" },
                             "release_rss": { "type": "string" },
+                            "youtube": { "type": "string" }
                         }
                     }
                 },
