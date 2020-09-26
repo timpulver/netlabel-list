@@ -18,6 +18,7 @@ const netlabelListSchema = {
                 "properties": {
                     "label_name": { "type": "string" },
                     "activity_state": { "type": "string", "pattern": "inactive|active" },
+                    "years_active": { "type": "string" },
                     "countries": {
                         "type": "array",
                         "items": { "type": "string" }
@@ -36,6 +37,7 @@ const netlabelListSchema = {
                             "instagram": { "type": "string" },
                             "soundcloud": { "type": "string" },
                             "internet_archive": { "type": "string" },
+                            "netlabel_archive": { "type": "string" },
                             "free_music_archive": { "type": "string" },
                             "rss": { "type": "string" },
                             "release_rss": { "type": "string" },

@@ -5307,6 +5307,23 @@
     },
     {
       "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/yuki-yaki/"
+      },
+      "countries": [
+        "Germany"
+      ],
+      "genres": [
+        "Techno",
+        "Minimal",
+        "IDM",
+        "Ambient"
+      ],
+      "label_name": "Yuki Yaki",
+      "activity_state": "inactive",
+      "years_active": "2005-2010"
+    },
+    {
+      "urls": {
         "bandcamp": "http://music.yuyay-records.de/",
         "facebook": "https://www.facebook.com/pages/YUYAY-Records/506103532771998",
         "soundcloud": "https://soundcloud.com/yuyayrecords",
@@ -5903,10 +5920,18 @@
     },
     {
       "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/ansiform/",
         "internet_archive": "http://www.archive.org/details/ansiform"
       },
       "label_name": "Ansiform",
-      "activity_state": "inactive"
+      "countries": [
+        "Canada"
+      ],
+      "genres": [
+        "Ambient"
+      ],
+      "activity_state": "inactive",
+      "years_active": "2005-2009"
     },
     {
       "urls": {
@@ -6083,6 +6108,22 @@
       },
       "label_name": "Baconsmash Records",
       "activity_state": "inactive"
+    },
+    {
+      "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/backtrack/"
+      },
+      "countries": [
+        "United States"
+      ],
+      "genres": [
+        "IDM",
+        "Electro",
+        "Ambient"
+      ],
+      "label_name": "Backtrack",
+      "activity_state": "inactive",
+      "years_active": "2004-2006"
     },
     {
       "urls": {
@@ -6290,6 +6331,21 @@
       "activity_state": "inactive"
     },
     {
+      "label_name": "Candy Mind Records",
+      "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/candy-mind-records/"
+      },
+      "countries": [
+        "Sweden"
+      ],
+      "genres": [
+        "Electro",
+        "IDM"
+      ],
+      "activity_state": "inactive",
+      "years_active": "2004-2007"
+    },
+    {
       "urls": {
         "internet_archive": "https://archive.org/details/catching_leaves"
       },
@@ -6368,10 +6424,19 @@
     },
     {
       "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/comatronic/",
         "internet_archive": "http://www.archive.org/details/comatronic"
       },
+      "countries": [
+        "Austria"
+      ],
+      "genres": [
+        "Techno",
+        "Minimal"
+      ],
       "label_name": "Comatronic",
-      "activity_state": "inactive"
+      "activity_state": "inactive",
+      "years_active": "2004-2006"
     },
     {
       "urls": {
@@ -6441,11 +6506,39 @@
       "activity_state": "inactive"
     },
     {
+      "label_name": "CutOff",
+      "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/cutoff/"
+      },
+      "genres": [
+        "Hip-Hop",
+        "Drum n Bass",
+        "House"
+      ],
+      "activity_state": "inactive",
+      "years_active": "1997"
+    },
+    {
       "urls": {
         "internet_archive": "https://archive.org/details/dadaist-audio"
       },
       "label_name": "Dadiast Audio",
       "activity_state": "inactive"
+    },
+    {
+      "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/darkwingduck-records/"
+      },
+      "countries": [
+        "Ukraine"
+      ],
+      "genres": [
+        "8-Bit",
+        "Chiptune"
+      ],
+      "label_name": "DarkWingDuck Records",
+      "activity_state": "inactive",
+      "years_active": "2006-2013"
     },
     {
       "urls": {
@@ -6478,6 +6571,20 @@
       },
       "label_name": "Deskjob Recordings",
       "activity_state": "inactive"
+    },
+    {
+      "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/dewtone/"
+      },
+      "countries": [
+        "Canada"
+      ],
+      "genres": [
+        "Ambient"
+      ],
+      "label_name": "Dewtone",
+      "activity_state": "inactive",
+      "years_active": "2004-2005"
     },
     {
       "urls": {
@@ -6642,6 +6749,20 @@
     },
     {
       "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/eclectro/"
+      },
+      "countries": [
+        "United States"
+      ],
+      "genres": [
+        "Electro"
+      ],
+      "label_name": "Eclectro",
+      "activity_state": "inactive",
+      "years_active": "2004"
+    },
+    {
+      "urls": {
         "internet_archive": "https://archive.org/details/edensonic"
       },
       "label_name": "Edensonic",
@@ -6783,10 +6904,20 @@
     },
     {
       "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/fairlight-music/",
         "scene_org": "https://files.scene.org/browse/music/groups/fairlight/"
       },
-      "label_name": "Fairlight",
-      "activity_state": "inactive"
+      "countries": [
+        "United Kingdom"
+      ],
+      "genres": [
+        "IDM",
+        "Downtempo",
+        "Chiptune"
+      ],
+      "label_name": "Fairlight Music",
+      "activity_state": "inactive",
+      "years_active": "2001-2003"
     },
     {
       "urls": {
@@ -6853,10 +6984,51 @@
     },
     {
       "urls": {
-        "homepage": "http://www.filtro.com.mx/"
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/file-freakout/"
       },
+      "countries": [
+        "United States"
+      ],
+      "genres": [
+        "8-Bit",
+        "Chiptune"
+      ],
+      "label_name": "File Freakout",
+      "activity_state": "inactive",
+      "years_active": "2007-2008"
+    },
+    {
+      "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/filtro/"
+      },
+      "countries": [
+        "Mexico"
+      ],
+      "genres": [
+        "Techno",
+        "Minimal",
+        "IDM",
+        "Dub"
+      ],
       "label_name": "Filtro",
-      "activity_state": "inactive"
+      "activity_state": "inactive",
+      "years_active": "2004-2007"
+    },
+    {
+      "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/five-musicians/"
+      },
+      "countries": [
+        "Finland"
+      ],
+      "genres": [
+        "IDM",
+        "Downtempo",
+        "Ambient"
+      ],
+      "label_name": "Five Musicians",
+      "activity_state": "inactive",
+      "years_active": "1995-1999"
     },
     {
       "urls": {
@@ -6934,6 +7106,21 @@
       },
       "label_name": "Fresh Poulp Records",
       "activity_state": "inactive"
+    },
+    {
+      "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/fridge/"
+      },
+      "countries": [
+        "Germany"
+      ],
+      "genres": [
+        "Techno",
+        "Trance"
+      ],
+      "label_name": "Fridge",
+      "activity_state": "inactive",
+      "years_active": "1999-2000"
     },
     {
       "urls": {
@@ -7433,8 +7620,17 @@
       "urls": {
         "homepage": "http://laminim.net/index2.html"
       },
+      "countries": [
+        "Germany"
+      ],
+      "genres": [
+        "IDM",
+        "Techno",
+        "Minimal"
+      ],
       "label_name": "Laminim",
-      "activity_state": "inactive"
+      "activity_state": "inactive",
+      "years_active": "2005-2006"
     },
     {
       "urls": {
@@ -7613,6 +7809,21 @@
     },
     {
       "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/maito-records/"
+      },
+      "countries": [
+        "Finland"
+      ],
+      "genres": [
+        "Ambient",
+        "Electro"
+      ],
+      "label_name": "Maito Records",
+      "activity_state": "inactive",
+      "years_active": "2011"
+    },
+    {
+      "urls": {
         "internet_archive": "https://archive.org/details/make-a-move"
       },
       "label_name": "make-a-move records",
@@ -7669,6 +7880,22 @@
     },
     {
       "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/milk/"
+      },
+      "countries": [
+        "Finland"
+      ],
+      "genres": [
+        "IDM",
+        "Electro",
+        "Ambient"
+      ],
+      "label_name": "Milk",
+      "activity_state": "inactive",
+      "years_active": "1998-2001"
+    },
+    {
+      "urls": {
         "internet_archive": "https://archive.org/details/miniaturarecords"
       },
       "label_name": "Miniatura Records",
@@ -7705,10 +7932,24 @@
     },
     {
       "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/monotonik/",
         "internet_archive": "https://archive.org/details/monotonik"
       },
-      "label_name": "monotonik",
-      "activity_state": "inactive"
+      "countries": [
+        "United Kingdom",
+        "United States"
+      ],
+      "genres": [
+        "IDM",
+        "Downtempo",
+        "Ambient",
+        "Electro",
+        "Drum n Bass",
+        "Breakbeat"
+      ],
+      "label_name": "Monotonik",
+      "activity_state": "inactive",
+      "years_active": "1996-2009"
     },
     {
       "urls": {
@@ -7719,10 +7960,21 @@
     },
     {
       "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/mp3death/",
         "internet_archive": "https://archive.org/details/mp3death"
       },
+      "countries": [
+        "United States"
+      ],
+      "genres": [
+        "Chiptune",
+        "8-Bit",
+        "Experimental",
+        "Noise"
+      ],
       "label_name": "mp3death",
-      "activity_state": "inactive"
+      "activity_state": "inactive",
+      "years_active": "2003-2013, 2018"
     },
     {
       "urls": {
@@ -7740,10 +7992,42 @@
     },
     {
       "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/natural-media/"
+      },
+      "countries": [
+        "Argentina"
+      ],
+      "genres": [
+        "Ambient",
+        "Experimental",
+        "IDM"
+      ],
+      "label_name": "Natural Media",
+      "activity_state": "inactive",
+      "years_active": "2005-2009"
+    },
+    {
+      "urls": {
         "sonicsquirrel": "http://sonicsquirrel.net/detail/label/sojusrecords/340"
       },
       "label_name": "No Logo",
       "activity_state": "inactive"
+    },
+    {
+      "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/noiz-phaktah/"
+      },
+      "countries": [
+        "Australia"
+      ],
+      "genres": [
+        "Breakcore",
+        "Hardcore",
+        "IDM"
+      ],
+      "label_name": "Noiz Phaktah",
+      "activity_state": "inactive",
+      "years_active": "2001-2002"
     },
     {
       "urls": {
@@ -7768,6 +8052,21 @@
     },
     {
       "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/nubiproof/"
+      },
+      "countries": [
+        "Germany"
+      ],
+      "genres": [
+        "Electro",
+        "IDM"
+      ],
+      "label_name": "Nubiproof",
+      "activity_state": "inactive",
+      "years_active": "2001-2002"
+    },
+    {
+      "urls": {
         "internet_archive": "http://www.archive.org/details/nullrepublik"
       },
       "label_name": "NullRepublick Records",
@@ -7775,10 +8074,34 @@
     },
     {
       "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/ogredung/",
         "internet_archive": "https://archive.org/details/ogredung"
       },
+      "countries": [
+        "Italy"
+      ],
+      "genres": [
+        "IDM",
+        "Electro"
+      ],
       "label_name": "Ogredung",
-      "activity_state": "inactive"
+      "activity_state": "inactive",
+      "years_active": "2001-2007"
+    },
+    {
+      "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/one/"
+      },
+      "countries": [
+        "United States"
+      ],
+      "genres": [
+        "IDM",
+        "Electro"
+      ],
+      "label_name": "One",
+      "activity_state": "inactive",
+      "years_active": "2004-2007"
     },
     {
       "urls": {
@@ -7810,10 +8133,18 @@
     },
     {
       "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/petite-and-jolie/",
         "internet_archive": "https://archive.org/details/petitejolie"
       },
-      "label_name": "Petite & Jolie",
-      "activity_state": "inactive"
+      "countries": [
+        "France"
+      ],
+      "genres": [
+        "IDM"
+      ],
+      "label_name": "Petite&Jolie",
+      "activity_state": "inactive",
+      "years_active": "2007-2010"
     },
     {
       "urls": {
@@ -7891,6 +8222,17 @@
       },
       "label_name": "Random Flow",
       "activity_state": "inactive"
+    },
+    {
+      "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/randomplayingrecords/"
+      },
+      "genres": [
+        "IDM"
+      ],
+      "label_name": "Random Playing Records",
+      "activity_state": "inactive",
+      "years_active": "1998"
     },
     {
       "urls": {
@@ -8076,10 +8418,68 @@
     },
     {
       "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/voodoo/"
+      },
+      "countries": [
+        "Finland"
+      ],
+      "genres": [
+        "IDM",
+        "Downtempo",
+        "Hip-Hop"
+      ],
+      "label_name": "Voodoo",
+      "activity_state": "inactive",
+      "years_active": "1997-2002"
+    },
+    {
+      "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/wtf-records/"
+      },
+      "countries": [
+        "Japan"
+      ],
+      "genres": [
+        "Happy Hardcore",
+        "Gabber",
+        "Hardcore",
+        "Breakcore"
+      ],
+      "label_name": "W.T.F. Records",
+      "activity_state": "inactive",
+      "years_active": "2010-2013"
+    },
+    {
+      "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/wasamix/",
         "internet_archive": "https://archive.org/details/wasamix"
       },
+      "countries": [
+        "United Kingdom"
+      ],
+      "genres": [
+        "House",
+        "Ambient"
+      ],
       "label_name": "Wasamix",
-      "activity_state": "inactive"
+      "activity_state": "inactive",
+      "years_active": "2010"
+    },
+    {
+      "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/weltherrschaft/"
+      },
+      "countries": [
+        "Germany"
+      ],
+      "genres": [
+        "Techno",
+        "IDM",
+        "Drum n Bass"
+      ],
+      "label_name": "Weltherrschaft",
+      "activity_state": "inactive",
+      "years_active": "2002-2003"
     },
     {
       "urls": {
