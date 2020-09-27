@@ -3889,6 +3889,25 @@
     },
     {
       "urls": {
+        "homepage": "https://realmorereal.org",
+        "bandcamp": "https://realmorereal.bandcamp.com",
+        "instagram": "https://instagram.com/real_more_real",
+        "facebook": "https://facebook.com/realmorereal"
+      },
+      "countries": [
+        "United States"
+      ],
+      "genres": [
+        "Electronic",
+        "Experimental",
+        "Ambient",
+        "Avantgarde"
+      ],
+      "label_name": "REALMOREREAL",
+      "activity_state": "active"
+    },
+    {
+      "urls": {
         "twitter": "https://twitter.com/rec72",
         "rss": "http://rec72.net/?feed=rss2",
         "soundcloud": "https://soundcloud.com/rec72",
