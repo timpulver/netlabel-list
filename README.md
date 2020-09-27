@@ -127,6 +127,7 @@ Example:
 - `sonicsquirrel`: [Sonicsquirrel](http://sonicsquirrel.net/) profile, for example `"http://sonicsquirrel.net/detail/label/Yarn_Audio/"`
 - `facebook`: [Facebook](https://www.facebook.com/) profile, for example `"https://www.facebook.com/YarnAudio"`
 - `twitter` – [Twitter](https://twitter.com/) profile, for example `"https://twitter.com/YarnAudio"`
+- `netlabel_archive` - [netlabelarchive.org](https://netlabelarchive.org/) archive page, for example `https://netlabelarchive.org/netlabels/ansiform/`
 - `internet_archive` – [archive.org](https://archive.org/) profile, for example `https://archive.org/details/yarnaudio`
 - `instagram` - [Instagram](https://instagram.com) profile, for example `"https://instagram.com/blocsonic"`
 
