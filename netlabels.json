@@ -2088,7 +2088,7 @@
         "homepage": "http://greenfieldrecordings.yolasite.com/"
       },
       "genres": [
-        "Field Recordings"
+        "Field Recording"
       ],
       "countries": [
         "Portugal"
@@ -3263,6 +3263,33 @@
         "Argentina"
       ],
       "label_name": "Nebular Silence",
+      "activity_state": "active"
+    },
+    {
+      "urls": {
+        "homepage": "https://nenormalizm.wixsite.com/nenormalzim",
+        "bandcamp": "https://nenormalizm.bandcamp.com/",
+        "internet_archive": "https://archive.org/details/nenormalizmrecords",
+        "rss": "https://archive.org/services/collection-rss.php?collection=nenormalizmrecords",
+        "soundcloud": "https://soundcloud.com/nenormalizm-recs",
+        "facebook": "https://www.facebook.com/Nenormalizm",
+        "twitter": "https://twitter.com/nenormalizm"
+      },
+      "genres": [
+        "Electronic",
+        "Experimental",
+        "Glitch",
+        "IDM",
+        "Breakbeat",
+        "Abstract",
+        "Downtempo",
+        "Electro",
+        "Dub"
+      ],
+      "countries": [
+        "Russia"
+      ],
+      "label_name": "Nenormalizm",
       "activity_state": "active"
     },
     {
