@@ -3798,6 +3798,20 @@
     },
     {
       "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/power-glove-records/"
+      },
+      "genres": [
+        "House"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "label_name": "Power Glove Records",
+      "activity_state": "inactive",
+      "years_active": "2009-2010"
+    },
+    {
+      "urls": {
         "bandcamp": "https://psy-dance-globalrecords.bandcamp.com/",
         "release_rss": "https://archive.org/services/collection-rss.php?collection=psydanceglobal",
         "internet_archive": "https://archive.org/details/psydanceglobal",
