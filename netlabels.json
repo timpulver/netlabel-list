@@ -3270,7 +3270,7 @@
         "homepage": "https://nenormalizm.wixsite.com/nenormalzim",
         "bandcamp": "https://nenormalizm.bandcamp.com/",
         "internet_archive": "https://archive.org/details/nenormalizmrecords",
-        "rss": "https://archive.org/services/collection-rss.php?collection=nenormalizmrecords",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=nenormalizmrecords",
         "soundcloud": "https://soundcloud.com/nenormalizm-recs",
         "facebook": "https://www.facebook.com/Nenormalizm",
         "twitter": "https://twitter.com/nenormalizm"
