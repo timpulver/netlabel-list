@@ -7587,10 +7587,19 @@
     },
     {
       "urls": {
-        "internet_archive": "https://archive.org/details/knobs"
+        "internet_archive": "https://archive.org/details/knobs",
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/knobs/"
       },
+      "countries": [
+        "Lithuania"
+      ],
+      "genres": [
+        "Techno",
+        "Minimal"
+      ],
       "label_name": "Knobs",
-      "activity_state": "inactive"
+      "activity_state": "inactive",
+      "years_active": "2005-2011"
     },
     {
       "urls": {
