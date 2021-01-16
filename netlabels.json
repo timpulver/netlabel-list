@@ -3999,6 +3999,20 @@
     },
     {
       "urls": {
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/retrofuturism/"
+      },
+      "genres": [
+        "Downtempo",
+        "IDM"
+      ],
+      "countries": [
+        "United States"
+      ],
+      "label_name": "Retrofuturism",
+      "activity_state": "inactive"
+    },
+    {
+      "urls": {
         "bandcamp": "https://sabacanrecords.bandcamp.com/",
         "facebook": "https://www.facebook.com/sabacanrecords",
         "homepage": "http://sabacanrecords.web.fc2.com/"
@@ -6414,9 +6428,17 @@
     },
     {
       "urls": {
-        "internet_archive": "https://archive.org/details/catchynamerecords"
+        "internet_archive": "https://archive.org/details/catchynamerecords",
+        "netlabel_archive": "https://netlabelarchive.org/netlabels/catchynamerecords/"
       },
-      "label_name": "Catchy Names",
+      "genres": [
+        "Chiptune",
+        "8-Bit"
+      ],
+      "countries": [
+        "Austria"
+      ],
+      "label_name": "CatchyNameRecords",
       "activity_state": "inactive"
     },
     {
