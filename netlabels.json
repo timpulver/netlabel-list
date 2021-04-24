@@ -3831,10 +3831,11 @@
     {
       "urls": {
         "twitter": "https://twitter.com/mikamartini",
-        "rss": "https://pueblonuevonetlabel.wordpress.com/feed/",
         "facebook": "https://www.facebook.com/PuebloNuevoNetlabel",
         "soundcloud": "https://soundcloud.com/pueblonuevo",
-        "homepage": "http://www.pueblonuevo.cl/pn_site/index.htm"
+        "instagram": "https://instagram.com/pueblonuevonetlabel",
+        "internet_archive": "https://archive.org/details/pueblo_nuevo",
+        "homepage": "https://pueblonuevo.cl"
       },
       "genres": [
         "Electronic"
@@ -3842,7 +3843,7 @@
       "countries": [
         "Chile"
       ],
-      "label_name": "Puebo Nuevo",
+      "label_name": "Pueblo Nuevo",
       "activity_state": "active"
     },
     {
