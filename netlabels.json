@@ -13,14 +13,8 @@
         "release_rss": "http://www.16dimensional.com/wp/?feed=rss2",
         "homepage": "http://www.16dimensional.com/wp/"
       },
-      "genres": [
-        "Chiptune",
-        "Electronic",
-        "Pop"
-      ],
-      "countries": [
-        "Japan"
-      ],
+      "genres": ["Chiptune", "Electronic", "Pop"],
+      "countries": ["Japan"],
       "label_name": "16 Dimensional",
       "activity_state": "active"
     },
@@ -32,13 +26,8 @@
         "soundcloud": "https://soundcloud.com/56kbps-records",
         "homepage": "http://1798.1mhz.org/"
       },
-      "genres": [
-        "Dark Ambient",
-        "Drone"
-      ],
-      "countries": [
-        "Germany"
-      ],
+      "genres": ["Dark Ambient", "Drone"],
+      "countries": ["Germany"],
       "label_name": "1798",
       "activity_state": "active"
     },
@@ -50,12 +39,8 @@
         "internet_archive": "https://archive.org/details/20kbps",
         "homepage": "http://20kbps.sofapause.ch/"
       },
-      "genres": [
-        "Lo-Bit"
-      ],
-      "countries": [
-        "Switzerland"
-      ],
+      "genres": ["Lo-Bit"],
+      "countries": ["Switzerland"],
       "label_name": "20 kbps rec.",
       "activity_state": "active"
     },
@@ -69,15 +54,8 @@
         "soundcloud": "https://soundcloud.com/23seconds",
         "homepage": "http://www.23seconds.org/"
       },
-      "genres": [
-        "Alternative",
-        "Indie",
-        "Pop",
-        "Rock"
-      ],
-      "countries": [
-        "Sweden"
-      ],
+      "genres": ["Alternative", "Indie", "Pop", "Rock"],
+      "countries": ["Sweden"],
       "label_name": "23 Seconds",
       "activity_state": "active"
     },
@@ -101,9 +79,7 @@
         "Drum n Bass",
         "Breakcore"
       ],
-      "countries": [
-        "Greece"
-      ],
+      "countries": ["Greece"],
       "label_name": "33 Recordings",
       "activity_state": "active"
     },
@@ -113,12 +89,8 @@
         "soundcloud": "https://soundcloud.com/51beats/",
         "homepage": "http://www.51beats.net/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Italy"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Italy"],
       "label_name": "51beats",
       "activity_state": "active"
     },
@@ -128,13 +100,8 @@
         "facebook": "https://www.facebook.com/56kbpsrecords",
         "homepage": "http://www.56kbpsrecords.org/"
       },
-      "genres": [
-        "8-Bit",
-        "Chiptune"
-      ],
-      "countries": [
-        "Mexico"
-      ],
+      "genres": ["8-Bit", "Chiptune"],
+      "countries": ["Mexico"],
       "label_name": "56KBPS Records",
       "activity_state": "active"
     },
@@ -149,12 +116,8 @@
         "soundcloud": "https://soundcloud.com/8bitpeoples",
         "homepage": "http://www.8bitpeoples.com/"
       },
-      "genres": [
-        "8-Bit"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["8-Bit"],
+      "countries": ["United States"],
       "label_name": "8bitpeoples",
       "activity_state": "active"
     },
@@ -167,12 +130,8 @@
         "facebook": "https://www.facebook.com/pages/8-ravens/113233845402543",
         "homepage": "http://8ravens.blogspot.com/"
       },
-      "genres": [
-        "Lo-Bit"
-      ],
-      "countries": [
-        "Ukraine"
-      ],
+      "genres": ["Lo-Bit"],
+      "countries": ["Ukraine"],
       "label_name": "8 ravens",
       "activity_state": "active"
     },
@@ -185,13 +144,8 @@
         "soundcloud": "https://soundcloud.com/a-m-p-recs",
         "homepage": "http://www.amp-recs.com/"
       },
-      "genres": [
-        "Experimental",
-        "Noise"
-      ],
-      "countries": [
-        "Mexico"
-      ],
+      "genres": ["Experimental", "Noise"],
+      "countries": ["Mexico"],
       "label_name": "A.M.P-RECS",
       "activity_state": "active"
     },
@@ -203,12 +157,8 @@
         "soundcloud": "https://soundcloud.com/aaahh-records",
         "homepage": "http://www.aaahh-records.net/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Germany"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Germany"],
       "label_name": "aaahh records",
       "activity_state": "active"
     },
@@ -221,14 +171,8 @@
         "soundcloud": "https://soundcloud.com/abandonment-label",
         "homepage": "http://abandonmentlabel.blogspot.com/"
       },
-      "genres": [
-        "Industrial",
-        "Noise",
-        "Ambient"
-      ],
-      "countries": [
-        "Bulgaria"
-      ],
+      "genres": ["Industrial", "Noise", "Ambient"],
+      "countries": ["Bulgaria"],
       "label_name": "Abandonment",
       "activity_state": "active"
     },
@@ -243,12 +187,8 @@
         "soundcloud": "https://soundcloud.com/abstraktreflections",
         "homepage": "http://www.abstraktreflections.net/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Argentina"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Argentina"],
       "label_name": "Abstrakt Reflections",
       "activity_state": "active"
     },
@@ -267,9 +207,7 @@
         "Ambient",
         "Noise"
       ],
-      "countries": [
-        "Peru"
-      ],
+      "countries": ["Peru"],
       "label_name": "Achokcha Records",
       "activity_state": "active"
     },
@@ -281,12 +219,8 @@
         "soundcloud": "https://soundcloud.com/acustronica",
         "homepage": "http://www.acustronica.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Italy"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Italy"],
       "label_name": "Acustronica",
       "activity_state": "active"
     },
@@ -297,12 +231,8 @@
         "soundcloud": "https://soundcloud.com/al-reves",
         "homepage": "http://www.alreves.org/home"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Brazil"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Brazil"],
       "label_name": "al revés",
       "activity_state": "active"
     },
@@ -313,13 +243,8 @@
         "soundcloud": "https://soundcloud.com/al-dente-records",
         "homepage": "https://twitter.com/aldenterecords"
       },
-      "genres": [
-        "House",
-        "Techno"
-      ],
-      "countries": [
-        "France"
-      ],
+      "genres": ["House", "Techno"],
+      "countries": ["France"],
       "label_name": "Al Dente Records",
       "activity_state": "active"
     },
@@ -331,12 +256,8 @@
         "soundcloud": "https://soundcloud.com/alchemistica",
         "homepage": "http://www.alchemistica.net/home.php"
       },
-      "genres": [
-        "Classical"
-      ],
-      "countries": [
-        "Italy"
-      ],
+      "genres": ["Classical"],
+      "countries": ["Italy"],
       "label_name": "AlchEmistica",
       "activity_state": "active"
     },
@@ -348,12 +269,8 @@
         "facebook": "https://www.facebook.com/alga.lab.9",
         "homepage": "http://www.alg-a.org/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Spain"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Spain"],
       "label_name": "Alg-a",
       "activity_state": "inactive"
     },
@@ -367,14 +284,8 @@
         "soundcloud": "https://soundcloud.com/alkalinear-recordings",
         "homepage": "http://alkalinearrecordings.tumblr.com/"
       },
-      "genres": [
-        "Electronic",
-        "Techno",
-        "Electro"
-      ],
-      "countries": [
-        "Irel"
-      ],
+      "genres": ["Electronic", "Techno", "Electro"],
+      "countries": ["Irel"],
       "label_name": "Alkalinear Recordings",
       "activity_state": "active"
     },
@@ -384,13 +295,8 @@
         "facebook": "https://www.facebook.com/pages/ALTEMA-RECORDS/229362340464591",
         "homepage": "http://www.altemarecords.jp/"
       },
-      "genres": [
-        "Electronic",
-        "Electronica"
-      ],
-      "countries": [
-        "Japan"
-      ],
+      "genres": ["Electronic", "Electronica"],
+      "countries": ["Japan"],
       "label_name": "ALTEMA Records",
       "activity_state": "active"
     },
@@ -400,12 +306,8 @@
         "internet_archive": "https://archive.org/details/alter-sonic-records",
         "homepage": "http://www.alter-sonic.com/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "France"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["France"],
       "label_name": "Alter Sonic Records",
       "activity_state": "active"
     },
@@ -416,13 +318,8 @@
         "facebook": "https://www.facebook.com/afasoundmachine",
         "homepage": "http://www.afasoundmachine.com/"
       },
-      "genres": [
-        "Electronic",
-        "Electronica"
-      ],
-      "countries": [
-        "Spain"
-      ],
+      "genres": ["Electronic", "Electronica"],
+      "countries": ["Spain"],
       "label_name": "Amalgamated Futureless Artists",
       "activity_state": "active"
     },
@@ -430,12 +327,8 @@
       "urls": {
         "homepage": " http://vk.com/angry_arnold_records "
       },
-      "genres": [
-        
-      ],
-      "countries": [
-        "Russia"
-      ],
+      "genres": [],
+      "countries": ["Russia"],
       "label_name": "Angry Arnold Records",
       "activity_state": "active"
     },
@@ -456,9 +349,7 @@
         "Ragga-Jungle",
         "IDM"
       ],
-      "countries": [
-        "Spain"
-      ],
+      "countries": ["Spain"],
       "label_name": "Annoying Beatz Crew",
       "activity_state": "active"
     },
@@ -470,15 +361,8 @@
         "facebook": "https://www.facebook.com/AntzhillZ",
         "homepage": "http://antzhill.interface1.net/"
       },
-      "genres": [
-        "Dark",
-        "Electronic",
-        "Electro",
-        "Techno"
-      ],
-      "countries": [
-        "Sweden"
-      ],
+      "genres": ["Dark", "Electronic", "Electro", "Techno"],
+      "countries": ["Sweden"],
       "label_name": "Antzhill",
       "activity_state": "active"
     },
@@ -488,12 +372,8 @@
         "rss": "http://anythingrecords.esy.es/feed/",
         "homepage": "http://anyrec.webcrow.jp/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Japan"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Japan"],
       "label_name": "Anything Records",
       "activity_state": "active"
     },
@@ -501,12 +381,8 @@
       "urls": {
         "sonicsquirrel": "http://sonicsquirrel.net/detail/label/aquavelvas/23"
       },
-      "genres": [
-        "Lo-Bit"
-      ],
-      "countries": [
-        "Norway"
-      ],
+      "genres": ["Lo-Bit"],
+      "countries": ["Norway"],
       "label_name": "Aquavelvas",
       "activity_state": "active"
     },
@@ -520,13 +396,8 @@
         "soundcloud": "https://soundcloud.com/arew-recordings",
         "homepage": "http://www.arewrecordings.com/"
       },
-      "genres": [
-        "Experimental",
-        "Electronic"
-      ],
-      "countries": [
-        "England"
-      ],
+      "genres": ["Experimental", "Electronic"],
+      "countries": ["England"],
       "label_name": "aReW recordings",
       "activity_state": "active"
     },
@@ -539,13 +410,8 @@
         "soundcloud": "https://soundcloud.com/archaichorizon",
         "homepage": "https://twitter.com/archaichorizon"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "England",
-        "United States"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["England", "United States"],
       "label_name": "Archaic Horizon",
       "activity_state": "inactive"
     },
@@ -556,12 +422,8 @@
         "soundcloud": "https://soundcloud.com/archipel",
         "homepage": "http://archipel.cc/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Canada"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Canada"],
       "label_name": "Archipel",
       "activity_state": "active"
     },
@@ -572,14 +434,8 @@
         "soundcloud": "https://soundcloud.com/articonetlabel",
         "homepage": "http://articonetlabel.wix.com/info"
       },
-      "genres": [
-        "Ambient",
-        "Noise",
-        "Electronic"
-      ],
-      "countries": [
-        "Spain"
-      ],
+      "genres": ["Ambient", "Noise", "Electronic"],
+      "countries": ["Spain"],
       "label_name": "Artico",
       "activity_state": "active"
     },
@@ -591,12 +447,8 @@
         "soundcloud": "https://soundcloud.com/asimtria",
         "homepage": "http://www.asimtria.org/netlabel/index.html"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Peru"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Peru"],
       "label_name": "As4cords / Asim’tria",
       "activity_state": "active"
     },
@@ -609,12 +461,8 @@
         "soundcloud": "https://soundcloud.com/audioexit",
         "homepage": "http://www.audioexit.com/"
       },
-      "genres": [
-        "Techno"
-      ],
-      "countries": [
-        "Hungary"
-      ],
+      "genres": ["Techno"],
+      "countries": ["Hungary"],
       "label_name": "Audioexit Records",
       "activity_state": "active"
     },
@@ -628,12 +476,8 @@
         "soundcloud": "https://soundcloud.com/audiotalaia",
         "homepage": "http://www.audiotalaia.net/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Spain"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Spain"],
       "label_name": "Audiotalaia",
       "activity_state": "active"
     },
@@ -648,14 +492,8 @@
         "soundcloud": "https://soundcloud.com/audition-records",
         "homepage": "http://www.auditionrecords.com/"
       },
-      "genres": [
-        "Experimental",
-        "Live"
-      ],
-      "countries": [
-        "Germany",
-        "Mexico"
-      ],
+      "genres": ["Experimental", "Live"],
+      "countries": ["Germany", "Mexico"],
       "label_name": "Audition Records",
       "activity_state": "active"
     },
@@ -667,12 +505,8 @@
         "soundcloud": "https://soundcloud.com/bad-panda-records",
         "homepage": "https://soundcloud.com/bad-panda-records"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Italy"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Italy"],
       "label_name": "Bad Panda Records",
       "activity_state": "active"
     },
@@ -686,12 +520,8 @@
         "soundcloud": "https://soundcloud.com/basic_sounds",
         "homepage": "http://basicsounds.ca/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Canada"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Canada"],
       "label_name": "basic_sounds",
       "activity_state": "active"
     },
@@ -700,12 +530,8 @@
         "facebook": "https://www.facebook.com/batenim",
         "homepage": "http://www.batenimnetlabel.net/"
       },
-      "genres": [
-        "Ambient"
-      ],
-      "countries": [
-        "Italy"
-      ],
+      "genres": ["Ambient"],
+      "countries": ["Italy"],
       "label_name": "Batenim",
       "activity_state": "active"
     },
@@ -717,12 +543,8 @@
         "soundcloud": "https://soundcloud.com/bedroom-research",
         "homepage": "http://www.bedroomresearch.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "France"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["France"],
       "label_name": "Bedroom Research",
       "activity_state": "active"
     },
@@ -735,13 +557,8 @@
         "facebook": "https://www.facebook.com/BestiarNetlabel",
         "homepage": "http://www.bestiar.org/"
       },
-      "genres": [
-        "Folk",
-        "Rock"
-      ],
-      "countries": [
-        "Spain"
-      ],
+      "genres": ["Folk", "Rock"],
+      "countries": ["Spain"],
       "label_name": "Bestiar",
       "activity_state": "active"
     },
@@ -754,16 +571,8 @@
         "facebook": "https://www.facebook.com/bfwrecordings/info",
         "homepage": "http://www.bfwrecordings.com/"
       },
-      "genres": [
-        "Ambient",
-        "Shoegaze",
-        "Indie",
-        "Experimental",
-        "Electronica"
-      ],
-      "countries": [
-        "England"
-      ],
+      "genres": ["Ambient", "Shoegaze", "Indie", "Experimental", "Electronica"],
+      "countries": ["England"],
       "label_name": "BFW Recordings",
       "activity_state": "active"
     },
@@ -777,13 +586,8 @@
         "soundcloud": "https://soundcloud.com/big-wave-records",
         "homepage": "http://bigwaverecs.wix.com/big-wave-records"
       },
-      "genres": [
-        "Electronic",
-        "Experimental"
-      ],
-      "countries": [
-        "South Africa"
-      ],
+      "genres": ["Electronic", "Experimental"],
+      "countries": ["South Africa"],
       "label_name": "Big Wave Records",
       "activity_state": "active"
     },
@@ -794,14 +598,8 @@
         "soundcloud": "https://soundcloud.com/bleaknetlabel",
         "homepage": "http://www.bleak.at/"
       },
-      "genres": [
-        "Industrial",
-        "Avantgarde",
-        "Experimental"
-      ],
-      "countries": [
-        "Austria"
-      ],
+      "genres": ["Industrial", "Avantgarde", "Experimental"],
+      "countries": ["Austria"],
       "label_name": "bleak",
       "activity_state": "active"
     },
@@ -813,12 +611,8 @@
         "soundcloud": "https://soundcloud.com/bleepsequence",
         "homepage": "http://www.bleepsequence.com/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["United States"],
       "label_name": "bleepsequence",
       "activity_state": "active"
     },
@@ -843,9 +637,7 @@
         "Hardcore",
         "Avantgarde"
       ],
-      "countries": [
-        "United States"
-      ],
+      "countries": ["United States"],
       "label_name": "blocSonic",
       "activity_state": "active"
     },
@@ -853,14 +645,8 @@
       "urls": {
         "homepage": "http://bonimedia.pl/"
       },
-      "genres": [
-        "Alternative",
-        "Electronic",
-        "Rock"
-      ],
-      "countries": [
-        "Pol"
-      ],
+      "genres": ["Alternative", "Electronic", "Rock"],
+      "countries": ["Pol"],
       "label_name": "BONImedia",
       "activity_state": "active"
     },
@@ -871,13 +657,8 @@
         "soundcloud": "https://soundcloud.com/breathe",
         "homepage": "http://breathecompilations.org/"
       },
-      "genres": [
-        "Ambient",
-        "Electronic"
-      ],
-      "countries": [
-        "Mexico"
-      ],
+      "genres": ["Ambient", "Electronic"],
+      "countries": ["Mexico"],
       "label_name": "Breathe Compilations",
       "activity_state": "active"
     },
@@ -887,12 +668,8 @@
         "facebook": "https://www.facebook.com/netlabel.brusio",
         "homepage": "http://www.brusionetlabel.net/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Italy"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Italy"],
       "label_name": "Brusio",
       "activity_state": "active"
     },
@@ -911,9 +688,7 @@
         "Field Recording",
         "Spoken Word"
       ],
-      "countries": [
-        "United States"
-      ],
+      "countries": ["United States"],
       "label_name": "Buddhist on Fire",
       "activity_state": "active"
     },
@@ -925,17 +700,8 @@
         "soundcloud": "https://soundcloud.com/bumpfoot",
         "homepage": "http://www.bumpfoot.net/"
       },
-      "genres": [
-        "House",
-        "Techno",
-        "Ambient",
-        "Rock",
-        "Experimental",
-        "Pop"
-      ],
-      "countries": [
-        "Japan"
-      ],
+      "genres": ["House", "Techno", "Ambient", "Rock", "Experimental", "Pop"],
+      "countries": ["Japan"],
       "label_name": "Bump Foot",
       "activity_state": "active"
     },
@@ -947,14 +713,8 @@
         "soundcloud": "https://soundcloud.com/bunkai-kei-records",
         "homepage": "http://bunkai-kei.com/"
       },
-      "genres": [
-        "Electronic",
-        "IDM",
-        "Ambient"
-      ],
-      "countries": [
-        "Japan"
-      ],
+      "genres": ["Electronic", "IDM", "Ambient"],
+      "countries": ["Japan"],
       "label_name": "Bunkai-Kei",
       "activity_state": "active"
     },
@@ -965,14 +725,8 @@
         "internet_archive": "https://archive.org/details/bushmen-records",
         "facebook": "https://www.facebook.com/bushmenrecords"
       },
-      "genres": [
-        "Electronic",
-        "Downbeat",
-        "Trip-Hop"
-      ],
-      "countries": [
-        "South Africa"
-      ],
+      "genres": ["Electronic", "Downbeat", "Trip-Hop"],
+      "countries": ["South Africa"],
       "label_name": "Bushmen Records",
       "activity_state": "inactive"
     },
@@ -984,12 +738,8 @@
         "facebook": "https://www.facebook.com/pages/CNP-Records/116447208397869",
         "homepage": "http://cnproachmotel.blogspot.com/"
       },
-      "genres": [
-        "Noise"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Noise"],
+      "countries": ["United States"],
       "label_name": "C.N.P. Records",
       "activity_state": "active"
     },
@@ -999,14 +749,8 @@
         "internet_archive": "https://archive.org/details/cajanegranetlabel",
         "homepage": "http://cajanegra.weebly.com/"
       },
-      "genres": [
-        "Experimental",
-        "Noise",
-        "Punk"
-      ],
-      "countries": [
-        "Russia"
-      ],
+      "genres": ["Experimental", "Noise", "Punk"],
+      "countries": ["Russia"],
       "label_name": "Cajanegra",
       "activity_state": "active"
     },
@@ -1015,13 +759,8 @@
         "rss": "http://carbonoproyecto.net/feed/",
         "homepage": "http://carbonoproyecto.net/"
       },
-      "genres": [
-        "Experimental",
-        "Improvisation"
-      ],
-      "countries": [
-        "Argentina"
-      ],
+      "genres": ["Experimental", "Improvisation"],
+      "countries": ["Argentina"],
       "label_name": "",
       "activity_state": "active"
     },
@@ -1032,12 +771,8 @@
         "soundcloud": "https://soundcloud.com/the-centrifuge",
         "homepage": "http://www.thecentrifuge.co.uk/"
       },
-      "genres": [
-        
-      ],
-      "countries": [
-        "England"
-      ],
+      "genres": [],
+      "countries": ["England"],
       "label_name": "The Centrifuge",
       "activity_state": "active"
     },
@@ -1047,12 +782,8 @@
         "facebook": "https://www.facebook.com/ceramicrecords",
         "homepage": "http://ceramicrecords.net/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Japan"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Japan"],
       "label_name": "Ceramic Records",
       "activity_state": "active"
     },
@@ -1063,14 +794,8 @@
         "facebook": "https://www.facebook.com/Chabanesrecords",
         "homepage": "http://chabanesrds.perso.sfr.fr/"
       },
-      "genres": [
-        "Metal",
-        "Grunge",
-        "Post Rock"
-      ],
-      "countries": [
-        "France"
-      ],
+      "genres": ["Metal", "Grunge", "Post Rock"],
+      "countries": ["France"],
       "label_name": "Chabane’s Records",
       "activity_state": "active"
     },
@@ -1083,12 +808,8 @@
         "soundcloud": "https://soundcloud.com/cicutanetlabel",
         "homepage": "http://cicutanetlabel.com/"
       },
-      "genres": [
-        "Techno"
-      ],
-      "countries": [
-        "Spain"
-      ],
+      "genres": ["Techno"],
+      "countries": ["Spain"],
       "label_name": "Cicuta",
       "activity_state": "active"
     },
@@ -1103,12 +824,8 @@
         "soundcloud": "https://soundcloud.com/classwarkaraoke",
         "homepage": "http://www.classwarkaraoke.com/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Germany"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Germany"],
       "label_name": "Classwar Karaoke",
       "activity_state": "active"
     },
@@ -1121,15 +838,8 @@
         "soundcloud": "https://soundcloud.com/cold-fiction-music",
         "homepage": "http://cfmlabel.com/"
       },
-      "genres": [
-        "Ambient",
-        "Techno",
-        "Dub Techno",
-        "Ambient Techno"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Ambient", "Techno", "Dub Techno", "Ambient Techno"],
+      "countries": ["United States"],
       "label_name": "Cold Fiction Music",
       "activity_state": "active"
     },
@@ -1142,12 +852,8 @@
         "soundcloud": "https://soundcloud.com/casa-verde-colectivo",
         "homepage": "https://colectivocasaamarela.wordpress.com/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Portugal"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Portugal"],
       "label_name": "Colectivo Casa Amarela",
       "activity_state": "active"
     },
@@ -1156,12 +862,8 @@
         "rss": "http://www.comarecordz.com/feeds/posts/default?alt=rss",
         "homepage": "http://www.comarecordz.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["United States"],
       "label_name": "cOmaRecOrdz",
       "activity_state": "active"
     },
@@ -1169,14 +871,8 @@
       "urls": {
         "homepage": "http://www.con-v.org/"
       },
-      "genres": [
-        "Classical",
-        "Electronic",
-        "Ambient"
-      ],
-      "countries": [
-        "Lithuania"
-      ],
+      "genres": ["Classical", "Electronic", "Ambient"],
+      "countries": ["Lithuania"],
       "label_name": "con-v",
       "activity_state": "active"
     },
@@ -1186,13 +882,8 @@
         "internet_archive": "https://archive.org/details/@heinrich",
         "homepage": "http://www.controlvalve.net/"
       },
-      "genres": [
-        "Experimental",
-        "Noise"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Experimental", "Noise"],
+      "countries": ["United States"],
       "label_name": "Control Valve",
       "activity_state": "active"
     },
@@ -1206,12 +897,8 @@
         "soundcloud": "https://soundcloud.com/crazy-language",
         "homepage": "https://crazylanguage.bandcamp.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Germany"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Germany"],
       "label_name": "Crazy Language",
       "activity_state": "active"
     },
@@ -1222,14 +909,8 @@
         "internet_archive": "https://archive.org/details/crnazemlja",
         "homepage": "http://crna-zemlja.blogspot.com/"
       },
-      "genres": [
-        "Dark Ambient",
-        "Experimental"
-      ],
-      "countries": [
-        "Bosnia",
-        "Herzegovina"
-      ],
+      "genres": ["Dark Ambient", "Experimental"],
+      "countries": ["Bosnia", "Herzegovina"],
       "label_name": "Crna Zemlja",
       "activity_state": "active"
     },
@@ -1242,12 +923,8 @@
         "soundcloud": "https://soundcloud.com/cronica",
         "homepage": "http://www.cronicaelectronica.org/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Portugal"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Portugal"],
       "label_name": "Crónica",
       "activity_state": "active"
     },
@@ -1257,12 +934,8 @@
         "rss": "http://www.cyan-music.com/rss.xml",
         "homepage": "http://www.cyan-music.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Germany"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Germany"],
       "label_name": "Cyan",
       "activity_state": "active"
     },
@@ -1272,12 +945,8 @@
         "internet_archive": "https://archive.org/details/cyclene",
         "homepage": "http://www.cyclene.com/main/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["United States"],
       "label_name": "Cyclene",
       "activity_state": "active"
     },
@@ -1290,13 +959,8 @@
         "soundcloud": "https://soundcloud.com/daheardit-records",
         "homepage": "http://www.daheardit-records.net/en/"
       },
-      "genres": [
-        "Ambient",
-        "Electronic"
-      ],
-      "countries": [
-        "France"
-      ],
+      "genres": ["Ambient", "Electronic"],
+      "countries": ["France"],
       "label_name": "Da ! Heard It Records",
       "activity_state": "active"
     },
@@ -1305,12 +969,8 @@
         "rss": "http://www.darkwinter.com/darkwinter.rss",
         "homepage": "http://www.darkwinter.com/"
       },
-      "genres": [
-        "Dark Ambient"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Dark Ambient"],
+      "countries": ["United States"],
       "label_name": "Dark Winter",
       "activity_state": "active"
     },
@@ -1325,17 +985,8 @@
         "soundcloud": "https://soundcloud.com/deathrootssyndicate",
         "homepage": "http://www.deathroots.com/"
       },
-      "genres": [
-        "Country",
-        "Folk",
-        "Blues",
-        "Rock",
-        "Punk",
-        "Roots"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Country", "Folk", "Blues", "Rock", "Punk", "Roots"],
+      "countries": ["United States"],
       "label_name": "Death Roots Syndicate",
       "activity_state": "active"
     },
@@ -1348,13 +999,8 @@
         "facebook": "https://www.facebook.com/deepxrec",
         "homepage": "http://www.deepxrec.com/"
       },
-      "genres": [
-        "Techno",
-        "House"
-      ],
-      "countries": [
-        "Russia"
-      ],
+      "genres": ["Techno", "House"],
+      "countries": ["Russia"],
       "label_name": "Deep-X Recordings",
       "activity_state": "active"
     },
@@ -1364,12 +1010,8 @@
         "rss": "http://deepwhitesound.com/feed/",
         "homepage": "http://deepwhitesound.com/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["United States"],
       "label_name": "Deep White Sound",
       "activity_state": "active"
     },
@@ -1379,12 +1021,8 @@
         "facebook": "https://www.facebook.com/Depthrecordings",
         "homepage": "http://depthrecordings.org/site/"
       },
-      "genres": [
-        "Techno"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Techno"],
+      "countries": ["United States"],
       "label_name": "Depth Recordings",
       "activity_state": "active"
     },
@@ -1397,14 +1035,8 @@
         "soundcloud": "https://soundcloud.com/gruenerwuerfel",
         "homepage": "http://www.derkleinegruenewuerfel.de/en"
       },
-      "genres": [
-        "Disco",
-        "Electronic",
-        "Minimal Techno"
-      ],
-      "countries": [
-        "Germany"
-      ],
+      "genres": ["Disco", "Electronic", "Minimal Techno"],
+      "countries": ["Germany"],
       "label_name": "Der Kleine Grüne Würfel",
       "activity_state": "active"
     },
@@ -1414,13 +1046,8 @@
         "facebook": "https://www.facebook.com/diavoletto.netlabel",
         "homepage": "http://www.diavolettolabel.com/"
       },
-      "genres": [
-        "Rock",
-        "Indie"
-      ],
-      "countries": [
-        "Italy"
-      ],
+      "genres": ["Rock", "Indie"],
+      "countries": ["Italy"],
       "label_name": "Diavoletto Netlab",
       "activity_state": "active"
     },
@@ -1431,13 +1058,8 @@
         "soundcloud": "https://soundcloud.com/digital-diamonds-netlabel",
         "homepage": "http://www.digital-diamonds.com/"
       },
-      "genres": [
-        "Trance",
-        "Techno"
-      ],
-      "countries": [
-        "Germany"
-      ],
+      "genres": ["Trance", "Techno"],
+      "countries": ["Germany"],
       "label_name": "Digital Diamonds",
       "activity_state": "active"
     },
@@ -1447,16 +1069,8 @@
         "facebook": "https://www.facebook.com/DiSfishRecords/info",
         "homepage": "https://disfish.bandcamp.com/"
       },
-      "genres": [
-        "Dub",
-        "Reggae",
-        "Downbeat",
-        "Ambient"
-      ],
-      "countries": [
-        "Hungary",
-        "Netherlands"
-      ],
+      "genres": ["Dub", "Reggae", "Downbeat", "Ambient"],
+      "countries": ["Hungary", "Netherlands"],
       "label_name": "Disfish Records",
       "activity_state": "active"
     },
@@ -1467,12 +1081,8 @@
         "internet_archive": "https://archive.org/details/diy-church",
         "homepage": "http://www.diychurch.org/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Germany"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Germany"],
       "label_name": "DIY Church",
       "activity_state": "active"
     },
@@ -1483,14 +1093,8 @@
         "internet_archive": "https://archive.org/details/dna-production",
         "homepage": "http://dna-production.org/"
       },
-      "genres": [
-        "Drone",
-        "Noise",
-        "Ambient"
-      ],
-      "countries": [
-        "Russia"
-      ],
+      "genres": ["Drone", "Noise", "Ambient"],
+      "countries": ["Russia"],
       "label_name": "DNA Production",
       "activity_state": "active"
     },
@@ -1499,12 +1103,8 @@
         "facebook": "https://www.facebook.com/netlabel.docil",
         "homepage": "http://docilnetlabel.blogspot.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Argentina"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Argentina"],
       "label_name": "docil",
       "activity_state": "active"
     },
@@ -1515,12 +1115,8 @@
         "rss": "http://dontrusttheruin.blogspot.com/feeds/posts/default?alt=rss",
         "homepage": "http://dontrusttheruin.blogspot.com/"
       },
-      "genres": [
-        
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": [],
+      "countries": ["United States"],
       "label_name": "Dontrusttheruin",
       "activity_state": "active"
     },
@@ -1535,13 +1131,8 @@
         "soundcloud": "https://soundcloud.com/dub-o-phonic",
         "homepage": "http://www.dubophonic.com/"
       },
-      "genres": [
-        "Dub",
-        "Reggae"
-      ],
-      "countries": [
-        "Cyprus"
-      ],
+      "genres": ["Dub", "Reggae"],
+      "countries": ["Cyprus"],
       "label_name": "Dubophonic",
       "activity_state": "active"
     },
@@ -1549,12 +1140,8 @@
       "urls": {
         "homepage": "http://dubroom.org/"
       },
-      "genres": [
-        
-      ],
-      "countries": [
-        "Netherlands"
-      ],
+      "genres": [],
+      "countries": ["Netherlands"],
       "label_name": "Dubroom",
       "activity_state": "active"
     },
@@ -1568,14 +1155,8 @@
         "soundcloud": "https://soundcloud.com/dustedwax",
         "homepage": "http://dustedwax.org/"
       },
-      "genres": [
-        "Downtempo",
-        "Abstract",
-        "Hip-Hop"
-      ],
-      "countries": [
-        "Bulgaria"
-      ],
+      "genres": ["Downtempo", "Abstract", "Hip-Hop"],
+      "countries": ["Bulgaria"],
       "label_name": "Dusted Wax Kingdom",
       "activity_state": "active"
     },
@@ -1588,12 +1169,8 @@
         "facebook": "https://www.facebook.com/pages/Ear-Alert-Records-Netlabel/655837601149616",
         "homepage": "http://earalertrecords.blogspot.com/"
       },
-      "genres": [
-        
-      ],
-      "countries": [
-        "Indonesia"
-      ],
+      "genres": [],
+      "countries": ["Indonesia"],
       "label_name": "Ear Alert Records",
       "activity_state": "inactive"
     },
@@ -1603,14 +1180,8 @@
         "internet_archive": "http://www.ear-recordings.nl/",
         "homepage": "http://www.ear-recordings.nl/"
       },
-      "genres": [
-        "Ambient",
-        "Electronic",
-        "Techno"
-      ],
-      "countries": [
-        "Netherlands"
-      ],
+      "genres": ["Ambient", "Electronic", "Techno"],
+      "countries": ["Netherlands"],
       "label_name": "EAR Recordings",
       "activity_state": "active"
     },
@@ -1622,13 +1193,8 @@
         "soundcloud": "https://soundcloud.com/eardrumspop",
         "homepage": "http://www.eardrumspop.com/"
       },
-      "genres": [
-        "Warm",
-        "Melodic"
-      ],
-      "countries": [
-        "Norway"
-      ],
+      "genres": ["Warm", "Melodic"],
+      "countries": ["Norway"],
       "label_name": "Eardrums Pop",
       "activity_state": "active"
     },
@@ -1640,12 +1206,8 @@
         "facebook": "https://www.facebook.com/pages/Earthrid/129361613812837",
         "homepage": "http://earthrid.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "England"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["England"],
       "label_name": "Earthrid",
       "activity_state": "active"
     },
@@ -1660,13 +1222,8 @@
         "soundcloud": "https://soundcloud.com/echoes-sounds",
         "homepage": "http://whiteartstudio.blogspot.com/"
       },
-      "genres": [
-        "Ambient",
-        "Electronic"
-      ],
-      "countries": [
-        "Russia"
-      ],
+      "genres": ["Ambient", "Electronic"],
+      "countries": ["Russia"],
       "label_name": "Echoes Sounds",
       "activity_state": "active"
     },
@@ -1679,12 +1236,8 @@
         "facebook": "https://www.facebook.com/pages/EdP-Editora-do-Porto/202742546411662",
         "homepage": "http://editoradoporto.blogspot.com/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Portugal"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Portugal"],
       "label_name": "Editora do Porto",
       "activity_state": "active"
     },
@@ -1696,12 +1249,8 @@
         "soundcloud": "https://soundcloud.com/eg0cide",
         "homepage": "http://eg0cide.com/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "France"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["France"],
       "label_name": "Eg0cide Productions",
       "activity_state": "active"
     },
@@ -1712,12 +1261,8 @@
         "soundcloud": "https://soundcloud.com/ekar-label",
         "homepage": "http://ekar-records.tumblr.com/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Germany"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Germany"],
       "label_name": "Ekar Records",
       "activity_state": "active"
     },
@@ -1729,13 +1274,8 @@
         "soundcloud": "https://soundcloud.com/ektoplazm",
         "homepage": "http://www.ektoplazm.com/"
       },
-      "genres": [
-        "Psy-Trance",
-        "Goa Trance"
-      ],
-      "countries": [
-        "Canada"
-      ],
+      "genres": ["Psy-Trance", "Goa Trance"],
+      "countries": ["Canada"],
       "label_name": "Ektoplazm",
       "activity_state": "active"
     },
@@ -1745,12 +1285,8 @@
         "rss": "https://electronicmusik.wordpress.com/feed/",
         "homepage": "https://electronicmusik.wordpress.com/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "England"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["England"],
       "label_name": "Electronic Musik",
       "activity_state": "active"
     },
@@ -1762,12 +1298,8 @@
         "facebook": "https://www.facebook.com/pages/Element-perspective/162481440520512",
         "homepage": "https://soundcloud.com/elementperspective"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Japan"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Japan"],
       "label_name": "Element Perspective",
       "activity_state": "active"
     },
@@ -1778,13 +1310,8 @@
         "facebook": "https://www.facebook.com/pages/los-emes-del-oso/143783819110",
         "homepage": "http://los.emes.del.oso.free.fr/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Argentina",
-        "Chile"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Argentina", "Chile"],
       "label_name": "Los Emes Del Oso",
       "activity_state": "active"
     },
@@ -1796,13 +1323,8 @@
         "soundcloud": "https://soundcloud.com/energostatic-records",
         "homepage": "http://energostatic.com/"
       },
-      "genres": [
-        "Deep House",
-        "Techno"
-      ],
-      "countries": [
-        "Ukraine"
-      ],
+      "genres": ["Deep House", "Techno"],
+      "countries": ["Ukraine"],
       "label_name": "Energostatic",
       "activity_state": "active"
     },
@@ -1816,12 +1338,8 @@
         "soundcloud": "https://soundcloud.com/enoughrec",
         "homepage": "http://enoughrecords.scene.org/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Portugal"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Portugal"],
       "label_name": "Enough Records",
       "activity_state": "active"
     },
@@ -1833,12 +1351,8 @@
         "soundcloud": "https://soundcloud.com/ephedrina-netlabel",
         "homepage": "https://ephedrinanetlabel.wordpress.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Italy"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Italy"],
       "label_name": "Ephedrina",
       "activity_state": "active"
     },
@@ -1846,12 +1360,8 @@
       "urls": {
         "soundcloud": "https://soundcloud.com/equaliteq"
       },
-      "genres": [
-        "Techno"
-      ],
-      "countries": [
-        "Pol"
-      ],
+      "genres": ["Techno"],
+      "countries": ["Pol"],
       "label_name": "Equaliteq",
       "activity_state": "active"
     },
@@ -1865,13 +1375,8 @@
         "soundcloud": "https://soundcloud.com/escrec",
         "homepage": "http://www.escrec.com/"
       },
-      "genres": [
-        "Electronic",
-        "Experimental"
-      ],
-      "countries": [
-        "Netherlands"
-      ],
+      "genres": ["Electronic", "Experimental"],
+      "countries": ["Netherlands"],
       "label_name": "esc.rec",
       "activity_state": "active"
     },
@@ -1881,12 +1386,8 @@
         "facebook": "https://www.facebook.com/espais.netlab",
         "homepage": "https://espaisnetlab.wordpress.com/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Spain"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Spain"],
       "label_name": "espais",
       "activity_state": "active"
     },
@@ -1898,13 +1399,8 @@
         "soundcloud": "https://soundcloud.com/etchedtraumas",
         "homepage": "http://www.etchedtraumas.net/"
       },
-      "genres": [
-        "Electronic",
-        "Ambient"
-      ],
-      "countries": [
-        "Greece"
-      ],
+      "genres": ["Electronic", "Ambient"],
+      "countries": ["Greece"],
       "label_name": "Etched Traumas",
       "activity_state": "active"
     },
@@ -1912,12 +1408,8 @@
       "urls": {
         "internet_archive": "https://archive.org/details/forkandsouprecords"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Aruba"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Aruba"],
       "label_name": "Fork and Soup Records",
       "activity_state": "inactive"
     },
@@ -1930,12 +1422,8 @@
         "facebook": "https://www.facebook.com/freefloatingmusic",
         "homepage": "http://www.freefloatingmusic.com/"
       },
-      "genres": [
-        "Ambient"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Ambient"],
+      "countries": ["United States"],
       "label_name": "Free Floating Music",
       "activity_state": "active"
     },
@@ -1948,14 +1436,8 @@
         "soundcloud": "https://soundcloud.com/fusionnetlabel",
         "homepage": "https://fusionnetlabel.wordpress.com/"
       },
-      "genres": [
-        "IDM",
-        "Glitch",
-        "Reggae"
-      ],
-      "countries": [
-        "Russia"
-      ],
+      "genres": ["IDM", "Glitch", "Reggae"],
+      "countries": ["Russia"],
       "label_name": "Fusion",
       "activity_state": "active"
     },
@@ -1969,12 +1451,8 @@
         "soundcloud": "https://soundcloud.com/fwonkrecords",
         "homepage": "http://fwonk.co.uk/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "England"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["England"],
       "label_name": "Fwonk*",
       "activity_state": "active"
     },
@@ -1985,15 +1463,8 @@
         "facebook": "https://www.facebook.com/pages/Galactic-Intolerance-Records/146601288724943",
         "homepage": "https://archive.org/details/galactic-intolerance-records"
       },
-      "genres": [
-        "Ambient",
-        "Experimental",
-        "Noise",
-        "Rock"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Ambient", "Experimental", "Noise", "Rock"],
+      "countries": ["United States"],
       "label_name": "Galactic Intolerance Records",
       "activity_state": "active"
     },
@@ -2006,12 +1477,8 @@
         "soundcloud": "https://soundcloud.com/galaverna",
         "homepage": "http://www.galaverna.org/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Italy"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Italy"],
       "label_name": "Galaverna",
       "activity_state": "active"
     },
@@ -2022,13 +1489,8 @@
         "internet_archive": "https://archive.org/details/gargan-records",
         "facebook": "https://www.facebook.com/garganrecords"
       },
-      "genres": [
-        "Techno",
-        "House"
-      ],
-      "countries": [
-        "Germany"
-      ],
+      "genres": ["Techno", "House"],
+      "countries": ["Germany"],
       "label_name": "Gargan Records",
       "activity_state": "inactive"
     },
@@ -2039,15 +1501,8 @@
         "facebook": "https://www.facebook.com/groups/genetictrance/",
         "homepage": "https://twitter.com/VzielProjet"
       },
-      "genres": [
-        "Experimental",
-        "Alternative",
-        "Indie",
-        "Shoegaze"
-      ],
-      "countries": [
-        "Russia"
-      ],
+      "genres": ["Experimental", "Alternative", "Indie", "Shoegaze"],
+      "countries": ["Russia"],
       "label_name": "Genetic Trance",
       "activity_state": "active"
     },
@@ -2059,12 +1514,8 @@
         "facebook": "https://www.facebook.com/GodHatesGodRecords",
         "homepage": "http://ghgr26.wix.com/godhatesgodrecords/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Belgium"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Belgium"],
       "label_name": "God Hates God Records",
       "activity_state": "active"
     },
@@ -2072,12 +1523,8 @@
       "urls": {
         "homepage": "http://ghrecords.clan.su/"
       },
-      "genres": [
-        
-      ],
-      "countries": [
-        "Russia"
-      ],
+      "genres": [],
+      "countries": ["Russia"],
       "label_name": "Great Hedgehogs’ Records",
       "activity_state": "active"
     },
@@ -2087,12 +1534,8 @@
         "internet_archive": "https://archive.org/details/green-field-recordings",
         "homepage": "http://greenfieldrecordings.yolasite.com/"
       },
-      "genres": [
-        "Field Recording"
-      ],
-      "countries": [
-        "Portugal"
-      ],
+      "genres": ["Field Recording"],
+      "countries": ["Portugal"],
       "label_name": "Green Field Recordings",
       "activity_state": "active"
     },
@@ -2103,12 +1546,8 @@
         "internet_archive": "https://archive.org/details/grimmgoat",
         "facebook": "https://www.facebook.com/grimmgoat"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Brazil"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Brazil"],
       "label_name": "Grimm Goat",
       "activity_state": "active"
     },
@@ -2120,12 +1559,8 @@
         "facebook": "https://www.facebook.com/groovecaffe",
         "homepage": "http://www.groovecaffe.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Croatia"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Croatia"],
       "label_name": "Groovecaffee",
       "activity_state": "active"
     },
@@ -2137,12 +1572,8 @@
         "soundcloud": "https://soundcloud.com/guforecords",
         "homepage": "http://guforecords.jimdo.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Italy"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Italy"],
       "label_name": "Gufo Records",
       "activity_state": "active"
     },
@@ -2154,15 +1585,8 @@
         "facebook": "https://www.facebook.com/GVSound",
         "homepage": "https://gv-sound.bandcamp.com/"
       },
-      "genres": [
-        "Dark Ambient",
-        "Drone",
-        "Noise",
-        "Ambient"
-      ],
-      "countries": [
-        "Russia"
-      ],
+      "genres": ["Dark Ambient", "Drone", "Noise", "Ambient"],
+      "countries": ["Russia"],
       "label_name": "GV Sound",
       "activity_state": "active"
     },
@@ -2175,12 +1599,8 @@
         "soundcloud": "https://soundcloud.com/haklofirecord",
         "homepage": "http://hakrecords.blogspot.com/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "France"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["France"],
       "label_name": "H.A.K. Lo-Fi Records",
       "activity_state": "active"
     },
@@ -2193,14 +1613,8 @@
         "soundcloud": "https://soundcloud.com/happypuppyrecords",
         "homepage": "http://happypuppyrecords.ca/"
       },
-      "genres": [
-        "Experimental",
-        "Pop",
-        "Rock"
-      ],
-      "countries": [
-        "Canada"
-      ],
+      "genres": ["Experimental", "Pop", "Rock"],
+      "countries": ["Canada"],
       "label_name": "Happy Puppy Records",
       "activity_state": "inactive"
     },
@@ -2211,12 +1625,8 @@
         "facebook": "https://www.facebook.com/pages/Hazard-Records/141642039220035",
         "homepage": "http://hazardrecords.mydocumenta.com/"
       },
-      "genres": [
-        "Public domain experimental music"
-      ],
-      "countries": [
-        "Spain"
-      ],
+      "genres": ["Public domain experimental music"],
+      "countries": ["Spain"],
       "label_name": "Hazard Records",
       "activity_state": "active"
     },
@@ -2228,12 +1638,8 @@
         "internet_archive": "https://archive.org/details/h-a-z-e",
         "facebook": "https://www.facebook.com/hazenetlabel"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Belarus"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Belarus"],
       "label_name": "Haze",
       "activity_state": "active"
     },
@@ -2242,12 +1648,8 @@
         "facebook": "https://www.facebook.com/pages/Homebody-Rec/456926521123251",
         "homepage": "http://homebody.de/"
       },
-      "genres": [
-        "Hip-Hop"
-      ],
-      "countries": [
-        "Germany"
-      ],
+      "genres": ["Hip-Hop"],
+      "countries": ["Germany"],
       "label_name": "Homebody",
       "activity_state": "active"
     },
@@ -2259,14 +1661,8 @@
         "soundcloud": "https://soundcloud.com/hortusconclususrecords",
         "homepage": "https://archive.org/details/hortusconclususrecords"
       },
-      "genres": [
-        "Avantgarde",
-        "Experimental",
-        "Drone"
-      ],
-      "countries": [
-        "Italy"
-      ],
+      "genres": ["Avantgarde", "Experimental", "Drone"],
+      "countries": ["Italy"],
       "label_name": "Hortus Conclusus Records",
       "activity_state": "active"
     },
@@ -2279,12 +1675,8 @@
         "soundcloud": "https://soundcloud.com/hujanrekords",
         "homepage": "http://hujanrekords.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Indonesia"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Indonesia"],
       "label_name": "Hujan Rekords",
       "activity_state": "active"
     },
@@ -2297,14 +1689,8 @@
         "soundcloud": "https://soundcloud.com/humanworkshop",
         "homepage": "http://humanworkshop.com/index.php?modus=music"
       },
-      "genres": [
-        
-      ],
-      "countries": [
-        "England",
-        "Germany",
-        "Netherlands"
-      ],
+      "genres": [],
+      "countries": ["England", "Germany", "Netherlands"],
       "label_name": "Humanworkshop",
       "activity_state": "active"
     },
@@ -2314,12 +1700,8 @@
         "facebook": "https://www.facebook.com/hypnoticdirgerecords",
         "homepage": "http://www.hypnoticdirgerecords.com/"
       },
-      "genres": [
-        "Metal"
-      ],
-      "countries": [
-        "Canada"
-      ],
+      "genres": ["Metal"],
+      "countries": ["Canada"],
       "label_name": "Hypnotic Dirge Records",
       "activity_state": "active"
     },
@@ -2331,12 +1713,8 @@
         "soundcloud": "https://soundcloud.com/hz-records",
         "homepage": "http://www.hz-records.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Japan"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Japan"],
       "label_name": "Hz-records",
       "activity_state": "active"
     },
@@ -2347,12 +1725,8 @@
         "soundcloud": "https://soundcloud.com/impulsive-habitat",
         "homepage": "http://www.impulsivehabitat.com/"
       },
-      "genres": [
-        "Field Recording"
-      ],
-      "countries": [
-        "Portugal"
-      ],
+      "genres": ["Field Recording"],
+      "countries": ["Portugal"],
       "label_name": "Impulsive Habitat",
       "activity_state": "active"
     },
@@ -2364,12 +1738,8 @@
         "soundcloud": "https://soundcloud.com/inyoureyesezine",
         "homepage": "http://iyelabel.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Italy"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Italy"],
       "label_name": "In Your Ears",
       "activity_state": "active"
     },
@@ -2381,12 +1751,8 @@
         "facebook": "https://www.facebook.com/groups/indonetlabelunion/",
         "homepage": "http://indonesiannetlabelunion.net/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Indonesia"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Indonesia"],
       "label_name": "Indonesian Netlabel Union",
       "activity_state": "active"
     },
@@ -2399,12 +1765,8 @@
         "soundcloud": "https://soundcloud.com/inoquo",
         "homepage": "http://www.inoquo.com/"
       },
-      "genres": [
-        "Minimal Techno"
-      ],
-      "countries": [
-        "Spain"
-      ],
+      "genres": ["Minimal Techno"],
+      "countries": ["Spain"],
       "label_name": "inoQuo",
       "activity_state": "active"
     },
@@ -2418,13 +1780,8 @@
         "soundcloud": "https://soundcloud.com/internet-recordings",
         "homepage": "http://internetrecordings.org/"
       },
-      "genres": [
-        "Drum n Bass",
-        "Trip-Hop"
-      ],
-      "countries": [
-        
-      ],
+      "genres": ["Drum n Bass", "Trip-Hop"],
+      "countries": [],
       "label_name": "Internet Recordings",
       "activity_state": "active"
     },
@@ -2435,12 +1792,8 @@
         "facebook": "https://www.facebook.com/interpretations.series",
         "homepage": "http://www.interpretations.info/"
       },
-      "genres": [
-        "Avantgarde"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Avantgarde"],
+      "countries": ["United States"],
       "label_name": "Interpretations",
       "activity_state": "active"
     },
@@ -2452,12 +1805,8 @@
         "internet_archive": "https://archive.org/details/ionosonde-recordings",
         "homepage": "http://ionosonderec.webs.com/"
       },
-      "genres": [
-        "Dub Techno"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Dub Techno"],
+      "countries": ["United States"],
       "label_name": "ionosonde recordings",
       "activity_state": "inactive"
     },
@@ -2468,13 +1817,8 @@
         "soundcloud": "https://soundcloud.com/jisatsuken",
         "homepage": "http://jisatsuken.org/"
       },
-      "genres": [
-        "Electronica"
-      ],
-      "countries": [
-        "Bulgaria",
-        "Netherlands"
-      ],
+      "genres": ["Electronica"],
+      "countries": ["Bulgaria", "Netherlands"],
       "label_name": "Jisatsuken",
       "activity_state": "active"
     },
@@ -2486,12 +1830,8 @@
         "facebook": "https://www.facebook.com/Kahvi.Collective.electronic.vibes",
         "homepage": "http://www.kahvi.org/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Finland"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Finland"],
       "label_name": "Kahvi Collective",
       "activity_state": "active"
     },
@@ -2500,15 +1840,8 @@
         "release_rss": "https://archive.org/services/collection-rss.php?collection=kaleidoscopiclabel",
         "internet_archive": "https://archive.org/details/kaleidoscopiclabel"
       },
-      "genres": [
-        "Electronic",
-        "Hip-Hop",
-        "Trip-Hop",
-        "Dubstep"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Electronic", "Hip-Hop", "Trip-Hop", "Dubstep"],
+      "countries": ["United States"],
       "label_name": "Kaleidoscopic Label",
       "activity_state": "active"
     },
@@ -2521,12 +1854,8 @@
         "facebook": "https://www.facebook.com/kanal30dotnet",
         "homepage": "http://netlabel.kanaltigapuluh.info/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Indonesia"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Indonesia"],
       "label_name": "Kanal30",
       "activity_state": "active"
     },
@@ -2539,13 +1868,8 @@
         "soundcloud": "https://soundcloud.com/keshco",
         "homepage": "http://keshco.co.uk/"
       },
-      "genres": [
-        "Experimental",
-        "Pop"
-      ],
-      "countries": [
-        "England"
-      ],
+      "genres": ["Experimental", "Pop"],
+      "countries": ["England"],
       "label_name": "Keshcology",
       "activity_state": "active"
     },
@@ -2554,12 +1878,8 @@
         "soundcloud": "https://soundcloud.com/musickollektiv-org",
         "homepage": "http://www.musickollektiv.org/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Russia"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Russia"],
       "label_name": "Kollectiv Artists",
       "activity_state": "active"
     },
@@ -2571,12 +1891,8 @@
         "soundcloud": "https://soundcloud.com/kopoclabel",
         "homepage": "http://kopoclabel.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Spain"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Spain"],
       "label_name": "KopocLabel",
       "activity_state": "active"
     },
@@ -2588,13 +1904,8 @@
         "facebook": "https://www.facebook.com/kovaydin.net",
         "homepage": "http://kovaydin.net/v3/"
       },
-      "genres": [
-        "Hardcore",
-        "Techno"
-      ],
-      "countries": [
-        "Finland"
-      ],
+      "genres": ["Hardcore", "Techno"],
+      "countries": ["Finland"],
       "label_name": "Kovaydin",
       "activity_state": "active"
     },
@@ -2607,12 +1918,8 @@
         "soundcloud": "https://soundcloud.com/kreislauf",
         "homepage": "https://kreislauf.org/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Germany"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Germany"],
       "label_name": "Kreislauf",
       "activity_state": "active"
     },
@@ -2624,14 +1931,8 @@
         "soundcloud": "https://soundcloud.com/kruk-records",
         "homepage": "http://krukrecords.nl/"
       },
-      "genres": [
-        "Dark Ambient",
-        "Experimental",
-        "Noise"
-      ],
-      "countries": [
-        "Netherlands"
-      ],
+      "genres": ["Dark Ambient", "Experimental", "Noise"],
+      "countries": ["Netherlands"],
       "label_name": "Kruk Records",
       "activity_state": "active"
     },
@@ -2645,12 +1946,8 @@
         "soundcloud": "https://soundcloud.com/labelnetlabel",
         "homepage": "http://www.labelnetlabel.com/"
       },
-      "genres": [
-        
-      ],
-      "countries": [
-        "Italy"
-      ],
+      "genres": [],
+      "countries": ["Italy"],
       "label_name": "La Bèl",
       "activity_state": "active"
     },
@@ -2661,12 +1958,8 @@
         "facebook": "https://www.facebook.com/Laverna.net",
         "homepage": "http://www.laverna.net/home.php"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Italy"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Italy"],
       "label_name": "Laverna",
       "activity_state": "active"
     },
@@ -2679,15 +1972,8 @@
         "soundcloud": "https://soundcloud.com/lcl",
         "homepage": "http://www.lclweb.org/"
       },
-      "genres": [
-        "Dub",
-        "Electronica",
-        "Trip-Hop",
-        "Folk"
-      ],
-      "countries": [
-        "France"
-      ],
+      "genres": ["Dub", "Electronica", "Trip-Hop", "Folk"],
+      "countries": ["France"],
       "label_name": "LCL",
       "activity_state": "active"
     },
@@ -2709,9 +1995,7 @@
         "Trip-Hop",
         "Post Rock"
       ],
-      "countries": [
-        "Russia"
-      ],
+      "countries": ["Russia"],
       "label_name": "Liminal Recs",
       "activity_state": "active"
     },
@@ -2724,13 +2008,8 @@
         "soundcloud": "https://soundcloud.com/linear-obsessional",
         "homepage": "http://www.linearobsessional.org/index.html"
       },
-      "genres": [
-        "Experimental",
-        "Improvisation"
-      ],
-      "countries": [
-        "England"
-      ],
+      "genres": ["Experimental", "Improvisation"],
+      "countries": ["England"],
       "label_name": "Linear Obsessional",
       "activity_state": "active"
     },
@@ -2746,9 +2025,7 @@
         "Psychedelic",
         "Psy-Trance"
       ],
-      "countries": [
-        "Unknown"
-      ],
+      "countries": ["Unknown"],
       "label_name": "Liquid Seed Recordings",
       "activity_state": "active"
     },
@@ -2761,12 +2038,8 @@
         "soundcloud": "https://soundcloud.com/zvukolom",
         "homepage": "https://zvukolom.org/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Slovakia"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Slovakia"],
       "label_name": "LOM",
       "activity_state": "active"
     },
@@ -2777,12 +2050,8 @@
         "facebook": "https://www.facebook.com/lostfrogproductions",
         "homepage": "http://www.lostfrog.net/index.html"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Japan"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Japan"],
       "label_name": "Lost Frog Productions",
       "activity_state": "active"
     },
@@ -2791,12 +2060,8 @@
         "twitter": "https://twitter.com/lpnl_netlabel",
         "homepage": "http://lpnl.altervista.org/"
       },
-      "genres": [
-        "Lo-Fi"
-      ],
-      "countries": [
-        "Italy"
-      ],
+      "genres": ["Lo-Fi"],
+      "countries": ["Italy"],
       "label_name": "lpnl",
       "activity_state": "active"
     },
@@ -2808,13 +2073,8 @@
         "soundcloud": "https://soundcloud.com/lsd25recordings",
         "homepage": "http://www.lsd25recordings.com/"
       },
-      "genres": [
-        "Techno",
-        "IDM"
-      ],
-      "countries": [
-        "Ukraine"
-      ],
+      "genres": ["Techno", "IDM"],
+      "countries": ["Ukraine"],
       "label_name": "LSD25 Recordings",
       "activity_state": "active"
     },
@@ -2827,14 +2087,8 @@
         "soundcloud": "https://soundcloud.com/mistrecords",
         "homepage": "http://en-mistrecords.blogspot.com/"
       },
-      "genres": [
-        "Ambient",
-        "Noise",
-        "Electronic"
-      ],
-      "countries": [
-        "Chile"
-      ],
+      "genres": ["Ambient", "Noise", "Electronic"],
+      "countries": ["Chile"],
       "label_name": "m.i.s.t. records",
       "activity_state": "active"
     },
@@ -2846,12 +2100,8 @@
         "facebook": "https://www.facebook.com/mahorka.org",
         "homepage": "http://mahorka.org/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Bulgaria"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Bulgaria"],
       "label_name": "Mahorka",
       "activity_state": "active"
     },
@@ -2864,12 +2114,8 @@
         "soundcloud": "https://soundcloud.com/maltine-record",
         "homepage": "http://maltinerecords.cs8.biz/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Japan"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Japan"],
       "label_name": "Maltine Records",
       "activity_state": "active"
     },
@@ -2881,12 +2127,8 @@
         "facebook": "https://www.facebook.com/pages/Mansarda-Records/397775263626705",
         "homepage": "https://mansardarecords.wordpress.com/"
       },
-      "genres": [
-        "Jazz"
-      ],
-      "countries": [
-        "Brazil"
-      ],
+      "genres": ["Jazz"],
+      "countries": ["Brazil"],
       "label_name": "Mansarda Records",
       "activity_state": "active"
     },
@@ -2898,12 +2140,8 @@
         "soundcloud": "https://soundcloud.com/marsmelonsrecords",
         "homepage": "http://www.marsmelons.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Norway"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Norway"],
       "label_name": "Mars Melons",
       "activity_state": "active"
     },
@@ -2915,12 +2153,8 @@
         "soundcloud": "https://soundcloud.com/mav-records-0kbps",
         "homepage": "http://mavrecords.webs.com/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Italy"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Italy"],
       "label_name": "MAV Records",
       "activity_state": "active"
     },
@@ -2931,12 +2165,8 @@
         "soundcloud": "https://soundcloud.com/mayowarerecord",
         "homepage": "http://mayoware.seesaa.net/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Japan"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Japan"],
       "label_name": "Mayoware",
       "activity_state": "active"
     },
@@ -2950,12 +2180,8 @@
         "soundcloud": "https://soundcloud.com/melodicanetlabel",
         "homepage": "http://melodica-netlabel.com/v2/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Slovakia"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Slovakia"],
       "label_name": "Melodica",
       "activity_state": "active"
     },
@@ -2964,12 +2190,8 @@
         "rss": "http://www.memoryformat.net/index.php?tempskin=_rss2",
         "homepage": "http://www.memoryformat.net/index.php"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Russia"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Russia"],
       "label_name": "Memoryformat",
       "activity_state": "active"
     },
@@ -2977,12 +2199,8 @@
       "urls": {
         "homepage": "https://micromusic.net"
       },
-      "genres": [
-        "8-Bit"
-      ],
-      "countries": [
-        "Switzerland"
-      ],
+      "genres": ["8-Bit"],
+      "countries": ["Switzerland"],
       "label_name": "Micromusic",
       "activity_state": "active"
     },
@@ -2995,12 +2213,8 @@
         "soundcloud": "https://soundcloud.com/miga",
         "homepage": "http://www.miga-label.org/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Spain"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Spain"],
       "label_name": "Miga",
       "activity_state": "active"
     },
@@ -3009,13 +2223,8 @@
         "facebook": "https://www.facebook.com/groups/45488506789/",
         "homepage": "http://www.clubotaku.org/mimi/uk/main.php"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Japan",
-        "Portugal"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Japan", "Portugal"],
       "label_name": "Mimi Records",
       "activity_state": "active"
     },
@@ -3028,12 +2237,8 @@
         "soundcloud": "https://soundcloud.com/mindblasting",
         "homepage": "https://mindblasting.wordpress.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Indonesia"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Indonesia"],
       "label_name": "Mindblasting",
       "activity_state": "active"
     },
@@ -3045,14 +2250,8 @@
         "soundcloud": "https://soundcloud.com/minimized-works",
         "homepage": "http://www.minimizedmusicrecords.es/"
       },
-      "genres": [
-        "Techno",
-        "Ambient",
-        "Experimental"
-      ],
-      "countries": [
-        "Spain"
-      ],
+      "genres": ["Techno", "Ambient", "Experimental"],
+      "countries": ["Spain"],
       "label_name": "Minimized music records",
       "activity_state": "active"
     },
@@ -3065,12 +2264,8 @@
         "soundcloud": "https://soundcloud.com/mixgalaxyrecords",
         "homepage": "http://mixgalaxyrecords.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Russia"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Russia"],
       "label_name": "Mixgalaxy",
       "activity_state": "active"
     },
@@ -3084,12 +2279,8 @@
         "soundcloud": "https://soundcloud.com/mnmn_rec",
         "homepage": "http://mnmn-rec.ru/main/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Russia"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Russia"],
       "label_name": "MNMN Records",
       "activity_state": "active"
     },
@@ -3100,12 +2291,8 @@
         "soundcloud": "https://soundcloud.com/mobius-spin",
         "homepage": "http://mobiusspin.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Germany"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Germany"],
       "label_name": "Mobius Spin",
       "activity_state": "active"
     },
@@ -3119,12 +2306,8 @@
         "soundcloud": "https://soundcloud.com/modismo-1",
         "homepage": "http://www.modismo.cl/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Chile"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Chile"],
       "label_name": "Modismo",
       "activity_state": "active"
     },
@@ -3136,12 +2319,8 @@
         "facebook": "https://www.facebook.com/pages/modisti/134516226540",
         "homepage": "http://modisti.com/netlabel/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Spain"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Spain"],
       "label_name": "Modisti",
       "activity_state": "active"
     },
@@ -3154,12 +2333,8 @@
         "soundcloud": "https://soundcloud.com/monofonicosnetlabel",
         "homepage": "http://monofonicos.net/lanzamientos/"
       },
-      "genres": [
-        "Electronica"
-      ],
-      "countries": [
-        "Colombia"
-      ],
+      "genres": ["Electronica"],
+      "countries": ["Colombia"],
       "label_name": "Monofónoicos",
       "activity_state": "active"
     },
@@ -3171,13 +2346,8 @@
         "soundcloud": "https://soundcloud.com/monokrak-netlabel",
         "homepage": "http://www.monokrak.net/"
       },
-      "genres": [
-        "Ambient",
-        "Deep Minimal Techno"
-      ],
-      "countries": [
-        "Switzerland"
-      ],
+      "genres": ["Ambient", "Deep Minimal Techno"],
+      "countries": ["Switzerland"],
       "label_name": "monoKraK",
       "activity_state": "active"
     },
@@ -3189,12 +2359,8 @@
         "soundcloud": "https://soundcloud.com/monsterjinx",
         "homepage": "http://www.monsterjinx.com/"
       },
-      "genres": [
-        "Hip-Hop"
-      ],
-      "countries": [
-        "Portugal"
-      ],
+      "genres": ["Hip-Hop"],
+      "countries": ["Portugal"],
       "label_name": "Monster Jinx",
       "activity_state": "active"
     },
@@ -3206,12 +2372,8 @@
         "facebook": "https://www.facebook.com/grondesillage",
         "homepage": "https://murmureintemporel.bandcamp.com/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "France"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["France"],
       "label_name": "Murmure Intemporel",
       "activity_state": "active"
     },
@@ -3221,12 +2383,8 @@
         "soundcloud": "https://soundcloud.com/naboamusic/",
         "homepage": "http://naboamusic.com/catalog/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["United States"],
       "label_name": "naboamusic",
       "activity_state": "active"
     },
@@ -3238,12 +2396,8 @@
         "sonicsquirrel": "http://sonicsquirrel.net/detail/label/nakrikalrecords/1658",
         "homepage": "https://nakrikal.bandcamp.com/music"
       },
-      "genres": [
-        "Ambient"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Ambient"],
+      "countries": ["United States"],
       "label_name": "Nakrikal Records",
       "activity_state": "active"
     },
@@ -3256,12 +2410,8 @@
         "soundcloud": "https://soundcloud.com/nebularsilence",
         "homepage": "http://nebularsilence.tumblr.com/"
       },
-      "genres": [
-        "Ambient"
-      ],
-      "countries": [
-        "Argentina"
-      ],
+      "genres": ["Ambient"],
+      "countries": ["Argentina"],
       "label_name": "Nebular Silence",
       "activity_state": "active"
     },
@@ -3286,9 +2436,7 @@
         "Electro",
         "Dub"
       ],
-      "countries": [
-        "Russia"
-      ],
+      "countries": ["Russia"],
       "label_name": "Nenormalizm",
       "activity_state": "active"
     },
@@ -3303,12 +2451,8 @@
         "soundcloud": "https://soundcloud.com/godscalpnks-3",
         "homepage": "http://nksinternational.free.fr/accueil_sonation.html"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "France"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["France"],
       "label_name": "NKS International",
       "activity_state": "active"
     },
@@ -3319,12 +2463,8 @@
         "internet_archive": "https://archive.org/details/notype",
         "homepage": "http://www.notype.com/drones/catalogue.e/notype/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Canada"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Canada"],
       "label_name": "No Type",
       "activity_state": "active"
     },
@@ -3340,9 +2480,7 @@
         "Experimental",
         "Hip-Hop"
       ],
-      "countries": [
-        "Belgium"
-      ],
+      "countries": ["Belgium"],
       "label_name": "Nohmad",
       "activity_state": "active"
     },
@@ -3353,12 +2491,8 @@
         "soundcloud": "https://soundcloud.com/noisybeat-netlabel",
         "homepage": "http://noisybeat.altervista.org/page_home.php"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Italy"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Italy"],
       "label_name": "NoisyBeat",
       "activity_state": "active"
     },
@@ -3376,9 +2510,7 @@
         "Electronic",
         "Acoustic"
       ],
-      "countries": [
-        "Italy"
-      ],
+      "countries": ["Italy"],
       "label_name": "Nostress",
       "activity_state": "active"
     },
@@ -3387,14 +2519,8 @@
         "rss": "http://www.nowaki-music.org/flux.php",
         "homepage": "http://www.nowaki-music.org/"
       },
-      "genres": [
-        "Electronic",
-        "Experimental",
-        "Jazz"
-      ],
-      "countries": [
-        "France"
-      ],
+      "genres": ["Electronic", "Experimental", "Jazz"],
+      "countries": ["France"],
       "label_name": "Nowaki",
       "activity_state": "active"
     },
@@ -3407,14 +2533,8 @@
         "soundcloud": "https://soundcloud.com/nulogic-netlabel",
         "homepage": "http://nulogicnetlabel.com/?idioma=2"
       },
-      "genres": [
-        "Ambient",
-        "Electronica",
-        "House"
-      ],
-      "countries": [
-        "England"
-      ],
+      "genres": ["Ambient", "Electronica", "House"],
+      "countries": ["England"],
       "label_name": "Nulogic",
       "activity_state": "active"
     },
@@ -3423,15 +2543,8 @@
         "release_rss": "https://archive.org/services/collection-rss.php?collection=num-num-nah-records",
         "homepage": "https://archive.org/details/num-num-nah-records"
       },
-      "genres": [
-        "Experimental",
-        "Rock",
-        "Hip-Hop",
-        "Electronica"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Experimental", "Rock", "Hip-Hop", "Electronica"],
+      "countries": ["United States"],
       "label_name": "Num Num Nah Records",
       "activity_state": "active"
     },
@@ -3443,12 +2556,8 @@
         "facebook": "https://www.facebook.com/pages/O2-label/158898897602885",
         "homepage": "http://o2label.ru/"
       },
-      "genres": [
-        "Ambient"
-      ],
-      "countries": [
-        "Russia"
-      ],
+      "genres": ["Ambient"],
+      "countries": ["Russia"],
       "label_name": "O2",
       "activity_state": "active"
     },
@@ -3458,12 +2567,8 @@
         "internet_archive": "https://archive.org/details/onetwoseven",
         "homepage": "http://www.josso.co.uk/ots/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "England"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["England"],
       "label_name": "One Two Seven Records",
       "activity_state": "active"
     },
@@ -3475,13 +2580,8 @@
         "soundcloud": "https://soundcloud.com/OthermanRecords",
         "homepage": "http://www.otherman-records.com/"
       },
-      "genres": [
-        "Breakcore",
-        "Chiptune"
-      ],
-      "countries": [
-        "Japan"
-      ],
+      "genres": ["Breakcore", "Chiptune"],
+      "countries": ["Japan"],
       "label_name": "Otherman Records",
       "activity_state": "active"
     },
@@ -3492,12 +2592,8 @@
         "facebook": "https://www.facebook.com/otium.netlabel",
         "homepage": "http://otium.ru/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Russia"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Russia"],
       "label_name": "Otium",
       "activity_state": "active"
     },
@@ -3505,13 +2601,8 @@
       "urls": {
         "homepage": "http://www.ozkyesound.altervista.org/"
       },
-      "genres": [
-        "Electronic",
-        "Experimental"
-      ],
-      "countries": [
-        "Italy"
-      ],
+      "genres": ["Electronic", "Experimental"],
+      "countries": ["Italy"],
       "label_name": "ozky e-sound",
       "activity_state": "active"
     },
@@ -3522,12 +2613,8 @@
         "facebook": "https://www.facebook.com/pakapirecords",
         "homepage": "http://pakapi.hotglue.me/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Argentina"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Argentina"],
       "label_name": "Pakapi Records",
       "activity_state": "active"
     },
@@ -3540,12 +2627,8 @@
         "soundcloud": "https://soundcloud.com/panyrosasdiscos",
         "homepage": "http://www.panyrosasdiscos.net/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["United States"],
       "label_name": "pan y rosas discos",
       "activity_state": "active"
     },
@@ -3557,12 +2640,8 @@
         "soundcloud": "https://soundcloud.com/panospria",
         "homepage": "http://www.notype.com/drones/catalogue.e/panospria/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Canada"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Canada"],
       "label_name": "Panospria",
       "activity_state": "active"
     },
@@ -3574,12 +2653,8 @@
         "facebook": "https://www.facebook.com/parentheticalrecs",
         "homepage": "https://parenthetical.bandcamp.com/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["United States"],
       "label_name": "Parenthetical Records",
       "activity_state": "active"
     },
@@ -3591,13 +2666,8 @@
         "facebook": "https://www.facebook.com/PetroglyphMusicNetlabel",
         "soundcloud": "https://soundcloud.com/petroglyph-music"
       },
-      "genres": [
-        "Ambient",
-        "Electronic"
-      ],
-      "countries": [
-        "Norway"
-      ],
+      "genres": ["Ambient", "Electronic"],
+      "countries": ["Norway"],
       "label_name": "Petroglyph Music",
       "activity_state": "active"
     },
@@ -3612,12 +2682,8 @@
         "soundcloud": "https://soundcloud.com/phonocake",
         "homepage": "http://phonocake.org/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Germany"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Germany"],
       "label_name": "Phonocake",
       "activity_state": "active"
     },
@@ -3630,12 +2696,8 @@
         "facebook": "https://www.facebook.com/pages/Picpack-label/130756020336618",
         "soundcloud": "https://soundcloud.com/picpack"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Russia"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Russia"],
       "label_name": "Picpack",
       "activity_state": "active"
     },
@@ -3645,12 +2707,8 @@
         "internet_archive": "https://archive.org/details/pinkwalrus",
         "homepage": "http://pink-walrus-productions.tumblr.com/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "England"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["England"],
       "label_name": "Pink Walrus Productions",
       "activity_state": "active"
     },
@@ -3661,12 +2719,8 @@
         "soundcloud": "https://soundcloud.com/pitupiturecordz",
         "homepage": "http://pitupiturec.tumblr.com/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Poland"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Poland"],
       "label_name": "pitu pitu",
       "activity_state": "active"
     },
@@ -3680,12 +2734,8 @@
         "soundcloud": "https://soundcloud.com/planet-terror-records",
         "homepage": "http://www.planetterrorrecords.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "England"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["England"],
       "label_name": "Planet Terror Records",
       "activity_state": "active"
     },
@@ -3705,9 +2755,7 @@
         "Electronic",
         "Minimal"
       ],
-      "countries": [
-        "Germany"
-      ],
+      "countries": ["Germany"],
       "label_name": "Planet X Records",
       "activity_state": "active"
     },
@@ -3718,12 +2766,8 @@
         "internet_archive": "https://archive.org/details/plataforma-records",
         "homepage": "http://plataformarecords.blogspot.com.br/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Brazil"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Brazil"],
       "label_name": "Plataforma Records",
       "activity_state": "active"
     },
@@ -3735,12 +2779,8 @@
         "facebook": "https://www.facebook.com/profile.php?id=100001981357545",
         "homepage": "http://plustimbre.blogspot.com/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Greece"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Greece"],
       "label_name": "Plus Timbre",
       "activity_state": "active"
     },
@@ -3759,9 +2799,7 @@
         "Drone",
         "Experimental"
       ],
-      "countries": [
-        "Macedonia"
-      ],
+      "countries": ["Macedonia"],
       "label_name": "Post Global Recordings",
       "activity_state": "active"
     },
@@ -3772,12 +2810,8 @@
         "soundcloud": "https://soundcloud.com/postmoderncore",
         "homepage": "http://postmoderncore.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["United States"],
       "label_name": "Postmoderncore",
       "activity_state": "active"
     },
@@ -3787,12 +2821,8 @@
         "facebook": "https://www.facebook.com/povertyelectronics",
         "homepage": "https://povertyelectronics.bandcamp.com/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["United States"],
       "label_name": "Poverty Electronics",
       "activity_state": "active"
     },
@@ -3800,12 +2830,8 @@
       "urls": {
         "netlabel_archive": "https://netlabelarchive.org/netlabels/power-glove-records/"
       },
-      "genres": [
-        "House"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["House"],
+      "countries": ["United States"],
       "label_name": "Power Glove Records",
       "activity_state": "inactive",
       "years_active": "2009-2010"
@@ -3819,12 +2845,8 @@
         "soundcloud": "https://soundcloud.com/psy-dance-global",
         "homepage": "http://psydg-records.webs.com/"
       },
-      "genres": [
-        "Psy-Trance"
-      ],
-      "countries": [
-        "Germany"
-      ],
+      "genres": ["Psy-Trance"],
+      "countries": ["Germany"],
       "label_name": "Psy-Dance-Global Records",
       "activity_state": "active"
     },
@@ -3838,12 +2860,8 @@
         "release_rss": "https://archive.org/services/collection-rss.php?collection=pueblo_nuevo",
         "homepage": "https://pueblonuevo.cl"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Chile"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Chile"],
       "label_name": "Pueblo Nuevo",
       "activity_state": "active"
     },
@@ -3854,14 +2872,8 @@
         "facebook": "https://www.facebook.com/PxlBot",
         "homepage": "http://www.pxl-bot.com/"
       },
-      "genres": [
-        "8-Bit",
-        "Chiptune",
-        "Glitch"
-      ],
-      "countries": [
-        "England"
-      ],
+      "genres": ["8-Bit", "Chiptune", "Glitch"],
+      "countries": ["England"],
       "label_name": "Pxl-Bot",
       "activity_state": "active"
     },
@@ -3873,13 +2885,8 @@
         "soundcloud": "https://soundcloud.com/quantum-bit-netlabel",
         "homepage": "http://www.quantum-bit.it/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "England",
-        "Italy"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["England", "Italy"],
       "label_name": "Quantum-Bit",
       "activity_state": "active"
     },
@@ -3887,14 +2894,8 @@
       "urls": {
         "homepage": "http://www.quoteunquoterecords.com/albums.htm"
       },
-      "genres": [
-        "Alternative",
-        "Rock",
-        "Live"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Alternative", "Rock", "Live"],
+      "countries": ["United States"],
       "label_name": "Quote Unquote Records",
       "activity_state": "active"
     },
@@ -3907,12 +2908,8 @@
         "soundcloud": "https://soundcloud.com/theradius",
         "homepage": "http://theradius.us/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["United States"],
       "label_name": "Radius",
       "activity_state": "active"
     },
@@ -3921,12 +2918,8 @@
         "rss": "http://rainnetlabel.blogspot.com/feeds/posts/default?alt=rss\"",
         "homepage": "http://rainnetlabel.blogspot.com/"
       },
-      "genres": [
-        "Ambient"
-      ],
-      "countries": [
-        "France"
-      ],
+      "genres": ["Ambient"],
+      "countries": ["France"],
       "label_name": "rain",
       "activity_state": "active"
     },
@@ -3937,15 +2930,8 @@
         "instagram": "https://instagram.com/real_more_real",
         "facebook": "https://facebook.com/realmorereal"
       },
-      "countries": [
-        "United States"
-      ],
-      "genres": [
-        "Electronic",
-        "Experimental",
-        "Ambient",
-        "Avantgarde"
-      ],
+      "countries": ["United States"],
+      "genres": ["Electronic", "Experimental", "Ambient", "Avantgarde"],
       "label_name": "REALMOREREAL",
       "activity_state": "active"
     },
@@ -3956,13 +2942,8 @@
         "soundcloud": "https://soundcloud.com/rec72",
         "homepage": "http://rec72.net/"
       },
-      "genres": [
-        "Electronica",
-        "Electronic"
-      ],
-      "countries": [
-        "Germany"
-      ],
+      "genres": ["Electronica", "Electronic"],
+      "countries": ["Germany"],
       "label_name": "rec72",
       "activity_state": "active"
     },
@@ -3974,12 +2955,8 @@
         "soundcloud": "https://soundcloud.com/records-on-ribs",
         "homepage": "http://recordsonribs.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "England"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["England"],
       "label_name": "Records On Ribs",
       "activity_state": "active"
     },
@@ -3990,12 +2967,8 @@
         "internet_archive": "https://archive.org/details/@republica_iberica_ruidista",
         "homepage": "https://republicaibericaruidista17.wordpress.com/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Spain"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Spain"],
       "label_name": "República Ibérica Ruidista",
       "activity_state": "active"
     },
@@ -4003,13 +2976,8 @@
       "urls": {
         "netlabel_archive": "https://netlabelarchive.org/netlabels/retrofuturism/"
       },
-      "genres": [
-        "Downtempo",
-        "IDM"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Downtempo", "IDM"],
+      "countries": ["United States"],
       "label_name": "Retrofuturism",
       "activity_state": "inactive"
     },
@@ -4019,12 +2987,8 @@
         "facebook": "https://www.facebook.com/sabacanrecords",
         "homepage": "http://sabacanrecords.web.fc2.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Japan"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Japan"],
       "label_name": "Sabacan Records",
       "activity_state": "active"
     },
@@ -4037,15 +3001,8 @@
         "soundcloud": "https://soundcloud.com/second-family-records",
         "homepage": "http://sfrecs.com/"
       },
-      "genres": [
-        "Krautrock",
-        "Industrial",
-        "Minimal",
-        "Noise"
-      ],
-      "countries": [
-        "Italy"
-      ],
+      "genres": ["Krautrock", "Industrial", "Minimal", "Noise"],
+      "countries": ["Italy"],
       "label_name": "Second Family Records",
       "activity_state": "active"
     },
@@ -4059,15 +3016,8 @@
         "soundcloud": "https://soundcloud.com/section-27",
         "homepage": "http://section27netlabel.blogspot.com/"
       },
-      "genres": [
-        "Electronic",
-        "IDM",
-        "Dubstep",
-        "Drum n Bass"
-      ],
-      "countries": [
-        "Scotland"
-      ],
+      "genres": ["Electronic", "IDM", "Dubstep", "Drum n Bass"],
+      "countries": ["Scotland"],
       "label_name": "Section 27",
       "activity_state": "active"
     },
@@ -4078,14 +3028,8 @@
         "soundcloud": "https://soundcloud.com/sense-net",
         "homepage": "https://sensenet.bandcamp.com/"
       },
-      "genres": [
-        "Dark Ambient",
-        "Techno",
-        "Experimental Electronic"
-      ],
-      "countries": [
-        "Russia"
-      ],
+      "genres": ["Dark Ambient", "Techno", "Experimental Electronic"],
+      "countries": ["Russia"],
       "label_name": "Sense/Net",
       "activity_state": "active"
     },
@@ -4104,9 +3048,7 @@
         "Downtempo",
         "IDM"
       ],
-      "countries": [
-        "Mexico"
-      ],
+      "countries": ["Mexico"],
       "label_name": "Secuencias Temporales",
       "activity_state": "active"
     },
@@ -4115,12 +3057,8 @@
         "twitter": "https://twitter.com/seriesmedia",
         "homepage": "http://www.seriesmedia.org/5/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Colombia"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Colombia"],
       "label_name": "Series",
       "activity_state": "active"
     },
@@ -4132,13 +3070,8 @@
         "facebook": "https://www.facebook.com/netlabelsignalsfromarkaim",
         "homepage": "http://signalsfromarkaim.blogspot.com/"
       },
-      "genres": [
-        "Experimental",
-        "Jazz"
-      ],
-      "countries": [
-        "Czech Republic"
-      ],
+      "genres": ["Experimental", "Jazz"],
+      "countries": ["Czech Republic"],
       "label_name": "Signals from Arkaim",
       "activity_state": "active"
     },
@@ -4149,13 +3082,8 @@
         "soundcloud": "https://soundcloud.com/silent-flow-netlabel",
         "homepage": "http://silent.com.md/"
       },
-      "genres": [
-        "Ambient",
-        "Downtempo"
-      ],
-      "countries": [
-        "Moldova"
-      ],
+      "genres": ["Ambient", "Downtempo"],
+      "countries": ["Moldova"],
       "label_name": "Silent Flow",
       "activity_state": "active"
     },
@@ -4168,12 +3096,8 @@
         "soundcloud": "https://soundcloud.com/sironarecords",
         "homepage": "http://www.sirona-records.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "France"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["France"],
       "label_name": "Sirona-Records",
       "activity_state": "active"
     },
@@ -4184,12 +3108,8 @@
         "facebook": "https://www.facebook.com/SleepingBros",
         "homepage": "http://www.sleepingbrothers.com/ "
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["United States"],
       "label_name": "Sleeping Brothers Records",
       "activity_state": "active"
     },
@@ -4214,9 +3134,7 @@
         "Leftfield",
         "Electronica"
       ],
-      "countries": [
-        "Taiwan"
-      ],
+      "countries": ["Taiwan"],
       "label_name": "Sociopath Recordings",
       "activity_state": "active"
     },
@@ -4226,12 +3144,8 @@
         "rss": "http://www.socsub.org/feed/",
         "homepage": "http://www.socsub.org/"
       },
-      "genres": [
-        "Rock"
-      ],
-      "countries": [
-        
-      ],
+      "genres": ["Rock"],
+      "countries": [],
       "label_name": "SOCSUB",
       "activity_state": "active"
     },
@@ -4240,12 +3154,8 @@
         "twitter": "https://twitter.com/softphase",
         "homepage": "http://softphase.org/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Finland"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Finland"],
       "label_name": "Softphase",
       "activity_state": "active"
     },
@@ -4259,12 +3169,8 @@
         "soundcloud": "https://soundcloud.com/soisloscerdos",
         "homepage": "http://soisloscerdos.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Spain"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Spain"],
       "label_name": "Soisloscerdos",
       "activity_state": "active"
     },
@@ -4274,14 +3180,8 @@
         "twitter": "https://twitter.com/soloadior",
         "facebook": "https://www.facebook.com/soloadior"
       },
-      "genres": [
-        "Indie",
-        "Alternative",
-        "Rock"
-      ],
-      "countries": [
-        "Argentina"
-      ],
+      "genres": ["Indie", "Alternative", "Rock"],
+      "countries": ["Argentina"],
       "label_name": "Sólo le Pido a Dior",
       "activity_state": "active"
     },
@@ -4293,12 +3193,8 @@
         "facebook": "https://www.facebook.com/sonicterrain",
         "homepage": "http://sonic-terrain.com/releases/"
       },
-      "genres": [
-        "Field Recording"
-      ],
-      "countries": [
-        "Colombia"
-      ],
+      "genres": ["Field Recording"],
+      "countries": ["Colombia"],
       "label_name": "Sonic Terrain",
       "activity_state": "active"
     },
@@ -4308,12 +3204,8 @@
         "internet_archive": "https://archive.org/details/sonidosanonimos",
         "homepage": "http://sonidosanonimos.blogspot.com/"
       },
-      "genres": [
-        "Hardcore"
-      ],
-      "countries": [
-        "Colombia"
-      ],
+      "genres": ["Hardcore"],
+      "countries": ["Colombia"],
       "label_name": "Sonidos Anonimos",
       "activity_state": "active"
     },
@@ -4326,14 +3218,8 @@
         "soundcloud": "https://soundcloud.com/sostanzerecords",
         "homepage": "http://www.sostanzerecords.it/"
       },
-      "genres": [
-        "Electronic",
-        "Hip-Hop",
-        "Techno"
-      ],
-      "countries": [
-        "Italy"
-      ],
+      "genres": ["Electronic", "Hip-Hop", "Techno"],
+      "countries": ["Italy"],
       "label_name": "Sostanze Records",
       "activity_state": "active"
     },
@@ -4352,9 +3238,7 @@
         "Techno",
         "Lo-Fi"
       ],
-      "countries": [
-        "Romania"
-      ],
+      "countries": ["Romania"],
       "label_name": "Soundsphere",
       "activity_state": "active"
     },
@@ -4369,12 +3253,8 @@
         "soundcloud": "https://soundcloud.com/noisemaxim",
         "homepage": "http://www.southerncitylab.net/"
       },
-      "genres": [
-        "Punk"
-      ],
-      "countries": [
-        "Russia"
-      ],
+      "genres": ["Punk"],
+      "countries": ["Russia"],
       "label_name": "Southern City’s Lab",
       "activity_state": "active"
     },
@@ -4385,14 +3265,8 @@
         "facebook": "https://www.facebook.com/speculationseditions",
         "homepage": "http://speculationseditions.com/"
       },
-      "genres": [
-        "Electronic",
-        "Experimental",
-        "Field Recording"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Electronic", "Experimental", "Field Recording"],
+      "countries": ["United States"],
       "label_name": "Speculations Editions",
       "activity_state": "active"
     },
@@ -4405,12 +3279,8 @@
         "soundcloud": "https://soundcloud.com/spettro-rec",
         "homepage": "http://spettrorec.tumblr.com/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Italy"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Italy"],
       "label_name": "Spettro Records",
       "activity_state": "active"
     },
@@ -4423,12 +3293,8 @@
         "soundcloud": "https://soundcloud.com/the-spirit-of-gravity",
         "homepage": "http://spiritofgravity.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "England"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["England"],
       "label_name": "Spirit of Gravity",
       "activity_state": "active"
     },
@@ -4437,12 +3303,8 @@
         "homepage": "https://squarefootsounds.com",
         "rss": "https://squarefootsounds.com/feed/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["United States"],
       "label_name": "Square Foot Sounds",
       "activity_state": "active"
     },
@@ -4453,13 +3315,8 @@
         "soundcloud": "https://soundcloud.com/stasisfield",
         "homepage": "http://www.stasisfield.com/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "England",
-        "United States"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["England", "United States"],
       "label_name": "Stasisfield",
       "activity_state": "active"
     },
@@ -4473,12 +3330,8 @@
         "soundcloud": "https://soundcloud.com/statoelettrico/",
         "homepage": "http://statoelettrico.net/netlabel/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Italy"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Italy"],
       "label_name": "Stato Elettrico",
       "activity_state": "active"
     },
@@ -4490,15 +3343,8 @@
         "soundcloud": "https://soundcloud.com/stereoptico",
         "homepage": "http://www.stereoptico.com/"
       },
-      "genres": [
-        "Ambient",
-        "Techno",
-        "Hip-Hop"
-      ],
-      "countries": [
-        "Dominican Republic",
-        "United States"
-      ],
+      "genres": ["Ambient", "Techno", "Hip-Hop"],
+      "countries": ["Dominican Republic", "United States"],
       "label_name": "Stereōptico",
       "activity_state": "active"
     },
@@ -4512,12 +3358,8 @@
         "facebook": "https://www.facebook.com/pages/Stillborntwins-SBT-Records/501240623257229",
         "homepage": "http://stillborntwinssbt.tumblr.com/"
       },
-      "genres": [
-        "Metal"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Metal"],
+      "countries": ["United States"],
       "label_name": "StillBorn Twins Records",
       "activity_state": "active"
     },
@@ -4537,10 +3379,7 @@
         "Drone",
         "Noise"
       ],
-      "countries": [
-        "United Kingdom",
-        "England"
-      ],
+      "countries": ["United Kingdom", "England"],
       "label_name": "Still Heat Recordings",
       "activity_state": "active"
     },
@@ -4553,12 +3392,8 @@
         "facebook": "https://www.facebook.com/stoneage.rcrds",
         "homepage": "http://www.stoneagerecords.blogspot.com/"
       },
-      "genres": [
-        "Rock"
-      ],
-      "countries": [
-        "Indonesia"
-      ],
+      "genres": ["Rock"],
+      "countries": ["Indonesia"],
       "label_name": "StoneAge Records",
       "activity_state": "active"
     },
@@ -4568,13 +3403,8 @@
         "internet_archive": "https://archive.org/details/strangeguyrecords",
         "homepage": "http://vk.com/strangeguyrecords"
       },
-      "genres": [
-        "Noise",
-        "Experimental"
-      ],
-      "countries": [
-        "Russia"
-      ],
+      "genres": ["Noise", "Experimental"],
+      "countries": ["Russia"],
       "label_name": "Strange Guy Records",
       "activity_state": "active"
     },
@@ -4586,14 +3416,8 @@
         "facebook": "https://www.facebook.com/pages/Strato-Dischi-Notlabel/193130984106760",
         "homepage": "http://stratodischi.blogspot.com/"
       },
-      "genres": [
-        "Dub",
-        "Electronic",
-        "Folk"
-      ],
-      "countries": [
-        "Italy"
-      ],
+      "genres": ["Dub", "Electronic", "Folk"],
+      "countries": ["Italy"],
       "label_name": "Strato Dischi Notlabel",
       "activity_state": "active"
     },
@@ -4604,13 +3428,30 @@
         "internet_archive": "https://archive.org/details/strayrecordings",
         "homepage": "http://vamp.lart.me/~ade/music/sr/index.html"
       },
-      "genres": [
-        "DIY"
-      ],
-      "countries": [
-        "England"
-      ],
+      "genres": ["DIY"],
+      "countries": ["England"],
       "label_name": "Stray Recordings",
+      "activity_state": "active"
+    },
+    {
+      "urls": {
+        "internet_archive": "https://archive.org/details/@sub65",
+        "homepage": "http://vamp.lart.me/~ade/music/sr/index.html",
+        "twitter": "https://twitter.com/subsixtyfive"
+      },
+      "genres": [
+        "Lobit",
+        "Avantgarde",
+        "Field Recording",
+        "Improvisation",
+        "Electronic",
+        "Lo-Fi",
+        "Psychedelic",
+        "Experimental",
+        "Noise"
+      ],
+      "countries": ["United States"],
+      "label_name": "sub65",
       "activity_state": "active"
     },
     {
@@ -4621,16 +3462,8 @@
         "soundcloud": "https://soundcloud.com/subbassrec",
         "homepage": "http://www.subbass.cc/"
       },
-      "genres": [
-        "Bass Music",
-        "Downbeat",
-        "Breaks",
-        "Ambient",
-        "Dub"
-      ],
-      "countries": [
-        "Germany"
-      ],
+      "genres": ["Bass Music", "Downbeat", "Breaks", "Ambient", "Dub"],
+      "countries": ["Germany"],
       "label_name": "subbass",
       "activity_state": "active"
     },
@@ -4643,14 +3476,8 @@
         "soundcloud": "https://soundcloud.com/subterraneantide",
         "homepage": "http://subterraneantide.com/"
       },
-      "genres": [
-        "Experimental",
-        "Drone",
-        "Ambient"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Experimental", "Drone", "Ambient"],
+      "countries": ["United States"],
       "label_name": "Subterranean Tide",
       "activity_state": "inactive"
     },
@@ -4663,13 +3490,8 @@
         "facebook": "https://www.facebook.com/pages/Subwise/150721244987775",
         "soundcloud": "https://soundcloud.com/subwise"
       },
-      "genres": [
-        "Ambient",
-        "Experimental"
-      ],
-      "countries": [
-        "Russia"
-      ],
+      "genres": ["Ambient", "Experimental"],
+      "countries": ["Russia"],
       "label_name": "Subwise",
       "activity_state": "active"
     },
@@ -4682,12 +3504,8 @@
         "soundcloud": "https://soundcloud.com/sucu-music",
         "homepage": "http://sucumusic.weebly.com/-home"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Italy"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Italy"],
       "label_name": "Sucu Music",
       "activity_state": "active"
     },
@@ -4698,13 +3516,8 @@
         "soundcloud": "https://soundcloud.com/sulkynetlabel",
         "homepage": "https://sulkynetlabel.bandcamp.com/"
       },
-      "genres": [
-        "Ambient",
-        "Electronic"
-      ],
-      "countries": [
-        "Argentina"
-      ],
+      "genres": ["Ambient", "Electronic"],
+      "countries": ["Argentina"],
       "label_name": "Sulky",
       "activity_state": "active"
     },
@@ -4717,12 +3530,8 @@
         "soundcloud": "https://soundcloud.com/sunstation",
         "homepage": "http://sunstation.ru/"
       },
-      "genres": [
-        "Psy-Trance"
-      ],
-      "countries": [
-        "Russia"
-      ],
+      "genres": ["Psy-Trance"],
+      "countries": ["Russia"],
       "label_name": "Sun Station Records",
       "activity_state": "active"
     },
@@ -4731,12 +3540,8 @@
         "twitter": "https://twitter.com/superssonica",
         "homepage": "http://www.superssonica.net/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Spain"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Spain"],
       "label_name": "Superssonica",
       "activity_state": "inactive"
     },
@@ -4750,12 +3555,8 @@
         "internet_archive": "https://archive.org/details/surrism-phonoethics",
         "soundcloud": "https://soundcloud.com/surrism-phonoethics"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Germany"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Germany"],
       "label_name": "suRRism-Phonoethics",
       "activity_state": "active"
     },
@@ -4767,12 +3568,8 @@
         "internet_archive": "https://archive.org/details/susuultrarockrecords",
         "homepage": "http://susuultrarockrecords.com/"
       },
-      "genres": [
-        "Rock"
-      ],
-      "countries": [
-        "Indonesia"
-      ],
+      "genres": ["Rock"],
+      "countries": ["Indonesia"],
       "label_name": "Susu Ultrarock Records",
       "activity_state": "active"
     },
@@ -4784,12 +3581,8 @@
         "soundcloud": "https://soundcloud.com/tachyonnetlabel",
         "homepage": "https://netlabeltachyon.wordpress.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Slovakia"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Slovakia"],
       "label_name": "TACHYON",
       "activity_state": "active"
     },
@@ -4799,12 +3592,8 @@
         "internet_archive": "https://archive.org/details/talesaboutnothing",
         "homepage": "http://talesaboutnothing.jimdo.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Russia"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Russia"],
       "label_name": "Tales About Nothing",
       "activity_state": "active"
     },
@@ -4819,12 +3608,8 @@
         "soundcloud": "https://soundcloud.com/tape-safe",
         "homepage": "http://www.tape-safe.net/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Belgium"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Belgium"],
       "label_name": "Tape-Safe",
       "activity_state": "active"
     },
@@ -4838,13 +3623,8 @@
         "soundcloud": "https://soundcloud.com/techkilla",
         "homepage": "http://techkilla.blogspot.com/"
       },
-      "genres": [
-        "IDM",
-        "Breakbeat"
-      ],
-      "countries": [
-        "Mexico"
-      ],
+      "genres": ["IDM", "Breakbeat"],
+      "countries": ["Mexico"],
       "label_name": "TECHKILLA",
       "activity_state": "active"
     },
@@ -4855,12 +3635,8 @@
         "facebook": "https://www.facebook.com/groups/116660378362806/",
         "homepage": "http://www.tecnonucleo.org/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Spain"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Spain"],
       "label_name": "tecnoNucleo",
       "activity_state": "active"
     },
@@ -4875,13 +3651,8 @@
         "soundcloud": "https://soundcloud.com/temiong-recordings",
         "homepage": "http://temiongrecordings.tumblr.com/"
       },
-      "genres": [
-        "Ambient",
-        "Experimental"
-      ],
-      "countries": [
-        "Argentina"
-      ],
+      "genres": ["Ambient", "Experimental"],
+      "countries": ["Argentina"],
       "label_name": "Temiong Recordings",
       "activity_state": "active"
     },
@@ -4891,12 +3662,8 @@
         "soundcloud": "https://soundcloud.com/teque-nique-netlabel",
         "homepage": "http://www.teque-nique.net/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Italy"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Italy"],
       "label_name": "Teque-nique",
       "activity_state": "active"
     },
@@ -4915,9 +3682,7 @@
         "Breakcore",
         "Noisecore"
       ],
-      "countries": [
-        "Finland"
-      ],
+      "countries": ["Finland"],
       "label_name": "THAROOP RECORDS",
       "activity_state": "active"
     },
@@ -4930,12 +3695,8 @@
         "soundcloud": "https://soundcloud.com/this-side",
         "homepage": "http://www.this-side.net/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Greece"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Greece"],
       "label_name": "This Side",
       "activity_state": "active"
     },
@@ -4947,13 +3708,8 @@
         "soundcloud": "https://soundcloud.com/groups/tonatom-the-netlabel",
         "homepage": "http://tonatom.net/"
       },
-      "genres": [
-        "Ambient",
-        "Experimental"
-      ],
-      "countries": [
-        "Germany"
-      ],
+      "genres": ["Ambient", "Experimental"],
+      "countries": ["Germany"],
       "label_name": "tonAtom",
       "activity_state": "active"
     },
@@ -4962,12 +3718,8 @@
         "facebook": "https://www.facebook.com/top40.org",
         "homepage": "http://top-40.org/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Russia"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Russia"],
       "label_name": "top-40.org",
       "activity_state": "active"
     },
@@ -4979,12 +3731,8 @@
         "release_rss": "https://archive.org/services/collection-rss.php?collection=tornfleshrecords",
         "homepage": "https://archive.org/details/tornfleshrecords"
       },
-      "genres": [
-        "Metal"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Metal"],
+      "countries": ["United States"],
       "label_name": "Torn Flesh Records",
       "activity_state": "active"
     },
@@ -4995,15 +3743,8 @@
         "soundcloud": "https://soundcloud.com/totokokolabel",
         "homepage": "http://totokokolabel.com/"
       },
-      "genres": [
-        "Classical",
-        "Electronic",
-        "Warm",
-        "Downtempo"
-      ],
-      "countries": [
-        "Japan"
-      ],
+      "genres": ["Classical", "Electronic", "Warm", "Downtempo"],
+      "countries": ["Japan"],
       "label_name": "Totokoko",
       "activity_state": "active"
     },
@@ -5014,13 +3755,8 @@
         "soundcloud": "https://soundcloud.com/toucanmusic",
         "homepage": "http://www.toucanmusic.co.uk/"
       },
-      "genres": [
-        "Techno",
-        "House"
-      ],
-      "countries": [
-        "United Kingdom"
-      ],
+      "genres": ["Techno", "House"],
+      "countries": ["United Kingdom"],
       "label_name": "Toucan Music",
       "activity_state": "active"
     },
@@ -5031,14 +3767,8 @@
         "internet_archive": "https://archive.org/details/treetrunk",
         "homepage": "https://treetrunkrecords.wordpress.com/"
       },
-      "genres": [
-        "Ambient",
-        "Electronic",
-        "Experimental"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Ambient", "Electronic", "Experimental"],
+      "countries": ["United States"],
       "label_name": "Treetrunk Records",
       "activity_state": "active"
     },
@@ -5049,13 +3779,8 @@
         "internet_archive": "https://archive.org/details/triceratupuz",
         "homepage": "http://triceratupuz.altervista.org/index_en.html"
       },
-      "genres": [
-        "Algorithmic",
-        "Experimental"
-      ],
-      "countries": [
-        "Italy"
-      ],
+      "genres": ["Algorithmic", "Experimental"],
+      "countries": ["Italy"],
       "label_name": "Triceratupuz",
       "activity_state": "active"
     },
@@ -5066,13 +3791,8 @@
         "soundcloud": "https://soundcloud.com/trucorecords",
         "homepage": "http://www.trucorecords.blogspot.com/"
       },
-      "genres": [
-        "Rock",
-        "Electronic"
-      ],
-      "countries": [
-        "Peru"
-      ],
+      "genres": ["Rock", "Electronic"],
+      "countries": ["Peru"],
       "label_name": "Truco Records",
       "activity_state": "active"
     },
@@ -5084,12 +3804,8 @@
         "soundcloud": "https://soundcloud.com/tunguska-ems",
         "homepage": "http://tunguskagrooves.com/en/"
       },
-      "genres": [
-        "Electronica"
-      ],
-      "countries": [
-        "Russia"
-      ],
+      "genres": ["Electronica"],
+      "countries": ["Russia"],
       "label_name": "Tunguskagrooves",
       "activity_state": "active"
     },
@@ -5100,15 +3816,8 @@
         "facebook": "https://www.facebook.com/umpako.netlabel",
         "homepage": "http://umpako.com/"
       },
-      "genres": [
-        "Ambient",
-        "Electronic",
-        "Experimental",
-        "IDM"
-      ],
-      "countries": [
-        "Russia"
-      ],
+      "genres": ["Ambient", "Electronic", "Experimental", "IDM"],
+      "countries": ["Russia"],
       "label_name": "Umpako",
       "activity_state": "active"
     },
@@ -5118,13 +3827,8 @@
         "sonicsquirrel": "http://sonicsquirrel.net/detail/label/Underpolen/1356",
         "homepage": "http://underpolen.bandcamp.com"
       },
-      "genres": [
-        "Electronic",
-        "Experimental"
-      ],
-      "countries": [
-        "Poland"
-      ],
+      "genres": ["Electronic", "Experimental"],
+      "countries": ["Poland"],
       "label_name": "Underpolen",
       "activity_state": "active"
     },
@@ -5134,12 +3838,8 @@
         "internet_archive": "https://archive.org/details/unfoundsound",
         "homepage": "http://unfoundsoundrecords.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["United States"],
       "label_name": "unfoundsound",
       "activity_state": "active"
     },
@@ -5147,12 +3847,8 @@
       "urls": {
         "homepage": "https://sites.google.com/site/unicodemusic/"
       },
-      "genres": [
-        "Lo-Bit"
-      ],
-      "countries": [
-        "Italy"
-      ],
+      "genres": ["Lo-Bit"],
+      "countries": ["Italy"],
       "label_name": "unicode music",
       "activity_state": "active"
     },
@@ -5161,12 +3857,8 @@
         "release_rss": "https://archive.org/services/collection-rss.php?collection=unlistenablemusic",
         "internet_archive": "https://archive.org/details/unlistenablemusic"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["United States"],
       "label_name": "Unlistenable Music",
       "activity_state": "active"
     },
@@ -5180,12 +3872,8 @@
         "facebook": "https://www.facebook.com/usc.music",
         "homepage": "http://unitedstudios.ru/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Russia"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Russia"],
       "label_name": "United Studios Corp.",
       "activity_state": "active"
     },
@@ -5194,12 +3882,8 @@
         "twitter": "https://twitter.com/valetnarecords",
         "homepage": "https://valetna.wordpress.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Indonesia"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Indonesia"],
       "label_name": "Valetna Reocords",
       "activity_state": "active"
     },
@@ -5207,12 +3891,8 @@
       "urls": {
         "homepage": "http://gestrococlub.org/VVVAATICANmeset-3.html"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "France"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["France"],
       "label_name": "Vatican Records",
       "activity_state": "active"
     },
@@ -5226,12 +3906,8 @@
         "soundcloud": "https://soundcloud.com/vuzhmusic",
         "homepage": "http://www.vuzhmusic.com/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["United States"],
       "label_name": "Vuzh Music",
       "activity_state": "active"
     },
@@ -5241,12 +3917,8 @@
         "internet_archive": "https://archive.org/details/wavelike",
         "homepage": "http://www.wavelike.net/"
       },
-      "genres": [
-        "Techno"
-      ],
-      "countries": [
-        "Germany"
-      ],
+      "genres": ["Techno"],
+      "countries": ["Germany"],
       "label_name": "Wavelike",
       "activity_state": "active"
     },
@@ -5260,13 +3932,8 @@
         "facebook": "https://www.facebook.com/WeAreAllGhostsNetlabel",
         "homepage": "http://www.weareallghosts.co.uk/"
       },
-      "genres": [
-        "Ambient",
-        "Electronic"
-      ],
-      "countries": [
-        "Scotland"
-      ],
+      "genres": ["Ambient", "Electronic"],
+      "countries": ["Scotland"],
       "label_name": "We Are All Ghosts",
       "activity_state": "active"
     },
@@ -5278,12 +3945,8 @@
         "facebook": "https://www.facebook.com/wehavenozen.netlabel",
         "homepage": "http://wehavenozen.blogspot.com/"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Ukraine"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Ukraine"],
       "label_name": "We Have No Zen",
       "activity_state": "active"
     },
@@ -5295,12 +3958,8 @@
         "soundcloud": "https://soundcloud.com/weakiediscs",
         "homepage": "https://weakiediscs.bandcamp.com/"
       },
-      "genres": [
-        
-      ],
-      "countries": [
-        "Poland"
-      ],
+      "genres": [],
+      "countries": ["Poland"],
       "label_name": "weakie discs",
       "activity_state": "active"
     },
@@ -5311,12 +3970,8 @@
         "facebook": "https://www.facebook.com/pages/xylem-records/511021242296313",
         "homepage": "http://www.xylemrecords.co.uk/"
       },
-      "genres": [
-        "Ambient"
-      ],
-      "countries": [
-        "Canada"
-      ],
+      "genres": ["Ambient"],
+      "countries": ["Canada"],
       "label_name": "xylem records",
       "activity_state": "active"
     },
@@ -5341,9 +3996,7 @@
         "Dark Ambient",
         "Juke"
       ],
-      "countries": [
-        "Germany"
-      ],
+      "countries": ["Germany"],
       "label_name": "Yarn Audio",
       "activity_state": "active"
     },
@@ -5358,12 +4011,8 @@
         "soundcloud": "https://soundcloud.com/yesnowave",
         "homepage": "http://yesnowave.com/"
       },
-      "genres": [
-        "Alternative"
-      ],
-      "countries": [
-        "Indonesia"
-      ],
+      "genres": ["Alternative"],
+      "countries": ["Indonesia"],
       "label_name": "Yes No Wave",
       "activity_state": "active"
     },
@@ -5372,12 +4021,8 @@
         "release_rss": "https://archive.org/services/collection-rss.php?collection=yip-records",
         "internet_archive": "https://archive.org/details/yip-records"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "Unknown"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["Unknown"],
       "label_name": "YIP! Records",
       "activity_state": "active"
     },
@@ -5385,15 +4030,8 @@
       "urls": {
         "netlabel_archive": "https://netlabelarchive.org/netlabels/yuki-yaki/"
       },
-      "countries": [
-        "Germany"
-      ],
-      "genres": [
-        "Techno",
-        "Minimal",
-        "IDM",
-        "Ambient"
-      ],
+      "countries": ["Germany"],
+      "genres": ["Techno", "Minimal", "IDM", "Ambient"],
       "label_name": "Yuki Yaki",
       "activity_state": "inactive",
       "years_active": "2005-2010"
@@ -5405,12 +4043,8 @@
         "soundcloud": "https://soundcloud.com/yuyayrecords",
         "homepage": "http://www.yuyay-records.de/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Germany"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Germany"],
       "label_name": "YUYAY Records",
       "activity_state": "active"
     },
@@ -5420,13 +4054,8 @@
         "rss": "http://zenapolae.com/rss.xml",
         "homepage": "http://www.zenapolae.com/"
       },
-      "genres": [
-        "Ambient",
-        "Experimental"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Ambient", "Experimental"],
+      "countries": ["United States"],
       "label_name": "Zenapolæ",
       "activity_state": "active"
     },
@@ -5437,12 +4066,8 @@
         "twitter": "https://twitter.com/zeromoon",
         "soundcloud": "https://soundcloud.com/zeromoon"
       },
-      "genres": [
-        "Experimental"
-      ],
-      "countries": [
-        "United States"
-      ],
+      "genres": ["Experimental"],
+      "countries": ["United States"],
       "label_name": "Zeromoon",
       "activity_state": "active"
     },
@@ -5454,12 +4079,8 @@
         "soundcloud": "https://soundcloud.com/zigurartists",
         "homepage": "http://www.zigurartists.com/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Portugal"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Portugal"],
       "label_name": "Zigur Artists",
       "activity_state": "active"
     },
@@ -5468,12 +4089,8 @@
         "rss": "http://www.zimmer-records.org/feed/",
         "homepage": "http://www.zimmer-records.org/"
       },
-      "genres": [
-        "Electronic"
-      ],
-      "countries": [
-        "Germany"
-      ],
+      "genres": ["Electronic"],
+      "countries": ["Germany"],
       "label_name": "Zimmer Records",
       "activity_state": "active"
     },
@@ -5484,15 +4101,8 @@
         "facebook": "https://www.facebook.com/zorch.factory.records",
         "homepage": "http://www.zorchfactoryrecords.com/"
       },
-      "genres": [
-        "Post-Punk",
-        "Deathrock",
-        "Gothic Rock",
-        "Industrial"
-      ],
-      "countries": [
-        "France"
-      ],
+      "genres": ["Post-Punk", "Deathrock", "Gothic Rock", "Industrial"],
+      "countries": ["France"],
       "label_name": "Zorch Factory Records",
       "activity_state": "active"
     },
@@ -6000,12 +4610,8 @@
         "internet_archive": "http://www.archive.org/details/ansiform"
       },
       "label_name": "Ansiform",
-      "countries": [
-        "Canada"
-      ],
-      "genres": [
-        "Ambient"
-      ],
+      "countries": ["Canada"],
+      "genres": ["Ambient"],
       "activity_state": "inactive",
       "years_active": "2005-2009"
     },
@@ -6189,14 +4795,8 @@
       "urls": {
         "netlabel_archive": "https://netlabelarchive.org/netlabels/backtrack/"
       },
-      "countries": [
-        "United States"
-      ],
-      "genres": [
-        "IDM",
-        "Electro",
-        "Ambient"
-      ],
+      "countries": ["United States"],
+      "genres": ["IDM", "Electro", "Ambient"],
       "label_name": "Backtrack",
       "activity_state": "inactive",
       "years_active": "2004-2006"
@@ -6411,13 +5011,8 @@
       "urls": {
         "netlabel_archive": "https://netlabelarchive.org/netlabels/candy-mind-records/"
       },
-      "countries": [
-        "Sweden"
-      ],
-      "genres": [
-        "Electro",
-        "IDM"
-      ],
+      "countries": ["Sweden"],
+      "genres": ["Electro", "IDM"],
       "activity_state": "inactive",
       "years_active": "2004-2007"
     },
@@ -6433,13 +5028,8 @@
         "internet_archive": "https://archive.org/details/catchynamerecords",
         "netlabel_archive": "https://netlabelarchive.org/netlabels/catchynamerecords/"
       },
-      "genres": [
-        "Chiptune",
-        "8-Bit"
-      ],
-      "countries": [
-        "Austria"
-      ],
+      "genres": ["Chiptune", "8-Bit"],
+      "countries": ["Austria"],
       "label_name": "CatchyNameRecords",
       "activity_state": "inactive"
     },
@@ -6511,13 +5101,8 @@
         "netlabel_archive": "https://netlabelarchive.org/netlabels/comatronic/",
         "internet_archive": "http://www.archive.org/details/comatronic"
       },
-      "countries": [
-        "Austria"
-      ],
-      "genres": [
-        "Techno",
-        "Minimal"
-      ],
+      "countries": ["Austria"],
+      "genres": ["Techno", "Minimal"],
       "label_name": "Comatronic",
       "activity_state": "inactive",
       "years_active": "2004-2006"
@@ -6594,11 +5179,7 @@
       "urls": {
         "netlabel_archive": "https://netlabelarchive.org/netlabels/cutoff/"
       },
-      "genres": [
-        "Hip-Hop",
-        "Drum n Bass",
-        "House"
-      ],
+      "genres": ["Hip-Hop", "Drum n Bass", "House"],
       "activity_state": "inactive",
       "years_active": "1997"
     },
@@ -6613,13 +5194,8 @@
       "urls": {
         "netlabel_archive": "https://netlabelarchive.org/netlabels/darkwingduck-records/"
       },
-      "countries": [
-        "Ukraine"
-      ],
-      "genres": [
-        "8-Bit",
-        "Chiptune"
-      ],
+      "countries": ["Ukraine"],
+      "genres": ["8-Bit", "Chiptune"],
       "label_name": "DarkWingDuck Records",
       "activity_state": "inactive",
       "years_active": "2006-2013"
@@ -6660,12 +5236,8 @@
       "urls": {
         "netlabel_archive": "https://netlabelarchive.org/netlabels/dewtone/"
       },
-      "countries": [
-        "Canada"
-      ],
-      "genres": [
-        "Ambient"
-      ],
+      "countries": ["Canada"],
+      "genres": ["Ambient"],
       "label_name": "Dewtone",
       "activity_state": "inactive",
       "years_active": "2004-2005"
@@ -6835,12 +5407,8 @@
       "urls": {
         "netlabel_archive": "https://netlabelarchive.org/netlabels/eclectro/"
       },
-      "countries": [
-        "United States"
-      ],
-      "genres": [
-        "Electro"
-      ],
+      "countries": ["United States"],
+      "genres": ["Electro"],
       "label_name": "Eclectro",
       "activity_state": "inactive",
       "years_active": "2004"
@@ -6991,14 +5559,8 @@
         "netlabel_archive": "https://netlabelarchive.org/netlabels/fairlight-music/",
         "scene_org": "https://files.scene.org/browse/music/groups/fairlight/"
       },
-      "countries": [
-        "United Kingdom"
-      ],
-      "genres": [
-        "IDM",
-        "Downtempo",
-        "Chiptune"
-      ],
+      "countries": ["United Kingdom"],
+      "genres": ["IDM", "Downtempo", "Chiptune"],
       "label_name": "Fairlight Music",
       "activity_state": "inactive",
       "years_active": "2001-2003"
@@ -7070,13 +5632,8 @@
       "urls": {
         "netlabel_archive": "https://netlabelarchive.org/netlabels/file-freakout/"
       },
-      "countries": [
-        "United States"
-      ],
-      "genres": [
-        "8-Bit",
-        "Chiptune"
-      ],
+      "countries": ["United States"],
+      "genres": ["8-Bit", "Chiptune"],
       "label_name": "File Freakout",
       "activity_state": "inactive",
       "years_active": "2007-2008"
@@ -7085,15 +5642,8 @@
       "urls": {
         "netlabel_archive": "https://netlabelarchive.org/netlabels/filtro/"
       },
-      "countries": [
-        "Mexico"
-      ],
-      "genres": [
-        "Techno",
-        "Minimal",
-        "IDM",
-        "Dub"
-      ],
+      "countries": ["Mexico"],
+      "genres": ["Techno", "Minimal", "IDM", "Dub"],
       "label_name": "Filtro",
       "activity_state": "inactive",
       "years_active": "2004-2007"
@@ -7102,14 +5652,8 @@
       "urls": {
         "netlabel_archive": "https://netlabelarchive.org/netlabels/five-musicians/"
       },
-      "countries": [
-        "Finland"
-      ],
-      "genres": [
-        "IDM",
-        "Downtempo",
-        "Ambient"
-      ],
+      "countries": ["Finland"],
+      "genres": ["IDM", "Downtempo", "Ambient"],
       "label_name": "Five Musicians",
       "activity_state": "inactive",
       "years_active": "1995-1999"
@@ -7195,13 +5739,8 @@
       "urls": {
         "netlabel_archive": "https://netlabelarchive.org/netlabels/fridge/"
       },
-      "countries": [
-        "Germany"
-      ],
-      "genres": [
-        "Techno",
-        "Trance"
-      ],
+      "countries": ["Germany"],
+      "genres": ["Techno", "Trance"],
       "label_name": "Fridge",
       "activity_state": "inactive",
       "years_active": "1999-2000"
@@ -7614,13 +6153,8 @@
         "internet_archive": "https://archive.org/details/knobs",
         "netlabel_archive": "https://netlabelarchive.org/netlabels/knobs/"
       },
-      "countries": [
-        "Lithuania"
-      ],
-      "genres": [
-        "Techno",
-        "Minimal"
-      ],
+      "countries": ["Lithuania"],
+      "genres": ["Techno", "Minimal"],
       "label_name": "Knobs",
       "activity_state": "inactive",
       "years_active": "2005-2011"
@@ -7713,14 +6247,8 @@
       "urls": {
         "homepage": "http://laminim.net/index2.html"
       },
-      "countries": [
-        "Germany"
-      ],
-      "genres": [
-        "IDM",
-        "Techno",
-        "Minimal"
-      ],
+      "countries": ["Germany"],
+      "genres": ["IDM", "Techno", "Minimal"],
       "label_name": "Laminim",
       "activity_state": "inactive",
       "years_active": "2005-2006"
@@ -7904,13 +6432,8 @@
       "urls": {
         "netlabel_archive": "https://netlabelarchive.org/netlabels/maito-records/"
       },
-      "countries": [
-        "Finland"
-      ],
-      "genres": [
-        "Ambient",
-        "Electro"
-      ],
+      "countries": ["Finland"],
+      "genres": ["Ambient", "Electro"],
       "label_name": "Maito Records",
       "activity_state": "inactive",
       "years_active": "2011"
@@ -7975,14 +6498,8 @@
       "urls": {
         "netlabel_archive": "https://netlabelarchive.org/netlabels/milk/"
       },
-      "countries": [
-        "Finland"
-      ],
-      "genres": [
-        "IDM",
-        "Electro",
-        "Ambient"
-      ],
+      "countries": ["Finland"],
+      "genres": ["IDM", "Electro", "Ambient"],
       "label_name": "Milk",
       "activity_state": "inactive",
       "years_active": "1998-2001"
@@ -8028,10 +6545,7 @@
         "netlabel_archive": "https://netlabelarchive.org/netlabels/monotonik/",
         "internet_archive": "https://archive.org/details/monotonik"
       },
-      "countries": [
-        "United Kingdom",
-        "United States"
-      ],
+      "countries": ["United Kingdom", "United States"],
       "genres": [
         "IDM",
         "Downtempo",
@@ -8056,15 +6570,8 @@
         "netlabel_archive": "https://netlabelarchive.org/netlabels/mp3death/",
         "internet_archive": "https://archive.org/details/mp3death"
       },
-      "countries": [
-        "United States"
-      ],
-      "genres": [
-        "Chiptune",
-        "8-Bit",
-        "Experimental",
-        "Noise"
-      ],
+      "countries": ["United States"],
+      "genres": ["Chiptune", "8-Bit", "Experimental", "Noise"],
       "label_name": "mp3death",
       "activity_state": "inactive",
       "years_active": "2003-2013, 2018"
@@ -8087,14 +6594,8 @@
       "urls": {
         "netlabel_archive": "https://netlabelarchive.org/netlabels/natural-media/"
       },
-      "countries": [
-        "Argentina"
-      ],
-      "genres": [
-        "Ambient",
-        "Experimental",
-        "IDM"
-      ],
+      "countries": ["Argentina"],
+      "genres": ["Ambient", "Experimental", "IDM"],
       "label_name": "Natural Media",
       "activity_state": "inactive",
       "years_active": "2005-2009"
@@ -8110,14 +6611,8 @@
       "urls": {
         "netlabel_archive": "https://netlabelarchive.org/netlabels/noiz-phaktah/"
       },
-      "countries": [
-        "Australia"
-      ],
-      "genres": [
-        "Breakcore",
-        "Hardcore",
-        "IDM"
-      ],
+      "countries": ["Australia"],
+      "genres": ["Breakcore", "Hardcore", "IDM"],
       "label_name": "Noiz Phaktah",
       "activity_state": "inactive",
       "years_active": "2001-2002"
@@ -8147,13 +6642,8 @@
       "urls": {
         "netlabel_archive": "https://netlabelarchive.org/netlabels/nubiproof/"
       },
-      "countries": [
-        "Germany"
-      ],
-      "genres": [
-        "Electro",
-        "IDM"
-      ],
+      "countries": ["Germany"],
+      "genres": ["Electro", "IDM"],
       "label_name": "Nubiproof",
       "activity_state": "inactive",
       "years_active": "2001-2002"
@@ -8170,13 +6660,8 @@
         "netlabel_archive": "https://netlabelarchive.org/netlabels/ogredung/",
         "internet_archive": "https://archive.org/details/ogredung"
       },
-      "countries": [
-        "Italy"
-      ],
-      "genres": [
-        "IDM",
-        "Electro"
-      ],
+      "countries": ["Italy"],
+      "genres": ["IDM", "Electro"],
       "label_name": "Ogredung",
       "activity_state": "inactive",
       "years_active": "2001-2007"
@@ -8185,13 +6670,8 @@
       "urls": {
         "netlabel_archive": "https://netlabelarchive.org/netlabels/one/"
       },
-      "countries": [
-        "United States"
-      ],
-      "genres": [
-        "IDM",
-        "Electro"
-      ],
+      "countries": ["United States"],
+      "genres": ["IDM", "Electro"],
       "label_name": "One",
       "activity_state": "inactive",
       "years_active": "2004-2007"
@@ -8229,12 +6709,8 @@
         "netlabel_archive": "https://netlabelarchive.org/netlabels/petite-and-jolie/",
         "internet_archive": "https://archive.org/details/petitejolie"
       },
-      "countries": [
-        "France"
-      ],
-      "genres": [
-        "IDM"
-      ],
+      "countries": ["France"],
+      "genres": ["IDM"],
       "label_name": "Petite&Jolie",
       "activity_state": "inactive",
       "years_active": "2007-2010"
@@ -8320,9 +6796,7 @@
       "urls": {
         "netlabel_archive": "https://netlabelarchive.org/netlabels/randomplayingrecords/"
       },
-      "genres": [
-        "IDM"
-      ],
+      "genres": ["IDM"],
       "label_name": "Random Playing Records",
       "activity_state": "inactive",
       "years_active": "1998"
@@ -8513,14 +6987,8 @@
       "urls": {
         "netlabel_archive": "https://netlabelarchive.org/netlabels/voodoo/"
       },
-      "countries": [
-        "Finland"
-      ],
-      "genres": [
-        "IDM",
-        "Downtempo",
-        "Hip-Hop"
-      ],
+      "countries": ["Finland"],
+      "genres": ["IDM", "Downtempo", "Hip-Hop"],
       "label_name": "Voodoo",
       "activity_state": "inactive",
       "years_active": "1997-2002"
@@ -8529,15 +6997,8 @@
       "urls": {
         "netlabel_archive": "https://netlabelarchive.org/netlabels/wtf-records/"
       },
-      "countries": [
-        "Japan"
-      ],
-      "genres": [
-        "Happy Hardcore",
-        "Gabber",
-        "Hardcore",
-        "Breakcore"
-      ],
+      "countries": ["Japan"],
+      "genres": ["Happy Hardcore", "Gabber", "Hardcore", "Breakcore"],
       "label_name": "W.T.F. Records",
       "activity_state": "inactive",
       "years_active": "2010-2013"
@@ -8547,13 +7008,8 @@
         "netlabel_archive": "https://netlabelarchive.org/netlabels/wasamix/",
         "internet_archive": "https://archive.org/details/wasamix"
       },
-      "countries": [
-        "United Kingdom"
-      ],
-      "genres": [
-        "House",
-        "Ambient"
-      ],
+      "countries": ["United Kingdom"],
+      "genres": ["House", "Ambient"],
       "label_name": "Wasamix",
       "activity_state": "inactive",
       "years_active": "2010"
@@ -8562,14 +7018,8 @@
       "urls": {
         "netlabel_archive": "https://netlabelarchive.org/netlabels/weltherrschaft/"
       },
-      "countries": [
-        "Germany"
-      ],
-      "genres": [
-        "Techno",
-        "IDM",
-        "Drum n Bass"
-      ],
+      "countries": ["Germany"],
+      "genres": ["Techno", "IDM", "Drum n Bass"],
       "label_name": "Weltherrschaft",
       "activity_state": "inactive",
       "years_active": "2002-2003"
