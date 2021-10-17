@@ -2550,6 +2550,26 @@
     },
     {
       "urls": {
+        "twitter": "https://twitter.com/NulTiel_Records",
+        "free_music_archive": "https://freemusicarchive.org/label/Nul_Tiel_Records",
+        "bandcamp": "https://nultielrecords.bandcamp.com/",
+        "soundcloud": "https://soundcloud.com/user-106373083",
+        "homepage": "https://nultielrecords.blogspot.com"
+      },
+      "genres": [
+        "Ambient",
+        "Electronica",
+        "House",
+        "Techno",
+        "Experimental Electronic",
+        "Minimal"
+      ],
+      "countries": ["England"],
+      "label_name": "Nul Tiel Records",
+      "activity_state": "active"
+    },
+    {
+      "urls": {
         "release_rss": "https://archive.org/services/collection-rss.php?collection=num-num-nah-records",
         "homepage": "https://archive.org/details/num-num-nah-records"
       },
