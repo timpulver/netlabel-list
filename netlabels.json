@@ -1429,6 +1429,16 @@
     },
     {
       "urls": {
+        "internet_archive": "https://archive.org/details/fullmoon-records",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=fullmoon-records"
+      },
+      "genres": ["Electronic", "Ambient"],
+      "countries": ["Germany"],
+      "label_name": "Fullmoon Records",
+      "activity_state": "active"
+    },
+    {
+      "urls": {
         "rss": "https://fusionnetlabel.wordpress.com/feed/",
         "internet_archive": "https://archive.org/details/fusion-netlabel",
         "release_rss": "https://archive.org/services/collection-rss.php?collection=fusion-netlabel&query=%28Fusion%20Netlabel%29%20AND%20-mediatype%3Acollection",
