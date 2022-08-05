@@ -1122,6 +1122,21 @@
     },
     {
       "urls": {
+        "internet_archive": "https://archive.org/details/dr-noisem-tapes-netlabel",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=dr-noisem-tapes-netlabel"
+      },
+      "label_name": "Dr. NoiseM Tapes",
+      "genres": [
+        "Experimental",
+        "Noise"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "activity_state": "active"
+    },
+    {
+      "urls": {
         "bandcamp": "https://dubophonic.bandcamp.com/",
         "twitter": "https://twitter.com/Dubophonic",
         "rss": "http://feeds.feedburner.com/Dubophonic",
@@ -1406,6 +1421,18 @@
     },
     {
       "urls": {
+        "internet_archive": "https://archive.org/details/eyes-wide-open-records-netlabel",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=eyes-wide-open-records-netlabel"
+      },
+      "label_name": "Eyes Wide Open Records",
+      "genres": [
+        "Dub Techno",
+        "Armchair Techno"
+      ],
+      "activity_state": "active"
+    },
+    {
+      "urls": {
         "internet_archive": "https://archive.org/details/forkandsouprecords"
       },
       "genres": ["Electronic"],
@@ -1425,6 +1452,19 @@
       "genres": ["Ambient"],
       "countries": ["United States"],
       "label_name": "Free Floating Music",
+      "activity_state": "active"
+    },
+    {
+      "urls": {
+        "internet_archive": "https://archive.org/details/fresscode-records-netlabel",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=fresscode-records-netlabel"
+      },
+      "label_name": "Fresscode Records",
+      "countries": ["Germany"],
+      "genres": [
+        "Techno",
+        "Hard Techno"
+      ],
       "activity_state": "active"
     },
     {
@@ -2536,6 +2576,22 @@
     },
     {
       "urls": {
+        "internet_archive": "https://archive.org/details/nuke-the-planet-netlabel",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=nuke-the-planet-netlabel"
+      },
+      "label_name": "Nuke The Planet",
+      "genres": [
+        "Hardcore",
+        "Gabber",
+        "Speedcore"
+      ],
+      "countries": [
+        "Germany"
+      ],
+      "activity_state": "active"
+    },
+    {
+      "urls": {
         "twitter": "https://twitter.com/NulogicNetlabel",
         "release_rss": "https://archive.org/services/collection-rss.php?collection=nulogic-netlabel",
         "internet_archive": "https://archive.org/details/nulogic-netlabel",
@@ -2878,6 +2934,21 @@
       "genres": ["Psy-Trance"],
       "countries": ["Germany"],
       "label_name": "Psy-Dance-Global Records",
+      "activity_state": "active"
+    },
+    {
+      "urls": {
+        "internet_archive": "https://archive.org/details/psychocandies-netlabel",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=psychocandies-netlabel"
+      },
+      "label_name": "Psychocandies",
+      "genres": [
+        "Techno",
+        "Acid"
+      ],
+      "countries": [
+        "Germany"
+      ],
       "activity_state": "active"
     },
     {
@@ -3995,6 +4066,15 @@
     },
     {
       "urls": {
+        "internet_archive": "https://archive.org/details/xdd-x-static-dance-departement-netlabel",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=xdd-x-static-dance-departement-netlabel"
+      },
+      "label_name": "X.D.D. X-static Dance Departement",
+      "genres": [],
+      "activity_state": "active"
+    },
+    {
+      "urls": {
         "bandcamp": "https://xylemrecords.bandcamp.com/",
         "twitter": "https://twitter.com/XylemRecords",
         "facebook": "https://www.facebook.com/pages/xylem-records/511021242296313",
@@ -4076,6 +4156,18 @@
       "genres": ["Electronic"],
       "countries": ["Germany"],
       "label_name": "YUYAY Records",
+      "activity_state": "active"
+    },
+    {
+      "urls": {
+        "internet_archive": "https://archive.org/details/zarkon-records",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=zarkon-records"
+      },
+      "label_name": "Zarkon Records",
+      "genres": [
+        "Techno",
+        "Minimal Techno"
+      ],
       "activity_state": "active"
     },
     {
@@ -5403,6 +5495,22 @@
         "homepage": "http://dubkey.com/"
       },
       "label_name": "Dubkey",
+      "activity_state": "inactive"
+    },
+    {
+      "urls": {
+        "homepage": "http://duststreamrecords.blogspot.com/"
+      },
+      "label_name": "Dust Stream Records",
+      "genres": [
+        "IDM",
+        "Glitch",
+        "Techno",
+        "Electronica",
+        "Minimal",
+        "Acid",
+        "Experimental"
+      ],
       "activity_state": "inactive"
     },
     {
