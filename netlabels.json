@@ -16,7 +16,7 @@
       "genres": ["Chiptune", "Electronic", "Pop"],
       "countries": ["Japan"],
       "label_name": "16 Dimensional",
-      "activity_state": "active"
+      "activity_state": "inactive"
     },
     {
       "urls": {
@@ -57,7 +57,7 @@
       "genres": ["Alternative", "Indie", "Pop", "Rock"],
       "countries": ["Sweden"],
       "label_name": "23 Seconds",
-      "activity_state": "active"
+      "activity_state": "inactive"
     },
     {
       "urls": {
@@ -147,7 +147,7 @@
       "genres": ["Experimental", "Noise"],
       "countries": ["Mexico"],
       "label_name": "A.M.P-RECS",
-      "activity_state": "active"
+      "activity_state": "inactive"
     },
     {
       "urls": {
@@ -160,7 +160,7 @@
       "genres": ["Electronic"],
       "countries": ["Germany"],
       "label_name": "aaahh records",
-      "activity_state": "active"
+      "activity_state": "inactive"
     },
     {
       "urls": {
@@ -174,7 +174,7 @@
       "genres": ["Industrial", "Noise", "Ambient"],
       "countries": ["Bulgaria"],
       "label_name": "Abandonment",
-      "activity_state": "active"
+      "activity_state": "inactive"
     },
     {
       "urls": {
@@ -209,7 +209,7 @@
       ],
       "countries": ["Peru"],
       "label_name": "Achokcha Records",
-      "activity_state": "active"
+      "activity_state": "inactive"
     },
     {
       "urls": {
@@ -5786,6 +5786,16 @@
       "activity_state": "inactive",
       "years_active": "2004-2007"
     },
+    {
+      "urls": {
+        "netlabel_archive": "https://archive.org/details/fischfresse",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=fischfresse",
+      },
+      "countries": ["Germany"],
+      "genres": ["Trance", "Melodic", "Techno", "Psy-Trance"],
+      "label_name": "Fischfresse",
+      "activity_state": "active"
+    }
     {
       "urls": {
         "netlabel_archive": "https://netlabelarchive.org/netlabels/five-musicians/"
