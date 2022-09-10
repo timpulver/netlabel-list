@@ -5789,13 +5789,13 @@
     {
       "urls": {
         "netlabel_archive": "https://archive.org/details/fischfresse",
-        "release_rss": "https://archive.org/services/collection-rss.php?collection=fischfresse",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=fischfresse"
       },
       "countries": ["Germany"],
       "genres": ["Trance", "Melodic", "Techno", "Psy-Trance"],
       "label_name": "Fischfresse",
       "activity_state": "active"
-    }
+    },
     {
       "urls": {
         "netlabel_archive": "https://netlabelarchive.org/netlabels/five-musicians/"
