@@ -1962,7 +1962,7 @@
     {
       "urls": {
         "twitter": "https://twitter.com/kreislauf_hh",
-        "release_rss": "https://kreislauf.org/feed/",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=kreislauf",
         "internet_archive": "https://archive.org/details/kreislauf",
         "facebook": "https://www.facebook.com/kreislauf.organization",
         "soundcloud": "https://soundcloud.com/kreislauf",
