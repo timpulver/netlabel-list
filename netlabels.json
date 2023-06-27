@@ -3346,13 +3346,12 @@
     {
       "urls": {
         "free_music_archive": "http://freemusicarchive.org/label/southerncitylab/",
-        "bandcamp": "http://store.southerncitylab.net/music",
+        "bandcamp": "https://southerncityslab.bandcamp.com",
         "twitter": "https://twitter.com/southerncitylab",
-        "release_rss": "http://www.southerncitylab.net/feeds/posts/default?alt=rss",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=southern-citys-lab",
         "internet_archive": "https://archive.org/details/southern-citys-lab",
         "facebook": "https://www.facebook.com/southerncitylab",
-        "soundcloud": "https://soundcloud.com/noisemaxim",
-        "homepage": "http://www.southerncitylab.net/"
+        "soundcloud": "https://soundcloud.com/noisemaxim"
       },
       "genres": ["Punk"],
       "countries": ["Russia"],
