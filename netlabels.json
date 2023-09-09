@@ -2637,7 +2637,6 @@
     {
       "urls": {
         "twitter": "https://twitter.com/o2label",
-        "release_rss": "https://archive.org/services/collection-rss.php?collection=o2label&query=%28o2%20label%29%20AND%20-mediatype%3Acollection",
         "internet_archive": "https://archive.org/details/o2label",
         "facebook": "https://www.facebook.com/pages/O2-label/158898897602885",
         "homepage": "http://o2label.ru/"
