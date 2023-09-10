@@ -1122,6 +1122,15 @@
     },
     {
       "urls": {
+        "bandcamp": "https://dotsandchords.bandcamp.com/"
+      },
+      "label_name": "dots and chords",
+      "genres": ["Dub Techno", "Dub", "Techno"],
+      "countries": ["Germany"],
+      "activity_state": "active"
+    },
+    {
+      "urls": {
         "internet_archive": "https://archive.org/details/dr-noisem-tapes-netlabel",
         "release_rss": "https://archive.org/services/collection-rss.php?collection=dr-noisem-tapes-netlabel"
       },
