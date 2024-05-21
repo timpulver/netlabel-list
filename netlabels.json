@@ -427,6 +427,19 @@
     },
     {
       "urls": {
+        "homepage": "https://argalirecordsnetlabel.com",
+        "facebook": "https://www.facebook.com/argalirecordsnetlabel/",
+        "bandcamp": "https://argalirecordsnetlabel.bandcamp.com/",
+        "internet_archive": "https://archive.org/details/argali-records",
+        "release_rss": "https://archive.org/services/collection-rss.php?collection=argali-records"
+      },
+      "genres": ["Electronic", "Experimental", "Avantgarde", "Industrial", "Drone"],
+      "countries": ["United States"],
+      "label_name": "Argali Records",
+      "activity_state": "active"
+    },
+    {
+      "urls": {
         "twitter": "https://twitter.com/articonetlabel",
         "facebook": "https://www.facebook.com/articonetlabel",
         "soundcloud": "https://soundcloud.com/articonetlabel",
