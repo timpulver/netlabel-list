@@ -212,10 +212,9 @@
     {
       "urls": {
         "twitter": "https://twitter.com/acustronica",
-        "rss": "http://www.acustronica.com/feed.xml",
         "facebook": "https://www.facebook.com/acustronica",
         "soundcloud": "https://soundcloud.com/acustronica",
-        "homepage": "http://www.acustronica.com/"
+        "bandcamp": "https://acustronica.bandcamp.com"
       },
       "genres": ["Electronic"],
       "countries": ["Italy"],
