@@ -235,7 +235,6 @@
     },
     {
       "urls": {
-        "rss": "http://www.aldenterecords.com/feed/",
         "facebook": "https://www.facebook.com/al.rec.3",
         "soundcloud": "https://soundcloud.com/al-dente-records",
         "homepage": "https://twitter.com/aldenterecords"
@@ -256,7 +255,7 @@
       "genres": ["Classical"],
       "countries": ["Italy"],
       "label_name": "AlchEmistica",
-      "activity_state": "active"
+      "activity_state": "inactive"
     },
     {
       "urls": {
@@ -322,7 +321,8 @@
     },
     {
       "urls": {
-        "homepage": " http://vk.com/angry_arnold_records "
+        "homepage": " http://vk.com/angry_arnold_records ",
+        "internet_archive": "https://archive.org/details/angryarnoldrecords"
       },
       "genres": [],
       "countries": ["Russia"],
@@ -372,7 +372,7 @@
       "genres": ["Electronic"],
       "countries": ["Japan"],
       "label_name": "Anything Records",
-      "activity_state": "active"
+      "activity_state": "inactive"
     },
     {
       "urls": {
@@ -386,17 +386,13 @@
     {
       "urls": {
         "twitter": "https://twitter.com/aReWrecordings",
-        "rss": "http://arewrecordings.blogspot.com/feeds/posts/default?alt=rss",
         "release_rss": "https://archive.org/services/collection-rss.php?collection=aReWrecordings",
-        "internet_archive": "https://archive.org/details/aReWrecordings",
-        "facebook": "https://www.facebook.com/aReWrecordings",
-        "soundcloud": "https://soundcloud.com/arew-recordings",
-        "homepage": "http://www.arewrecordings.com/"
+        "internet_archive": "https://archive.org/details/aReWrecordings"
       },
       "genres": ["Experimental", "Electronic"],
       "countries": ["England"],
       "label_name": "aReW recordings",
-      "activity_state": "active"
+      "activity_state": "inactive"
     },
     {
       "urls": {
@@ -662,15 +658,13 @@
     },
     {
       "urls": {
-        "rss": "http://breathecompilations.org/feed/",
-        "facebook": "https://www.facebook.com/breathe.compilations",
         "soundcloud": "https://soundcloud.com/breathe",
-        "homepage": "http://breathecompilations.org/"
+        "internet_archive": "https://archive.org/details/breathe-compilations"
       },
       "genres": ["Ambient", "Electronic"],
       "countries": ["Mexico"],
       "label_name": "Breathe Compilations",
-      "activity_state": "active"
+      "activity_state": "inactive"
     },
     {
       "urls": {
@@ -801,13 +795,12 @@
       "urls": {
         "rss": "http://chabanes-rds.blogspot.com/feeds/posts/default?alt=rss",
         "internet_archive": "https://archive.org/details/@dale_crover",
-        "facebook": "https://www.facebook.com/Chabanesrecords",
-        "homepage": "http://chabanesrds.perso.sfr.fr/"
+        "homepage": "http://chabanes-rds.blogspot.com"
       },
       "genres": ["Metal", "Grunge", "Post Rock"],
       "countries": ["France"],
       "label_name": "Chabane’s Records",
-      "activity_state": "active"
+      "activity_state": "inactive"
     },
     {
       "urls": {
@@ -821,7 +814,7 @@
       "genres": ["Techno"],
       "countries": ["Spain"],
       "label_name": "Cicuta",
-      "activity_state": "active"
+      "activity_state": "inactive"
     },
     {
       "urls": {
