@@ -861,34 +861,25 @@
       "activity_state": "active"
     },
     {
-      "urls": {
-        "rss": "http://www.comarecordz.com/feeds/posts/default?alt=rss",
-        "homepage": "http://www.comarecordz.com/"
-      },
       "genres": ["Electronic"],
       "countries": ["United States"],
       "label_name": "cOmaRecOrdz",
-      "activity_state": "active"
+      "activity_state": "inactive"
     },
     {
-      "urls": {
-        "homepage": "http://www.con-v.org/"
-      },
       "genres": ["Classical", "Electronic", "Ambient"],
       "countries": ["Lithuania"],
       "label_name": "con-v",
-      "activity_state": "active"
+      "activity_state": "inactive"
     },
     {
       "urls": {
-        "rss": "http://www.controlvalve.net/blog/rss.xml",
-        "internet_archive": "https://archive.org/details/@heinrich",
-        "homepage": "http://www.controlvalve.net/"
+        "internet_archive": "https://archive.org/details/@heinrich"
       },
       "genres": ["Experimental", "Noise"],
       "countries": ["United States"],
       "label_name": "Control Valve",
-      "activity_state": "active"
+      "activity_state": "inactive"
     },
     {
       "urls": {
@@ -945,13 +936,12 @@
     {
       "urls": {
         "release_rss": "https://archive.org/services/collection-rss.php?collection=cyclene",
-        "internet_archive": "https://archive.org/details/cyclene",
-        "homepage": "http://www.cyclene.com/main/"
+        "internet_archive": "https://archive.org/details/cyclene"
       },
       "genres": ["Electronic"],
       "countries": ["United States"],
       "label_name": "Cyclene",
-      "activity_state": "active"
+      "activity_state": "inactive"
     },
     {
       "urls": {
@@ -960,7 +950,7 @@
         "rss": "http://feeds.feedburner.com/dhr-news-en",
         "facebook": "https://www.facebook.com/dahearditrecords",
         "soundcloud": "https://soundcloud.com/daheardit-records",
-        "homepage": "http://www.daheardit-records.net/en/"
+        "bandcamp": "https://dahearditrecords.bandcamp.com"
       },
       "genres": ["Ambient", "Electronic"],
       "countries": ["France"],
@@ -996,11 +986,9 @@
     {
       "urls": {
         "twitter": "https://twitter.com/deepx",
-        "rss": "http://www.deepxrec.com/feed/",
         "release_rss": "https://archive.org/services/collection-rss.php?collection=deepxrec",
         "internet_archive": "https://archive.org/details/deepxrec",
-        "facebook": "https://www.facebook.com/deepxrec",
-        "homepage": "http://www.deepxrec.com/"
+        "facebook": "https://www.facebook.com/deepxrec"
       },
       "genres": ["Techno", "House"],
       "countries": ["Russia"],
@@ -1022,7 +1010,7 @@
       "urls": {
         "twitter": "https://twitter.com/depthrecordings",
         "facebook": "https://www.facebook.com/Depthrecordings",
-        "homepage": "http://depthrecordings.org/site/"
+        "homepage": "http://depthrecordings.org/"
       },
       "genres": ["Techno"],
       "countries": ["United States"],
@@ -1045,14 +1033,12 @@
     },
     {
       "urls": {
-        "twitter": "https://twitter.com/diavolettolabel",
-        "facebook": "https://www.facebook.com/diavoletto.netlabel",
-        "homepage": "http://www.diavolettolabel.com/"
+        "twitter": "https://twitter.com/diavolettolabel"
       },
       "genres": ["Rock", "Indie"],
       "countries": ["Italy"],
-      "label_name": "Diavoletto Netlab",
-      "activity_state": "active"
+      "label_name": "Diavoletto Netlabel",
+      "activity_state": "inactive"
     },
     {
       "urls": {
@@ -1079,15 +1065,13 @@
     },
     {
       "urls": {
-        "twitter": "https://twitter.com/DIYchurch",
         "release_rss": "https://archive.org/services/collection-rss.php?collection=diy-church",
-        "internet_archive": "https://archive.org/details/diy-church",
-        "homepage": "http://www.diychurch.org/"
+        "internet_archive": "https://archive.org/details/diy-church"
       },
       "genres": ["Experimental"],
       "countries": ["Germany"],
       "label_name": "DIY Church",
-      "activity_state": "active"
+      "activity_state": "inactive"
     },
     {
       "urls": {
@@ -1099,17 +1083,16 @@
       "genres": ["Drone", "Noise", "Ambient"],
       "countries": ["Russia"],
       "label_name": "DNA Production",
-      "activity_state": "active"
+      "activity_state": "inactive"
     },
     {
       "urls": {
-        "facebook": "https://www.facebook.com/netlabel.docil",
-        "homepage": "http://docilnetlabel.blogspot.com/"
+        "facebook": "https://www.facebook.com/netlabel.docil"
       },
       "genres": ["Electronic"],
       "countries": ["Argentina"],
       "label_name": "docil",
-      "activity_state": "active"
+      "activity_state": "inactive"
     },
     {
       "urls": {
@@ -1882,6 +1865,20 @@
       "genres": ["Electronica"],
       "countries": ["Bulgaria", "Netherlands"],
       "label_name": "Jisatsuken",
+      "activity_state": "active"
+    },
+    {
+      "urls": {
+        "bandcamp": "https://jumpsuitrecords.bandcamp.com",
+        "soundcloud": "https://soundcloud.com/jumpsuit-records",
+        "facebook": "https://facebook.com/jumpsuitrecords",
+        "instagram": "http://instagram.com/jumpsuitrecords",
+        "youtube": "https://www.youtube.com/channel/UC8rnUPSZjZqkNV-ZImRi40w",
+        "homepage": "https://jumpsuitrecords.com"
+      },
+      "countries": ["United States"],
+      "genres": ["Electronic", "Trip-Hop", "Hip-Hop", "Folk", "Pop"],
+      "label_name": "Jumpsuit Records",
       "activity_state": "active"
     },
     {
