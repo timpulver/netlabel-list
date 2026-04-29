@@ -8355,6 +8355,26 @@
         },
         {
             "urls": {
+                "homepage": "https://nucleoroto.org",
+                "instagram": "https://www.instagram.com/nucleoroto",
+                "bandcamp": "https://nucleoroto.bandcamp.com/",
+                "soundcloud": "http://soundcloud.com/nucleoroto"
+            },
+            "countries": [
+                "Mexico"
+            ],
+            "genres": [
+                "Breakcore",
+                "Industrial",
+                "Mutant Electronica",
+                "Coding",
+                "Sound Synthesis"
+            ],
+            "label_name": "Nucleoroto",
+            "activity_state": "active"
+        },
+        {
+            "urls": {
                 "internet_archive": "http://www.archive.org/details/nullrepublik"
             },
             "label_name": "NullRepublick Records",
