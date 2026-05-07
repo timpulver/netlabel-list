@@ -3875,9 +3875,10 @@
         },
         {
             "urls": {
+                "homepage": "http://postmoderncore.com/",
                 "facebook": "https://www.facebook.com/postmoderncore",
                 "soundcloud": "https://soundcloud.com/postmoderncore",
-                "homepage": "http://postmoderncore.com/"
+                "bandcamp": "https://postmoderncore.bandcamp.com"
             },
             "genres": [
                 "Electronic"
