@@ -3875,7 +3875,6 @@
         },
         {
             "urls": {
-                "twitter": "https://twitter.com/postmoderncore",
                 "facebook": "https://www.facebook.com/postmoderncore",
                 "soundcloud": "https://soundcloud.com/postmoderncore",
                 "homepage": "http://postmoderncore.com/"
@@ -3884,7 +3883,7 @@
                 "Electronic"
             ],
             "countries": [
-                "United States"
+                "New Zealand"
             ],
             "label_name": "Postmoderncore",
             "activity_state": "active"
